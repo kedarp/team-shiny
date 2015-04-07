@@ -1,0 +1,2191 @@
+DATE By Day,DATE,BOROUGH,NUMBER OF PERSONS INJURED,NUMBER OF PERSONS KILLED,NUMBER OF PEDESTRIANS INJURED,NUMBER OF PEDESTRIANS KILLED,NUMBER OF CYCLIST INJURED,NUMBER OF CYCLIST KILLED,NUMBER OF MOTORIST INJURED,NUMBER OF MOTORIST KILLED,NYPD_MOTOR_VEHICLE_COLLISON_2014,WeekEnd Flag,WRK_WKEND_HOLIDAY
+"Wednesday, January 1, 2014",01/01/14,,56,1,2,0,0,0,54,1,88,Work day,New Year’s Day
+"Wednesday, January 1, 2014",01/01/14,BRONX,17,0,3,0,0,0,14,0,37,Work day,New Year’s Day
+"Wednesday, January 1, 2014",01/01/14,BROOKLYN,35,0,7,0,0,0,28,0,92,Work day,New Year’s Day
+"Wednesday, January 1, 2014",01/01/14,MANHATTAN,23,0,9,0,1,0,13,0,76,Work day,New Year’s Day
+"Wednesday, January 1, 2014",01/01/14,QUEENS,24,0,2,0,1,0,21,0,89,Work day,New Year’s Day
+"Wednesday, January 1, 2014",01/01/14,STATEN ISLAND,10,1,1,0,0,0,9,1,17,Work day,New Year’s Day
+"Thursday, January 2, 2014",01/02/14,,18,1,2,0,0,0,16,1,153,Work day,Work day
+"Thursday, January 2, 2014",01/02/14,BRONX,14,1,4,1,0,0,10,0,55,Work day,Work day
+"Thursday, January 2, 2014",01/02/14,BROOKLYN,45,1,16,1,0,0,29,0,153,Work day,Work day
+"Thursday, January 2, 2014",01/02/14,MANHATTAN,13,0,9,0,0,0,4,0,91,Work day,Work day
+"Thursday, January 2, 2014",01/02/14,QUEENS,26,0,3,0,0,0,23,0,117,Work day,Work day
+"Thursday, January 2, 2014",01/02/14,STATEN ISLAND,5,0,2,0,0,0,3,0,34,Work day,Work day
+"Friday, January 3, 2014",01/03/14,,13,0,1,0,0,0,12,0,105,Work day,Work day
+"Friday, January 3, 2014",01/03/14,BRONX,5,0,0,0,0,0,5,0,57,Work day,Work day
+"Friday, January 3, 2014",01/03/14,BROOKLYN,4,0,2,0,0,0,2,0,93,Work day,Work day
+"Friday, January 3, 2014",01/03/14,MANHATTAN,8,0,4,0,1,0,3,0,69,Work day,Work day
+"Friday, January 3, 2014",01/03/14,QUEENS,14,0,2,0,0,0,12,0,82,Work day,Work day
+"Friday, January 3, 2014",01/03/14,STATEN ISLAND,2,0,0,0,0,0,2,0,17,Work day,Work day
+"Saturday, January 4, 2014",01/04/14,,25,0,4,0,0,0,21,0,115,Weekend,Weekend
+"Saturday, January 4, 2014",01/04/14,BRONX,15,0,4,0,0,0,11,0,40,Weekend,Weekend
+"Saturday, January 4, 2014",01/04/14,BROOKLYN,31,0,8,0,0,0,23,0,103,Weekend,Weekend
+"Saturday, January 4, 2014",01/04/14,MANHATTAN,6,0,4,0,1,0,1,0,58,Weekend,Weekend
+"Saturday, January 4, 2014",01/04/14,QUEENS,12,0,7,0,0,0,5,0,88,Weekend,Weekend
+"Saturday, January 4, 2014",01/04/14,STATEN ISLAND,2,0,1,0,0,0,1,0,14,Weekend,Weekend
+"Sunday, January 5, 2014",01/05/14,,18,0,1,0,0,0,17,0,81,Weekend,Weekend
+"Sunday, January 5, 2014",01/05/14,BRONX,11,0,0,0,0,0,11,0,26,Weekend,Weekend
+"Sunday, January 5, 2014",01/05/14,BROOKLYN,11,0,5,0,0,0,6,0,74,Weekend,Weekend
+"Sunday, January 5, 2014",01/05/14,MANHATTAN,4,0,2,0,1,0,1,0,43,Weekend,Weekend
+"Sunday, January 5, 2014",01/05/14,QUEENS,16,1,6,1,2,0,8,0,81,Weekend,Weekend
+"Sunday, January 5, 2014",01/05/14,STATEN ISLAND,3,0,0,0,0,0,3,0,15,Weekend,Weekend
+"Monday, January 6, 2014",01/06/14,,28,0,6,0,0,0,22,0,125,Work day,Work day
+"Monday, January 6, 2014",01/06/14,BRONX,10,0,1,0,0,0,9,0,47,Work day,Work day
+"Monday, January 6, 2014",01/06/14,BROOKLYN,36,1,14,1,4,0,18,0,144,Work day,Work day
+"Monday, January 6, 2014",01/06/14,MANHATTAN,20,0,8,0,4,0,8,0,97,Work day,Work day
+"Monday, January 6, 2014",01/06/14,QUEENS,10,0,5,0,0,0,5,0,87,Work day,Work day
+"Monday, January 6, 2014",01/06/14,STATEN ISLAND,7,0,0,0,0,0,7,0,17,Work day,Work day
+"Tuesday, January 7, 2014",01/07/14,,44,0,5,0,0,0,39,0,128,Work day,Work day
+"Tuesday, January 7, 2014",01/07/14,BRONX,12,0,3,0,0,0,9,0,44,Work day,Work day
+"Tuesday, January 7, 2014",01/07/14,BROOKLYN,18,0,8,0,0,0,10,0,112,Work day,Work day
+"Tuesday, January 7, 2014",01/07/14,MANHATTAN,16,0,8,0,2,0,6,0,91,Work day,Work day
+"Tuesday, January 7, 2014",01/07/14,QUEENS,27,0,12,0,1,0,14,0,100,Work day,Work day
+"Tuesday, January 7, 2014",01/07/14,STATEN ISLAND,2,0,0,0,0,0,2,0,16,Work day,Work day
+"Wednesday, January 8, 2014",01/08/14,,42,0,2,0,2,0,38,0,152,Work day,Work day
+"Wednesday, January 8, 2014",01/08/14,BRONX,9,0,6,0,0,0,3,0,49,Work day,Work day
+"Wednesday, January 8, 2014",01/08/14,BROOKLYN,31,0,12,0,1,0,18,0,143,Work day,Work day
+"Wednesday, January 8, 2014",01/08/14,MANHATTAN,19,0,11,0,1,0,7,0,99,Work day,Work day
+"Wednesday, January 8, 2014",01/08/14,QUEENS,48,0,12,0,0,0,36,0,150,Work day,Work day
+"Wednesday, January 8, 2014",01/08/14,STATEN ISLAND,6,0,0,0,0,0,6,0,23,Work day,Work day
+"Thursday, January 9, 2014",01/09/14,,21,0,8,0,0,0,13,0,131,Work day,Work day
+"Thursday, January 9, 2014",01/09/14,BRONX,14,0,6,0,0,0,8,0,57,Work day,Work day
+"Thursday, January 9, 2014",01/09/14,BROOKLYN,13,0,7,0,1,0,5,0,114,Work day,Work day
+"Thursday, January 9, 2014",01/09/14,MANHATTAN,21,0,14,0,1,0,6,0,120,Work day,Work day
+"Thursday, January 9, 2014",01/09/14,QUEENS,29,0,8,0,0,0,21,0,113,Work day,Work day
+"Thursday, January 9, 2014",01/09/14,STATEN ISLAND,2,0,1,0,0,0,1,0,26,Work day,Work day
+"Friday, January 10, 2014",01/10/14,,31,0,3,0,0,0,28,0,136,Work day,Work day
+"Friday, January 10, 2014",01/10/14,BRONX,42,0,5,0,0,0,37,0,74,Work day,Work day
+"Friday, January 10, 2014",01/10/14,BROOKLYN,70,0,25,0,2,0,43,0,154,Work day,Work day
+"Friday, January 10, 2014",01/10/14,MANHATTAN,15,2,10,2,2,0,3,0,138,Work day,Work day
+"Friday, January 10, 2014",01/10/14,QUEENS,29,0,14,0,1,0,14,0,143,Work day,Work day
+"Friday, January 10, 2014",01/10/14,STATEN ISLAND,4,1,2,0,0,0,2,1,22,Work day,Work day
+"Saturday, January 11, 2014",01/11/14,,33,0,8,0,0,0,25,0,96,Weekend,Weekend
+"Saturday, January 11, 2014",01/11/14,BRONX,16,1,9,1,0,0,7,0,51,Weekend,Weekend
+"Saturday, January 11, 2014",01/11/14,BROOKLYN,43,1,15,1,0,0,28,0,107,Weekend,Weekend
+"Saturday, January 11, 2014",01/11/14,MANHATTAN,25,0,15,0,1,0,9,0,90,Weekend,Weekend
+"Saturday, January 11, 2014",01/11/14,QUEENS,37,0,15,0,2,0,20,0,107,Weekend,Weekend
+"Saturday, January 11, 2014",01/11/14,STATEN ISLAND,3,0,1,0,0,0,2,0,14,Weekend,Weekend
+"Sunday, January 12, 2014",01/12/14,,23,0,7,0,0,0,16,0,90,Weekend,Weekend
+"Sunday, January 12, 2014",01/12/14,BRONX,4,0,2,0,0,0,2,0,25,Weekend,Weekend
+"Sunday, January 12, 2014",01/12/14,BROOKLYN,35,1,5,0,2,0,28,1,112,Weekend,Weekend
+"Sunday, January 12, 2014",01/12/14,MANHATTAN,13,0,5,0,1,0,7,0,78,Weekend,Weekend
+"Sunday, January 12, 2014",01/12/14,QUEENS,20,0,5,0,1,0,14,0,74,Weekend,Weekend
+"Sunday, January 12, 2014",01/12/14,STATEN ISLAND,1,0,1,0,0,0,0,0,10,Weekend,Weekend
+"Monday, January 13, 2014",01/13/14,,41,0,4,0,3,0,34,0,128,Work day,Work day
+"Monday, January 13, 2014",01/13/14,BRONX,21,0,2,0,1,0,18,0,62,Work day,Work day
+"Monday, January 13, 2014",01/13/14,BROOKLYN,50,0,13,0,3,0,34,0,158,Work day,Work day
+"Monday, January 13, 2014",01/13/14,MANHATTAN,14,0,2,0,0,0,12,0,91,Work day,Work day
+"Monday, January 13, 2014",01/13/14,QUEENS,35,0,7,0,1,0,27,0,113,Work day,Work day
+"Monday, January 13, 2014",01/13/14,STATEN ISLAND,3,0,2,0,0,0,1,0,15,Work day,Work day
+"Tuesday, January 14, 2014",01/14/14,,28,0,4,0,0,0,24,0,125,Work day,Work day
+"Tuesday, January 14, 2014",01/14/14,BRONX,28,0,11,0,0,0,17,0,55,Work day,Work day
+"Tuesday, January 14, 2014",01/14/14,BROOKLYN,44,0,13,0,2,0,29,0,120,Work day,Work day
+"Tuesday, January 14, 2014",01/14/14,MANHATTAN,31,0,21,0,0,0,10,0,115,Work day,Work day
+"Tuesday, January 14, 2014",01/14/14,QUEENS,49,0,19,0,5,0,25,0,127,Work day,Work day
+"Tuesday, January 14, 2014",01/14/14,STATEN ISLAND,6,0,2,0,0,0,4,0,16,Work day,Work day
+"Wednesday, January 15, 2014",01/15/14,,18,0,3,0,1,0,14,0,128,Work day,Work day
+"Wednesday, January 15, 2014",01/15/14,BRONX,13,0,4,0,1,0,8,0,76,Work day,Work day
+"Wednesday, January 15, 2014",01/15/14,BROOKLYN,41,0,9,0,5,0,27,0,118,Work day,Work day
+"Wednesday, January 15, 2014",01/15/14,MANHATTAN,18,0,5,0,0,0,13,0,131,Work day,Work day
+"Wednesday, January 15, 2014",01/15/14,QUEENS,23,0,9,0,1,0,13,0,102,Work day,Work day
+"Wednesday, January 15, 2014",01/15/14,STATEN ISLAND,5,0,2,0,0,0,3,0,28,Work day,Work day
+"Thursday, January 16, 2014",01/16/14,,30,0,5,0,0,0,25,0,122,Work day,Work day
+"Thursday, January 16, 2014",01/16/14,BRONX,18,0,6,0,0,0,12,0,37,Work day,Work day
+"Thursday, January 16, 2014",01/16/14,BROOKLYN,22,0,10,0,0,0,12,0,123,Work day,Work day
+"Thursday, January 16, 2014",01/16/14,MANHATTAN,37,0,13,0,4,0,20,0,132,Work day,Work day
+"Thursday, January 16, 2014",01/16/14,QUEENS,28,0,8,0,2,0,18,0,93,Work day,Work day
+"Thursday, January 16, 2014",01/16/14,STATEN ISLAND,6,0,3,0,1,0,2,0,14,Work day,Work day
+"Friday, January 17, 2014",01/17/14,,29,0,2,0,0,0,27,0,128,Work day,Work day
+"Friday, January 17, 2014",01/17/14,BRONX,14,0,8,0,1,0,5,0,42,Work day,Work day
+"Friday, January 17, 2014",01/17/14,BROOKLYN,42,0,14,0,1,0,27,0,127,Work day,Work day
+"Friday, January 17, 2014",01/17/14,MANHATTAN,16,1,6,0,3,0,7,1,130,Work day,Work day
+"Friday, January 17, 2014",01/17/14,QUEENS,30,0,10,0,2,0,18,0,136,Work day,Work day
+"Friday, January 17, 2014",01/17/14,STATEN ISLAND,8,0,1,0,0,0,7,0,26,Work day,Work day
+"Saturday, January 18, 2014",01/18/14,,28,2,0,2,0,0,28,0,100,Weekend,Weekend
+"Saturday, January 18, 2014",01/18/14,BRONX,12,0,5,0,0,0,7,0,45,Weekend,Weekend
+"Saturday, January 18, 2014",01/18/14,BROOKLYN,38,0,9,0,1,0,28,0,110,Weekend,Weekend
+"Saturday, January 18, 2014",01/18/14,MANHATTAN,18,0,4,0,2,0,12,0,79,Weekend,Weekend
+"Saturday, January 18, 2014",01/18/14,QUEENS,26,0,6,0,0,0,20,0,92,Weekend,Weekend
+"Saturday, January 18, 2014",01/18/14,STATEN ISLAND,8,0,1,0,0,0,7,0,22,Weekend,Weekend
+"Sunday, January 19, 2014",01/19/14,,36,0,0,0,0,0,36,0,102,Weekend,Weekend
+"Sunday, January 19, 2014",01/19/14,BRONX,20,0,0,0,0,0,20,0,34,Weekend,Weekend
+"Sunday, January 19, 2014",01/19/14,BROOKLYN,46,0,4,0,4,0,38,0,80,Weekend,Weekend
+"Sunday, January 19, 2014",01/19/14,MANHATTAN,10,2,4,1,0,1,6,0,62,Weekend,Weekend
+"Sunday, January 19, 2014",01/19/14,QUEENS,21,0,5,0,2,0,14,0,84,Weekend,Weekend
+"Sunday, January 19, 2014",01/19/14,STATEN ISLAND,1,0,1,0,0,0,0,0,18,Weekend,Weekend
+"Monday, January 20, 2014",01/20/14,,20,1,0,0,0,0,20,1,90,Work day,"Martin Luther King, Jr. birthday"
+"Monday, January 20, 2014",01/20/14,BRONX,7,0,3,0,1,0,3,0,36,Work day,"Martin Luther King, Jr. birthday"
+"Monday, January 20, 2014",01/20/14,BROOKLYN,19,0,4,0,2,0,13,0,75,Work day,"Martin Luther King, Jr. birthday"
+"Monday, January 20, 2014",01/20/14,MANHATTAN,16,0,7,0,1,0,8,0,68,Work day,"Martin Luther King, Jr. birthday"
+"Monday, January 20, 2014",01/20/14,QUEENS,9,0,1,0,1,0,7,0,78,Work day,"Martin Luther King, Jr. birthday"
+"Monday, January 20, 2014",01/20/14,STATEN ISLAND,1,0,1,0,0,0,0,0,13,Work day,"Martin Luther King, Jr. birthday"
+"Tuesday, January 21, 2014",01/21/14,,42,0,2,0,0,0,40,0,318,Work day,Work day
+"Tuesday, January 21, 2014",01/21/14,BRONX,31,0,8,0,0,0,23,0,132,Work day,Work day
+"Tuesday, January 21, 2014",01/21/14,BROOKLYN,41,0,14,0,1,0,26,0,254,Work day,Work day
+"Tuesday, January 21, 2014",01/21/14,MANHATTAN,23,0,8,0,1,0,14,0,160,Work day,Work day
+"Tuesday, January 21, 2014",01/21/14,QUEENS,28,0,7,0,0,0,21,0,248,Work day,Work day
+"Tuesday, January 21, 2014",01/21/14,STATEN ISLAND,3,0,0,0,0,0,3,0,49,Work day,Work day
+"Wednesday, January 22, 2014",01/22/14,,21,0,4,0,0,0,17,0,93,Work day,Work day
+"Wednesday, January 22, 2014",01/22/14,BRONX,4,0,4,0,0,0,0,0,34,Work day,Work day
+"Wednesday, January 22, 2014",01/22/14,BROOKLYN,22,0,4,0,0,0,18,0,130,Work day,Work day
+"Wednesday, January 22, 2014",01/22/14,MANHATTAN,12,0,4,0,1,0,7,0,120,Work day,Work day
+"Wednesday, January 22, 2014",01/22/14,QUEENS,12,0,0,0,0,0,12,0,102,Work day,Work day
+"Wednesday, January 22, 2014",01/22/14,STATEN ISLAND,5,0,1,0,0,0,4,0,19,Work day,Work day
+"Thursday, January 23, 2014",01/23/14,,35,0,3,0,0,0,32,0,165,Work day,Work day
+"Thursday, January 23, 2014",01/23/14,BRONX,5,0,2,0,0,0,3,0,55,Work day,Work day
+"Thursday, January 23, 2014",01/23/14,BROOKLYN,23,0,5,0,1,0,17,0,124,Work day,Work day
+"Thursday, January 23, 2014",01/23/14,MANHATTAN,30,0,20,0,0,0,10,0,134,Work day,Work day
+"Thursday, January 23, 2014",01/23/14,QUEENS,15,0,6,0,1,0,8,0,106,Work day,Work day
+"Thursday, January 23, 2014",01/23/14,STATEN ISLAND,5,0,1,0,0,0,4,0,27,Work day,Work day
+"Friday, January 24, 2014",01/24/14,,57,0,6,0,0,0,51,0,201,Work day,Work day
+"Friday, January 24, 2014",01/24/14,BRONX,16,0,6,0,0,0,10,0,62,Work day,Work day
+"Friday, January 24, 2014",01/24/14,BROOKLYN,30,0,13,0,1,0,16,0,149,Work day,Work day
+"Friday, January 24, 2014",01/24/14,MANHATTAN,28,0,14,0,3,0,11,0,136,Work day,Work day
+"Friday, January 24, 2014",01/24/14,QUEENS,29,0,18,0,0,0,11,0,128,Work day,Work day
+"Friday, January 24, 2014",01/24/14,STATEN ISLAND,6,0,2,0,0,0,4,0,28,Work day,Work day
+"Saturday, January 25, 2014",01/25/14,,17,0,4,0,0,0,13,0,103,Weekend,Weekend
+"Saturday, January 25, 2014",01/25/14,BRONX,15,1,3,1,0,0,12,0,47,Weekend,Weekend
+"Saturday, January 25, 2014",01/25/14,BROOKLYN,47,0,5,0,1,0,41,0,126,Weekend,Weekend
+"Saturday, January 25, 2014",01/25/14,MANHATTAN,17,0,6,0,2,0,9,0,89,Weekend,Weekend
+"Saturday, January 25, 2014",01/25/14,QUEENS,12,0,3,0,0,0,9,0,94,Weekend,Weekend
+"Saturday, January 25, 2014",01/25/14,STATEN ISLAND,2,0,0,0,0,0,2,0,16,Weekend,Weekend
+"Sunday, January 26, 2014",01/26/14,,42,0,0,0,0,0,42,0,126,Weekend,Weekend
+"Sunday, January 26, 2014",01/26/14,BRONX,19,0,3,0,0,0,16,0,62,Weekend,Weekend
+"Sunday, January 26, 2014",01/26/14,BROOKLYN,24,0,7,0,0,0,17,0,96,Weekend,Weekend
+"Sunday, January 26, 2014",01/26/14,MANHATTAN,23,0,9,0,0,0,14,0,71,Weekend,Weekend
+"Sunday, January 26, 2014",01/26/14,QUEENS,17,0,4,0,1,0,12,0,94,Weekend,Weekend
+"Sunday, January 26, 2014",01/26/14,STATEN ISLAND,4,1,0,1,0,0,4,0,16,Weekend,Weekend
+"Monday, January 27, 2014",01/27/14,,28,0,3,0,0,0,25,0,132,Work day,Work day
+"Monday, January 27, 2014",01/27/14,BRONX,13,0,4,0,1,0,8,0,53,Work day,Work day
+"Monday, January 27, 2014",01/27/14,BROOKLYN,26,0,9,0,4,0,13,0,112,Work day,Work day
+"Monday, January 27, 2014",01/27/14,MANHATTAN,12,0,6,0,0,0,6,0,101,Work day,Work day
+"Monday, January 27, 2014",01/27/14,QUEENS,17,0,5,0,0,0,12,0,96,Work day,Work day
+"Monday, January 27, 2014",01/27/14,STATEN ISLAND,8,0,1,0,0,0,7,0,17,Work day,Work day
+"Tuesday, January 28, 2014",01/28/14,,20,0,0,0,0,0,20,0,104,Work day,Work day
+"Tuesday, January 28, 2014",01/28/14,BRONX,22,0,5,0,1,0,16,0,56,Work day,Work day
+"Tuesday, January 28, 2014",01/28/14,BROOKLYN,31,0,13,0,0,0,18,0,127,Work day,Work day
+"Tuesday, January 28, 2014",01/28/14,MANHATTAN,24,0,15,0,1,0,8,0,109,Work day,Work day
+"Tuesday, January 28, 2014",01/28/14,QUEENS,21,0,2,0,0,0,19,0,90,Work day,Work day
+"Tuesday, January 28, 2014",01/28/14,STATEN ISLAND,7,0,2,0,0,0,5,0,18,Work day,Work day
+"Wednesday, January 29, 2014",01/29/14,,26,0,3,0,0,0,23,0,132,Work day,Work day
+"Wednesday, January 29, 2014",01/29/14,BRONX,24,0,9,0,0,0,15,0,68,Work day,Work day
+"Wednesday, January 29, 2014",01/29/14,BROOKLYN,52,0,18,0,4,0,30,0,181,Work day,Work day
+"Wednesday, January 29, 2014",01/29/14,MANHATTAN,27,0,9,0,1,0,17,0,117,Work day,Work day
+"Wednesday, January 29, 2014",01/29/14,QUEENS,33,0,10,0,0,0,23,0,128,Work day,Work day
+"Wednesday, January 29, 2014",01/29/14,STATEN ISLAND,5,0,1,0,0,0,4,0,23,Work day,Work day
+"Thursday, January 30, 2014",01/30/14,,33,0,4,0,0,0,29,0,142,Work day,Work day
+"Thursday, January 30, 2014",01/30/14,BRONX,15,0,3,0,0,0,12,0,55,Work day,Work day
+"Thursday, January 30, 2014",01/30/14,BROOKLYN,49,0,19,0,0,0,30,0,168,Work day,Work day
+"Thursday, January 30, 2014",01/30/14,MANHATTAN,21,0,11,0,4,0,6,0,133,Work day,Work day
+"Thursday, January 30, 2014",01/30/14,QUEENS,35,0,14,0,0,0,21,0,133,Work day,Work day
+"Thursday, January 30, 2014",01/30/14,STATEN ISLAND,4,0,0,0,0,0,4,0,26,Work day,Work day
+"Friday, January 31, 2014",01/31/14,,31,0,7,0,1,0,23,0,120,Work day,Work day
+"Friday, January 31, 2014",01/31/14,BRONX,11,0,4,0,0,0,7,0,63,Work day,Work day
+"Friday, January 31, 2014",01/31/14,BROOKLYN,34,1,11,0,2,0,21,1,129,Work day,Work day
+"Friday, January 31, 2014",01/31/14,MANHATTAN,11,0,3,0,1,0,7,0,111,Work day,Work day
+"Friday, January 31, 2014",01/31/14,QUEENS,16,0,4,0,0,0,12,0,126,Work day,Work day
+"Friday, January 31, 2014",01/31/14,STATEN ISLAND,4,0,1,0,0,0,3,0,11,Work day,Work day
+"Saturday, February 1, 2014",02/01/14,,56,0,11,0,0,0,45,0,128,Weekend,Weekend
+"Saturday, February 1, 2014",02/01/14,BRONX,9,0,3,0,0,0,6,0,56,Weekend,Weekend
+"Saturday, February 1, 2014",02/01/14,BROOKLYN,39,0,11,0,5,0,23,0,125,Weekend,Weekend
+"Saturday, February 1, 2014",02/01/14,MANHATTAN,17,0,11,0,3,0,3,0,86,Weekend,Weekend
+"Saturday, February 1, 2014",02/01/14,QUEENS,20,0,4,0,0,0,16,0,93,Weekend,Weekend
+"Saturday, February 1, 2014",02/01/14,STATEN ISLAND,9,0,4,0,0,0,5,0,19,Weekend,Weekend
+"Sunday, February 2, 2014",02/02/14,,24,0,8,0,2,0,14,0,76,Weekend,Weekend
+"Sunday, February 2, 2014",02/02/14,BRONX,14,0,3,0,1,0,10,0,52,Weekend,Weekend
+"Sunday, February 2, 2014",02/02/14,BROOKLYN,29,1,19,0,0,1,10,0,99,Weekend,Weekend
+"Sunday, February 2, 2014",02/02/14,MANHATTAN,12,0,8,0,2,0,2,0,80,Weekend,Weekend
+"Sunday, February 2, 2014",02/02/14,QUEENS,30,0,7,0,1,0,22,0,96,Weekend,Weekend
+"Sunday, February 2, 2014",02/02/14,STATEN ISLAND,5,0,0,0,0,0,5,0,14,Weekend,Weekend
+"Monday, February 3, 2014",02/03/14,,34,0,5,0,0,0,29,0,184,Work day,Work day
+"Monday, February 3, 2014",02/03/14,BRONX,18,0,6,0,1,0,11,0,107,Work day,Work day
+"Monday, February 3, 2014",02/03/14,BROOKLYN,37,1,7,1,2,0,28,0,230,Work day,Work day
+"Monday, February 3, 2014",02/03/14,MANHATTAN,29,0,14,0,3,0,12,0,132,Work day,Work day
+"Monday, February 3, 2014",02/03/14,QUEENS,40,1,14,1,0,0,26,0,250,Work day,Work day
+"Monday, February 3, 2014",02/03/14,STATEN ISLAND,1,0,1,0,0,0,0,0,57,Work day,Work day
+"Tuesday, February 4, 2014",02/04/14,,34,0,6,0,0,0,28,0,159,Work day,Work day
+"Tuesday, February 4, 2014",02/04/14,BRONX,10,0,4,0,0,0,6,0,62,Work day,Work day
+"Tuesday, February 4, 2014",02/04/14,BROOKLYN,53,0,5,0,3,0,45,0,127,Work day,Work day
+"Tuesday, February 4, 2014",02/04/14,MANHATTAN,16,0,7,0,1,0,8,0,112,Work day,Work day
+"Tuesday, February 4, 2014",02/04/14,QUEENS,14,0,6,0,0,0,8,0,128,Work day,Work day
+"Tuesday, February 4, 2014",02/04/14,STATEN ISLAND,3,0,1,0,0,0,2,0,24,Work day,Work day
+"Wednesday, February 5, 2014",02/05/14,,12,0,0,0,0,0,12,0,82,Work day,Work day
+"Wednesday, February 5, 2014",02/05/14,BRONX,5,0,1,0,0,0,4,0,58,Work day,Work day
+"Wednesday, February 5, 2014",02/05/14,BROOKLYN,13,0,4,0,1,0,8,0,118,Work day,Work day
+"Wednesday, February 5, 2014",02/05/14,MANHATTAN,16,0,8,0,0,0,8,0,99,Work day,Work day
+"Wednesday, February 5, 2014",02/05/14,QUEENS,6,0,4,0,0,0,2,0,99,Work day,Work day
+"Wednesday, February 5, 2014",02/05/14,STATEN ISLAND,1,0,1,0,0,0,0,0,12,Work day,Work day
+"Thursday, February 6, 2014",02/06/14,,31,0,4,0,0,0,27,0,146,Work day,Work day
+"Thursday, February 6, 2014",02/06/14,BRONX,5,0,1,0,0,0,4,0,48,Work day,Work day
+"Thursday, February 6, 2014",02/06/14,BROOKLYN,22,0,6,0,0,0,16,0,141,Work day,Work day
+"Thursday, February 6, 2014",02/06/14,MANHATTAN,17,0,6,0,3,0,8,0,111,Work day,Work day
+"Thursday, February 6, 2014",02/06/14,QUEENS,15,0,4,0,0,0,11,0,104,Work day,Work day
+"Thursday, February 6, 2014",02/06/14,STATEN ISLAND,2,0,1,0,0,0,1,0,19,Work day,Work day
+"Friday, February 7, 2014",02/07/14,,18,0,3,0,0,0,15,0,152,Work day,Work day
+"Friday, February 7, 2014",02/07/14,BRONX,12,0,5,0,0,0,7,0,64,Work day,Work day
+"Friday, February 7, 2014",02/07/14,BROOKLYN,37,1,12,1,2,0,23,0,162,Work day,Work day
+"Friday, February 7, 2014",02/07/14,MANHATTAN,20,0,10,0,0,0,10,0,130,Work day,Work day
+"Friday, February 7, 2014",02/07/14,QUEENS,26,0,6,0,0,0,20,0,142,Work day,Work day
+"Friday, February 7, 2014",02/07/14,STATEN ISLAND,3,0,0,0,0,0,3,0,24,Work day,Work day
+"Saturday, February 8, 2014",02/08/14,,16,0,1,0,0,0,15,0,96,Weekend,Weekend
+"Saturday, February 8, 2014",02/08/14,BRONX,9,0,0,0,1,0,8,0,44,Weekend,Weekend
+"Saturday, February 8, 2014",02/08/14,BROOKLYN,21,0,5,0,2,0,14,0,89,Weekend,Weekend
+"Saturday, February 8, 2014",02/08/14,MANHATTAN,14,0,1,0,2,0,11,0,85,Weekend,Weekend
+"Saturday, February 8, 2014",02/08/14,QUEENS,10,0,2,0,0,0,8,0,94,Weekend,Weekend
+"Saturday, February 8, 2014",02/08/14,STATEN ISLAND,4,0,0,0,0,0,4,0,16,Weekend,Weekend
+"Sunday, February 9, 2014",02/09/14,,33,0,3,0,0,0,30,0,102,Weekend,Weekend
+"Sunday, February 9, 2014",02/09/14,BRONX,12,1,0,0,0,0,12,1,55,Weekend,Weekend
+"Sunday, February 9, 2014",02/09/14,BROOKLYN,20,0,2,0,1,0,17,0,105,Weekend,Weekend
+"Sunday, February 9, 2014",02/09/14,MANHATTAN,5,0,3,0,1,0,1,0,61,Weekend,Weekend
+"Sunday, February 9, 2014",02/09/14,QUEENS,17,0,3,0,0,0,14,0,115,Weekend,Weekend
+"Sunday, February 9, 2014",02/09/14,STATEN ISLAND,0,0,0,0,0,0,0,0,13,Weekend,Weekend
+"Monday, February 10, 2014",02/10/14,,34,0,8,0,2,0,24,0,153,Work day,Work day
+"Monday, February 10, 2014",02/10/14,BRONX,15,0,4,0,0,0,11,0,67,Work day,Work day
+"Monday, February 10, 2014",02/10/14,BROOKLYN,42,0,12,0,2,0,28,0,170,Work day,Work day
+"Monday, February 10, 2014",02/10/14,MANHATTAN,31,0,19,0,4,0,8,0,140,Work day,Work day
+"Monday, February 10, 2014",02/10/14,QUEENS,19,0,5,0,1,0,13,0,130,Work day,Work day
+"Monday, February 10, 2014",02/10/14,STATEN ISLAND,2,0,2,0,0,0,0,0,17,Work day,Work day
+"Tuesday, February 11, 2014",02/11/14,,21,0,7,0,1,0,13,0,151,Work day,Work day
+"Tuesday, February 11, 2014",02/11/14,BRONX,13,0,8,0,0,0,5,0,76,Work day,Work day
+"Tuesday, February 11, 2014",02/11/14,BROOKLYN,37,1,7,1,0,0,30,0,139,Work day,Work day
+"Tuesday, February 11, 2014",02/11/14,MANHATTAN,12,0,4,0,2,0,6,0,123,Work day,Work day
+"Tuesday, February 11, 2014",02/11/14,QUEENS,12,0,5,0,0,0,7,0,120,Work day,Work day
+"Tuesday, February 11, 2014",02/11/14,STATEN ISLAND,15,0,1,0,0,0,14,0,27,Work day,Work day
+"Wednesday, February 12, 2014",02/12/14,,32,1,1,0,1,0,30,1,152,Work day,Work day
+"Wednesday, February 12, 2014",02/12/14,BRONX,7,0,1,0,0,0,6,0,74,Work day,Work day
+"Wednesday, February 12, 2014",02/12/14,BROOKLYN,26,0,6,0,2,0,18,0,143,Work day,Work day
+"Wednesday, February 12, 2014",02/12/14,MANHATTAN,22,0,12,0,3,0,7,0,133,Work day,Work day
+"Wednesday, February 12, 2014",02/12/14,QUEENS,21,0,3,0,0,0,18,0,112,Work day,Work day
+"Wednesday, February 12, 2014",02/12/14,STATEN ISLAND,4,0,0,0,0,0,4,0,26,Work day,Work day
+"Thursday, February 13, 2014",02/13/14,,25,0,0,0,1,0,24,0,111,Work day,Work day
+"Thursday, February 13, 2014",02/13/14,BRONX,5,0,2,0,0,0,3,0,43,Work day,Work day
+"Thursday, February 13, 2014",02/13/14,BROOKLYN,19,1,6,1,2,0,11,0,97,Work day,Work day
+"Thursday, February 13, 2014",02/13/14,MANHATTAN,15,0,5,0,0,0,10,0,65,Work day,Work day
+"Thursday, February 13, 2014",02/13/14,QUEENS,21,0,6,0,0,0,15,0,110,Work day,Work day
+"Thursday, February 13, 2014",02/13/14,STATEN ISLAND,1,0,0,0,0,0,1,0,21,Work day,Work day
+"Friday, February 14, 2014",02/14/14,,26,0,2,0,0,0,24,0,146,Work day,Work day
+"Friday, February 14, 2014",02/14/14,BRONX,11,0,5,0,0,0,6,0,97,Work day,Work day
+"Friday, February 14, 2014",02/14/14,BROOKLYN,28,0,8,0,1,0,19,0,168,Work day,Work day
+"Friday, February 14, 2014",02/14/14,MANHATTAN,19,0,4,0,3,0,12,0,147,Work day,Work day
+"Friday, February 14, 2014",02/14/14,QUEENS,25,0,5,0,0,0,20,0,197,Work day,Work day
+"Friday, February 14, 2014",02/14/14,STATEN ISLAND,6,0,1,0,0,0,5,0,36,Work day,Work day
+"Saturday, February 15, 2014",02/15/14,,15,0,2,0,0,0,13,0,94,Weekend,Weekend
+"Saturday, February 15, 2014",02/15/14,BRONX,16,0,5,0,0,0,11,0,74,Weekend,Weekend
+"Saturday, February 15, 2014",02/15/14,BROOKLYN,24,0,5,0,0,0,19,0,122,Weekend,Weekend
+"Saturday, February 15, 2014",02/15/14,MANHATTAN,8,0,6,0,0,0,2,0,75,Weekend,Weekend
+"Saturday, February 15, 2014",02/15/14,QUEENS,12,0,3,0,3,0,6,0,117,Weekend,Weekend
+"Saturday, February 15, 2014",02/15/14,STATEN ISLAND,4,0,3,0,0,0,1,0,34,Weekend,Weekend
+"Sunday, February 16, 2014",02/16/14,,18,0,0,0,0,0,18,0,107,Weekend,Weekend
+"Sunday, February 16, 2014",02/16/14,BRONX,11,0,5,0,0,0,6,0,57,Weekend,Weekend
+"Sunday, February 16, 2014",02/16/14,BROOKLYN,8,0,1,0,0,0,7,0,106,Weekend,Weekend
+"Sunday, February 16, 2014",02/16/14,MANHATTAN,15,0,7,0,1,0,7,0,79,Weekend,Weekend
+"Sunday, February 16, 2014",02/16/14,QUEENS,14,0,3,0,1,0,10,0,108,Weekend,Weekend
+"Sunday, February 16, 2014",02/16/14,STATEN ISLAND,6,0,0,0,0,0,6,0,7,Weekend,Weekend
+"Monday, February 17, 2014",02/17/14,,27,0,4,0,0,0,23,0,138,Work day,President's Day
+"Monday, February 17, 2014",02/17/14,BRONX,10,0,1,0,0,0,9,0,50,Work day,President's Day
+"Monday, February 17, 2014",02/17/14,BROOKLYN,22,0,3,0,0,0,19,0,121,Work day,President's Day
+"Monday, February 17, 2014",02/17/14,MANHATTAN,12,0,7,0,2,0,3,0,56,Work day,President's Day
+"Monday, February 17, 2014",02/17/14,QUEENS,20,0,5,0,0,0,15,0,110,Work day,President's Day
+"Monday, February 17, 2014",02/17/14,STATEN ISLAND,3,0,1,0,0,0,2,0,16,Work day,President's Day
+"Tuesday, February 18, 2014",02/18/14,,29,2,3,0,0,0,26,2,108,Work day,Work day
+"Tuesday, February 18, 2014",02/18/14,BRONX,4,0,1,0,0,0,3,0,51,Work day,Work day
+"Tuesday, February 18, 2014",02/18/14,BROOKLYN,19,0,3,0,0,0,16,0,129,Work day,Work day
+"Tuesday, February 18, 2014",02/18/14,MANHATTAN,19,0,9,0,0,0,10,0,90,Work day,Work day
+"Tuesday, February 18, 2014",02/18/14,QUEENS,32,0,3,0,1,0,28,0,116,Work day,Work day
+"Tuesday, February 18, 2014",02/18/14,STATEN ISLAND,8,0,1,0,0,0,7,0,24,Work day,Work day
+"Wednesday, February 19, 2014",02/19/14,,24,0,4,0,0,0,20,0,113,Work day,Work day
+"Wednesday, February 19, 2014",02/19/14,BRONX,8,0,2,0,0,0,6,0,53,Work day,Work day
+"Wednesday, February 19, 2014",02/19/14,BROOKLYN,42,0,10,0,0,0,32,0,137,Work day,Work day
+"Wednesday, February 19, 2014",02/19/14,MANHATTAN,14,0,11,0,1,0,2,0,120,Work day,Work day
+"Wednesday, February 19, 2014",02/19/14,QUEENS,18,0,4,0,1,0,13,0,110,Work day,Work day
+"Wednesday, February 19, 2014",02/19/14,STATEN ISLAND,4,0,3,0,0,0,1,0,18,Work day,Work day
+"Thursday, February 20, 2014",02/20/14,,24,1,2,1,0,0,22,0,137,Work day,Work day
+"Thursday, February 20, 2014",02/20/14,BRONX,9,0,5,0,0,0,4,0,57,Work day,Work day
+"Thursday, February 20, 2014",02/20/14,BROOKLYN,12,0,5,0,0,0,7,0,106,Work day,Work day
+"Thursday, February 20, 2014",02/20/14,MANHATTAN,28,0,15,0,3,0,10,0,119,Work day,Work day
+"Thursday, February 20, 2014",02/20/14,QUEENS,14,0,1,0,1,0,12,0,111,Work day,Work day
+"Thursday, February 20, 2014",02/20/14,STATEN ISLAND,3,0,1,0,0,0,2,0,26,Work day,Work day
+"Friday, February 21, 2014",02/21/14,,28,0,4,0,0,0,24,0,122,Work day,Work day
+"Friday, February 21, 2014",02/21/14,BRONX,6,0,2,0,0,0,4,0,41,Work day,Work day
+"Friday, February 21, 2014",02/21/14,BROOKLYN,27,0,6,0,1,0,20,0,114,Work day,Work day
+"Friday, February 21, 2014",02/21/14,MANHATTAN,26,0,19,0,0,0,7,0,133,Work day,Work day
+"Friday, February 21, 2014",02/21/14,QUEENS,33,0,15,0,1,0,17,0,124,Work day,Work day
+"Friday, February 21, 2014",02/21/14,STATEN ISLAND,0,0,0,0,0,0,0,0,9,Work day,Work day
+"Saturday, February 22, 2014",02/22/14,,35,0,5,0,0,0,30,0,154,Weekend,Weekend
+"Saturday, February 22, 2014",02/22/14,BRONX,16,0,8,0,0,0,8,0,59,Weekend,Weekend
+"Saturday, February 22, 2014",02/22/14,BROOKLYN,40,0,4,0,2,0,34,0,114,Weekend,Weekend
+"Saturday, February 22, 2014",02/22/14,MANHATTAN,20,0,8,0,0,0,12,0,101,Weekend,Weekend
+"Saturday, February 22, 2014",02/22/14,QUEENS,23,0,4,0,0,0,19,0,130,Weekend,Weekend
+"Saturday, February 22, 2014",02/22/14,STATEN ISLAND,6,0,0,0,0,0,6,0,29,Weekend,Weekend
+"Sunday, February 23, 2014",02/23/14,,40,1,4,1,0,0,36,0,107,Weekend,Weekend
+"Sunday, February 23, 2014",02/23/14,BRONX,12,0,4,0,1,0,7,0,52,Weekend,Weekend
+"Sunday, February 23, 2014",02/23/14,BROOKLYN,45,1,7,1,0,0,38,0,88,Weekend,Weekend
+"Sunday, February 23, 2014",02/23/14,MANHATTAN,21,0,7,0,4,0,10,0,80,Weekend,Weekend
+"Sunday, February 23, 2014",02/23/14,QUEENS,19,0,4,0,0,0,15,0,68,Weekend,Weekend
+"Sunday, February 23, 2014",02/23/14,STATEN ISLAND,4,0,0,0,1,0,3,0,17,Weekend,Weekend
+"Monday, February 24, 2014",02/24/14,,29,0,8,0,0,0,21,0,132,Work day,Work day
+"Monday, February 24, 2014",02/24/14,BRONX,19,0,2,0,0,0,17,0,62,Work day,Work day
+"Monday, February 24, 2014",02/24/14,BROOKLYN,30,0,7,0,0,0,23,0,119,Work day,Work day
+"Monday, February 24, 2014",02/24/14,MANHATTAN,12,0,6,0,1,0,5,0,124,Work day,Work day
+"Monday, February 24, 2014",02/24/14,QUEENS,28,0,10,0,1,0,17,0,113,Work day,Work day
+"Monday, February 24, 2014",02/24/14,STATEN ISLAND,2,0,0,0,0,0,2,0,17,Work day,Work day
+"Tuesday, February 25, 2014",02/25/14,,25,0,4,0,0,0,21,0,118,Work day,Work day
+"Tuesday, February 25, 2014",02/25/14,BRONX,18,0,4,0,0,0,14,0,58,Work day,Work day
+"Tuesday, February 25, 2014",02/25/14,BROOKLYN,18,0,8,0,1,0,9,0,107,Work day,Work day
+"Tuesday, February 25, 2014",02/25/14,MANHATTAN,9,0,6,0,1,0,2,0,100,Work day,Work day
+"Tuesday, February 25, 2014",02/25/14,QUEENS,23,0,3,0,0,0,20,0,112,Work day,Work day
+"Tuesday, February 25, 2014",02/25/14,STATEN ISLAND,0,0,0,0,0,0,0,0,17,Work day,Work day
+"Wednesday, February 26, 2014",02/26/14,,23,0,5,0,0,0,18,0,118,Work day,Work day
+"Wednesday, February 26, 2014",02/26/14,BRONX,18,0,7,0,0,0,11,0,54,Work day,Work day
+"Wednesday, February 26, 2014",02/26/14,BROOKLYN,27,0,8,0,0,0,19,0,105,Work day,Work day
+"Wednesday, February 26, 2014",02/26/14,MANHATTAN,14,0,8,0,1,0,5,0,107,Work day,Work day
+"Wednesday, February 26, 2014",02/26/14,QUEENS,29,0,7,0,0,0,22,0,108,Work day,Work day
+"Wednesday, February 26, 2014",02/26/14,STATEN ISLAND,3,0,0,0,0,0,3,0,19,Work day,Work day
+"Thursday, February 27, 2014",02/27/14,,27,0,4,0,0,0,23,0,146,Work day,Work day
+"Thursday, February 27, 2014",02/27/14,BRONX,10,0,1,0,0,0,9,0,39,Work day,Work day
+"Thursday, February 27, 2014",02/27/14,BROOKLYN,42,0,10,0,0,0,32,0,151,Work day,Work day
+"Thursday, February 27, 2014",02/27/14,MANHATTAN,12,0,5,0,1,0,6,0,96,Work day,Work day
+"Thursday, February 27, 2014",02/27/14,QUEENS,31,0,10,0,0,0,21,0,112,Work day,Work day
+"Thursday, February 27, 2014",02/27/14,STATEN ISLAND,6,0,1,0,0,0,5,0,26,Work day,Work day
+"Friday, February 28, 2014",02/28/14,,41,0,4,0,0,0,37,0,156,Work day,Work day
+"Friday, February 28, 2014",02/28/14,BRONX,27,0,6,0,0,0,21,0,76,Work day,Work day
+"Friday, February 28, 2014",02/28/14,BROOKLYN,34,0,12,0,0,0,22,0,158,Work day,Work day
+"Friday, February 28, 2014",02/28/14,MANHATTAN,16,0,12,0,2,0,2,0,129,Work day,Work day
+"Friday, February 28, 2014",02/28/14,QUEENS,24,0,8,0,0,0,16,0,108,Work day,Work day
+"Friday, February 28, 2014",02/28/14,STATEN ISLAND,10,0,0,0,0,0,10,0,28,Work day,Work day
+"Saturday, March 1, 2014",03/01/14,,56,1,3,1,1,0,52,0,135,Weekend,Weekend
+"Saturday, March 1, 2014",03/01/14,BRONX,7,0,2,0,0,0,5,0,49,Weekend,Weekend
+"Saturday, March 1, 2014",03/01/14,BROOKLYN,30,0,8,0,3,0,19,0,103,Weekend,Weekend
+"Saturday, March 1, 2014",03/01/14,MANHATTAN,21,0,6,0,1,0,14,0,98,Weekend,Weekend
+"Saturday, March 1, 2014",03/01/14,QUEENS,29,0,4,0,0,0,25,0,95,Weekend,Weekend
+"Saturday, March 1, 2014",03/01/14,STATEN ISLAND,1,0,0,0,0,0,1,0,17,Weekend,Weekend
+"Sunday, March 2, 2014",03/02/14,,25,0,1,0,0,0,24,0,78,Weekend,Weekend
+"Sunday, March 2, 2014",03/02/14,BRONX,11,0,4,0,0,0,7,0,41,Weekend,Weekend
+"Sunday, March 2, 2014",03/02/14,BROOKLYN,20,0,5,0,0,0,15,0,88,Weekend,Weekend
+"Sunday, March 2, 2014",03/02/14,MANHATTAN,8,0,2,0,4,0,2,0,58,Weekend,Weekend
+"Sunday, March 2, 2014",03/02/14,QUEENS,8,0,2,0,1,0,5,0,66,Weekend,Weekend
+"Sunday, March 2, 2014",03/02/14,STATEN ISLAND,2,0,0,0,0,0,2,0,13,Weekend,Weekend
+"Monday, March 3, 2014",03/03/14,,11,0,3,0,0,0,8,0,81,Work day,Work day
+"Monday, March 3, 2014",03/03/14,BRONX,12,0,1,0,0,0,11,0,53,Work day,Work day
+"Monday, March 3, 2014",03/03/14,BROOKLYN,26,0,7,0,0,0,19,0,114,Work day,Work day
+"Monday, March 3, 2014",03/03/14,MANHATTAN,18,0,9,0,2,0,7,0,83,Work day,Work day
+"Monday, March 3, 2014",03/03/14,QUEENS,24,0,8,0,0,0,16,0,95,Work day,Work day
+"Monday, March 3, 2014",03/03/14,STATEN ISLAND,2,0,0,0,0,0,2,0,13,Work day,Work day
+"Tuesday, March 4, 2014",03/04/14,,28,0,2,0,0,0,26,0,129,Work day,Work day
+"Tuesday, March 4, 2014",03/04/14,BRONX,11,0,5,0,1,0,5,0,68,Work day,Work day
+"Tuesday, March 4, 2014",03/04/14,BROOKLYN,21,1,9,0,2,0,10,1,112,Work day,Work day
+"Tuesday, March 4, 2014",03/04/14,MANHATTAN,13,0,4,0,3,0,6,0,99,Work day,Work day
+"Tuesday, March 4, 2014",03/04/14,QUEENS,36,0,6,0,1,0,29,0,112,Work day,Work day
+"Tuesday, March 4, 2014",03/04/14,STATEN ISLAND,1,0,0,0,0,0,1,0,10,Work day,Work day
+"Wednesday, March 5, 2014",03/05/14,,36,0,9,0,0,0,27,0,105,Work day,Work day
+"Wednesday, March 5, 2014",03/05/14,BRONX,10,0,2,0,0,0,8,0,55,Work day,Work day
+"Wednesday, March 5, 2014",03/05/14,BROOKLYN,32,0,15,0,1,0,16,0,119,Work day,Work day
+"Wednesday, March 5, 2014",03/05/14,MANHATTAN,11,0,4,0,3,0,4,0,92,Work day,Work day
+"Wednesday, March 5, 2014",03/05/14,QUEENS,26,1,11,0,1,0,14,1,100,Work day,Work day
+"Wednesday, March 5, 2014",03/05/14,STATEN ISLAND,1,0,0,0,0,0,1,0,19,Work day,Work day
+"Thursday, March 6, 2014",03/06/14,,39,0,6,0,1,0,32,0,138,Work day,Work day
+"Thursday, March 6, 2014",03/06/14,BRONX,11,0,4,0,0,0,7,0,54,Work day,Work day
+"Thursday, March 6, 2014",03/06/14,BROOKLYN,33,0,8,0,1,0,24,0,122,Work day,Work day
+"Thursday, March 6, 2014",03/06/14,MANHATTAN,12,0,6,0,3,0,3,0,112,Work day,Work day
+"Thursday, March 6, 2014",03/06/14,QUEENS,24,1,3,1,0,0,21,0,110,Work day,Work day
+"Thursday, March 6, 2014",03/06/14,STATEN ISLAND,3,0,0,0,0,0,3,0,22,Work day,Work day
+"Friday, March 7, 2014",03/07/14,,20,0,2,0,1,0,17,0,127,Work day,Work day
+"Friday, March 7, 2014",03/07/14,BRONX,18,0,5,0,0,0,13,0,47,Work day,Work day
+"Friday, March 7, 2014",03/07/14,BROOKLYN,33,0,12,0,2,0,19,0,125,Work day,Work day
+"Friday, March 7, 2014",03/07/14,MANHATTAN,8,0,7,0,0,0,1,0,102,Work day,Work day
+"Friday, March 7, 2014",03/07/14,QUEENS,25,1,11,1,0,0,14,0,115,Work day,Work day
+"Friday, March 7, 2014",03/07/14,STATEN ISLAND,4,0,1,0,0,0,3,0,17,Work day,Work day
+"Saturday, March 8, 2014",03/08/14,,27,0,2,0,0,0,25,0,120,Weekend,Weekend
+"Saturday, March 8, 2014",03/08/14,BRONX,31,0,5,0,0,0,26,0,52,Weekend,Weekend
+"Saturday, March 8, 2014",03/08/14,BROOKLYN,43,0,11,0,1,0,31,0,116,Weekend,Weekend
+"Saturday, March 8, 2014",03/08/14,MANHATTAN,19,0,7,0,3,0,9,0,102,Weekend,Weekend
+"Saturday, March 8, 2014",03/08/14,QUEENS,17,0,4,0,3,0,10,0,105,Weekend,Weekend
+"Saturday, March 8, 2014",03/08/14,STATEN ISLAND,2,0,0,0,0,0,2,0,20,Weekend,Weekend
+"Sunday, March 9, 2014",03/09/14,,22,0,1,0,1,0,20,0,96,Weekend,Weekend
+"Sunday, March 9, 2014",03/09/14,BRONX,9,0,3,0,0,0,6,0,31,Weekend,Weekend
+"Sunday, March 9, 2014",03/09/14,BROOKLYN,40,1,4,0,1,0,35,1,110,Weekend,Weekend
+"Sunday, March 9, 2014",03/09/14,MANHATTAN,15,0,5,0,0,0,10,0,74,Weekend,Weekend
+"Sunday, March 9, 2014",03/09/14,QUEENS,23,0,3,0,1,0,19,0,82,Weekend,Weekend
+"Sunday, March 9, 2014",03/09/14,STATEN ISLAND,3,0,0,0,0,0,3,0,11,Weekend,Weekend
+"Monday, March 10, 2014",03/10/14,,49,0,12,0,1,0,36,0,129,Work day,Work day
+"Monday, March 10, 2014",03/10/14,BRONX,21,0,3,0,1,0,17,0,65,Work day,Work day
+"Monday, March 10, 2014",03/10/14,BROOKLYN,49,0,10,0,2,0,37,0,117,Work day,Work day
+"Monday, March 10, 2014",03/10/14,MANHATTAN,11,0,4,0,1,0,6,0,88,Work day,Work day
+"Monday, March 10, 2014",03/10/14,QUEENS,16,0,4,0,1,0,11,0,91,Work day,Work day
+"Monday, March 10, 2014",03/10/14,STATEN ISLAND,1,0,0,0,0,0,1,0,23,Work day,Work day
+"Tuesday, March 11, 2014",03/11/14,,13,0,1,0,1,0,11,0,114,Work day,Work day
+"Tuesday, March 11, 2014",03/11/14,BRONX,10,0,2,0,0,0,8,0,42,Work day,Work day
+"Tuesday, March 11, 2014",03/11/14,BROOKLYN,39,0,9,0,2,0,28,0,124,Work day,Work day
+"Tuesday, March 11, 2014",03/11/14,MANHATTAN,23,0,7,0,5,0,11,0,106,Work day,Work day
+"Tuesday, March 11, 2014",03/11/14,QUEENS,27,0,7,0,3,0,17,0,105,Work day,Work day
+"Tuesday, March 11, 2014",03/11/14,STATEN ISLAND,7,0,2,0,0,0,5,0,18,Work day,Work day
+"Wednesday, March 12, 2014",03/12/14,,26,0,3,0,1,0,22,0,115,Work day,Work day
+"Wednesday, March 12, 2014",03/12/14,BRONX,11,0,2,0,0,0,9,0,47,Work day,Work day
+"Wednesday, March 12, 2014",03/12/14,BROOKLYN,29,0,5,0,2,0,22,0,127,Work day,Work day
+"Wednesday, March 12, 2014",03/12/14,MANHATTAN,17,0,7,0,4,0,6,0,108,Work day,Work day
+"Wednesday, March 12, 2014",03/12/14,QUEENS,25,0,6,0,2,0,17,0,103,Work day,Work day
+"Wednesday, March 12, 2014",03/12/14,STATEN ISLAND,6,0,1,0,0,0,5,0,15,Work day,Work day
+"Thursday, March 13, 2014",03/13/14,,29,0,3,0,1,0,25,0,138,Work day,Work day
+"Thursday, March 13, 2014",03/13/14,BRONX,14,0,6,0,0,0,8,0,53,Work day,Work day
+"Thursday, March 13, 2014",03/13/14,BROOKLYN,30,0,10,0,2,0,18,0,129,Work day,Work day
+"Thursday, March 13, 2014",03/13/14,MANHATTAN,16,0,8,0,2,0,6,0,103,Work day,Work day
+"Thursday, March 13, 2014",03/13/14,QUEENS,12,0,3,0,0,0,9,0,97,Work day,Work day
+"Thursday, March 13, 2014",03/13/14,STATEN ISLAND,9,0,3,0,1,0,5,0,25,Work day,Work day
+"Friday, March 14, 2014",03/14/14,,25,0,2,0,0,0,23,0,131,Work day,Work day
+"Friday, March 14, 2014",03/14/14,BRONX,10,0,4,0,0,0,6,0,57,Work day,Work day
+"Friday, March 14, 2014",03/14/14,BROOKLYN,54,0,8,0,2,0,44,0,155,Work day,Work day
+"Friday, March 14, 2014",03/14/14,MANHATTAN,19,0,12,0,4,0,3,0,123,Work day,Work day
+"Friday, March 14, 2014",03/14/14,QUEENS,21,0,6,0,0,0,15,0,99,Work day,Work day
+"Friday, March 14, 2014",03/14/14,STATEN ISLAND,6,0,0,0,0,0,6,0,19,Work day,Work day
+"Saturday, March 15, 2014",03/15/14,,45,0,7,0,2,0,36,0,139,Weekend,Weekend
+"Saturday, March 15, 2014",03/15/14,BRONX,12,0,4,0,0,0,8,0,33,Weekend,Weekend
+"Saturday, March 15, 2014",03/15/14,BROOKLYN,27,0,5,0,0,0,22,0,120,Weekend,Weekend
+"Saturday, March 15, 2014",03/15/14,MANHATTAN,17,1,6,1,4,0,7,0,106,Weekend,Weekend
+"Saturday, March 15, 2014",03/15/14,QUEENS,16,0,6,0,1,0,9,0,107,Weekend,Weekend
+"Saturday, March 15, 2014",03/15/14,STATEN ISLAND,2,0,0,0,0,0,2,0,13,Weekend,Weekend
+"Sunday, March 16, 2014",03/16/14,,21,0,1,0,1,0,19,0,86,Weekend,Weekend
+"Sunday, March 16, 2014",03/16/14,BRONX,6,0,3,0,0,0,3,0,29,Weekend,Weekend
+"Sunday, March 16, 2014",03/16/14,BROOKLYN,33,1,9,1,1,0,23,0,97,Weekend,Weekend
+"Sunday, March 16, 2014",03/16/14,MANHATTAN,16,0,5,0,2,0,9,0,94,Weekend,Weekend
+"Sunday, March 16, 2014",03/16/14,QUEENS,22,0,1,0,1,0,20,0,96,Weekend,Weekend
+"Sunday, March 16, 2014",03/16/14,STATEN ISLAND,2,0,1,0,0,0,1,0,10,Weekend,Weekend
+"Monday, March 17, 2014",03/17/14,,38,0,5,0,0,0,33,0,112,Work day,Work day
+"Monday, March 17, 2014",03/17/14,BRONX,9,0,3,0,0,0,6,0,48,Work day,Work day
+"Monday, March 17, 2014",03/17/14,BROOKLYN,32,0,9,0,1,0,22,0,128,Work day,Work day
+"Monday, March 17, 2014",03/17/14,MANHATTAN,17,0,10,0,2,0,5,0,113,Work day,Work day
+"Monday, March 17, 2014",03/17/14,QUEENS,29,0,6,0,1,0,22,0,105,Work day,Work day
+"Monday, March 17, 2014",03/17/14,STATEN ISLAND,2,0,1,0,0,0,1,0,13,Work day,Work day
+"Tuesday, March 18, 2014",03/18/14,,27,0,1,0,0,0,26,0,133,Work day,Work day
+"Tuesday, March 18, 2014",03/18/14,BRONX,11,0,9,0,0,0,2,0,54,Work day,Work day
+"Tuesday, March 18, 2014",03/18/14,BROOKLYN,22,1,9,1,2,0,11,0,116,Work day,Work day
+"Tuesday, March 18, 2014",03/18/14,MANHATTAN,22,0,11,0,3,0,8,0,115,Work day,Work day
+"Tuesday, March 18, 2014",03/18/14,QUEENS,36,0,9,0,1,0,26,0,116,Work day,Work day
+"Tuesday, March 18, 2014",03/18/14,STATEN ISLAND,3,0,0,0,0,0,3,0,17,Work day,Work day
+"Wednesday, March 19, 2014",03/19/14,,23,1,4,0,1,0,18,1,123,Work day,Work day
+"Wednesday, March 19, 2014",03/19/14,BRONX,9,0,6,0,1,0,2,0,44,Work day,Work day
+"Wednesday, March 19, 2014",03/19/14,BROOKLYN,44,0,16,0,1,0,27,0,137,Work day,Work day
+"Wednesday, March 19, 2014",03/19/14,MANHATTAN,19,0,9,0,0,0,10,0,107,Work day,Work day
+"Wednesday, March 19, 2014",03/19/14,QUEENS,26,0,10,0,2,0,14,0,98,Work day,Work day
+"Wednesday, March 19, 2014",03/19/14,STATEN ISLAND,7,0,2,0,0,0,5,0,16,Work day,Work day
+"Thursday, March 20, 2014",03/20/14,,36,0,4,0,1,0,31,0,168,Work day,Work day
+"Thursday, March 20, 2014",03/20/14,BRONX,7,0,1,0,1,0,5,0,48,Work day,Work day
+"Thursday, March 20, 2014",03/20/14,BROOKLYN,48,0,16,0,3,0,29,0,132,Work day,Work day
+"Thursday, March 20, 2014",03/20/14,MANHATTAN,17,0,11,0,1,0,5,0,127,Work day,Work day
+"Thursday, March 20, 2014",03/20/14,QUEENS,20,0,5,0,1,0,14,0,124,Work day,Work day
+"Thursday, March 20, 2014",03/20/14,STATEN ISLAND,6,0,3,0,0,0,3,0,28,Work day,Work day
+"Friday, March 21, 2014",03/21/14,,37,1,9,0,1,0,27,1,142,Work day,Work day
+"Friday, March 21, 2014",03/21/14,BRONX,12,0,8,0,0,0,4,0,70,Work day,Work day
+"Friday, March 21, 2014",03/21/14,BROOKLYN,51,1,11,1,3,0,37,0,138,Work day,Work day
+"Friday, March 21, 2014",03/21/14,MANHATTAN,20,0,6,0,4,0,10,0,113,Work day,Work day
+"Friday, March 21, 2014",03/21/14,QUEENS,41,0,8,0,2,0,31,0,105,Work day,Work day
+"Friday, March 21, 2014",03/21/14,STATEN ISLAND,4,0,1,0,0,0,3,0,21,Work day,Work day
+"Saturday, March 22, 2014",03/22/14,,30,0,5,0,1,0,24,0,123,Weekend,Weekend
+"Saturday, March 22, 2014",03/22/14,BRONX,19,0,8,0,2,0,9,0,56,Weekend,Weekend
+"Saturday, March 22, 2014",03/22/14,BROOKLYN,34,0,10,0,1,0,23,0,112,Weekend,Weekend
+"Saturday, March 22, 2014",03/22/14,MANHATTAN,16,0,9,0,2,0,5,0,94,Weekend,Weekend
+"Saturday, March 22, 2014",03/22/14,QUEENS,21,0,8,0,1,0,12,0,87,Weekend,Weekend
+"Saturday, March 22, 2014",03/22/14,STATEN ISLAND,4,0,0,0,0,0,4,0,20,Weekend,Weekend
+"Sunday, March 23, 2014",03/23/14,,32,0,2,0,0,0,30,0,101,Weekend,Weekend
+"Sunday, March 23, 2014",03/23/14,BRONX,20,0,2,0,0,0,18,0,38,Weekend,Weekend
+"Sunday, March 23, 2014",03/23/14,BROOKLYN,38,1,2,0,3,0,33,1,103,Weekend,Weekend
+"Sunday, March 23, 2014",03/23/14,MANHATTAN,16,0,9,0,4,0,3,0,92,Weekend,Weekend
+"Sunday, March 23, 2014",03/23/14,QUEENS,17,0,1,0,4,0,12,0,83,Weekend,Weekend
+"Sunday, March 23, 2014",03/23/14,STATEN ISLAND,3,0,0,0,0,0,3,0,8,Weekend,Weekend
+"Monday, March 24, 2014",03/24/14,,37,0,5,0,0,0,32,0,152,Work day,Work day
+"Monday, March 24, 2014",03/24/14,BRONX,10,1,2,1,0,0,8,0,45,Work day,Work day
+"Monday, March 24, 2014",03/24/14,BROOKLYN,40,0,11,0,1,0,28,0,125,Work day,Work day
+"Monday, March 24, 2014",03/24/14,MANHATTAN,16,0,7,0,2,0,7,0,92,Work day,Work day
+"Monday, March 24, 2014",03/24/14,QUEENS,19,0,1,0,0,0,18,0,116,Work day,Work day
+"Monday, March 24, 2014",03/24/14,STATEN ISLAND,3,0,0,0,0,0,3,0,15,Work day,Work day
+"Tuesday, March 25, 2014",03/25/14,,28,0,3,0,1,0,24,0,92,Work day,Work day
+"Tuesday, March 25, 2014",03/25/14,BRONX,16,0,6,0,0,0,10,0,57,Work day,Work day
+"Tuesday, March 25, 2014",03/25/14,BROOKLYN,30,0,5,0,1,0,24,0,107,Work day,Work day
+"Tuesday, March 25, 2014",03/25/14,MANHATTAN,15,0,4,0,3,0,8,0,93,Work day,Work day
+"Tuesday, March 25, 2014",03/25/14,QUEENS,23,1,4,1,0,0,19,0,107,Work day,Work day
+"Tuesday, March 25, 2014",03/25/14,STATEN ISLAND,3,0,2,0,0,0,1,0,17,Work day,Work day
+"Wednesday, March 26, 2014",03/26/14,,32,0,6,0,1,0,25,0,132,Work day,Work day
+"Wednesday, March 26, 2014",03/26/14,BRONX,17,0,4,0,0,0,13,0,59,Work day,Work day
+"Wednesday, March 26, 2014",03/26/14,BROOKLYN,27,0,12,0,0,0,15,0,135,Work day,Work day
+"Wednesday, March 26, 2014",03/26/14,MANHATTAN,17,0,5,0,3,0,9,0,109,Work day,Work day
+"Wednesday, March 26, 2014",03/26/14,QUEENS,32,0,12,0,0,0,20,0,109,Work day,Work day
+"Wednesday, March 26, 2014",03/26/14,STATEN ISLAND,5,0,0,0,0,0,5,0,19,Work day,Work day
+"Thursday, March 27, 2014",03/27/14,,25,1,4,1,0,0,21,0,120,Work day,Work day
+"Thursday, March 27, 2014",03/27/14,BRONX,16,0,5,0,1,0,10,0,57,Work day,Work day
+"Thursday, March 27, 2014",03/27/14,BROOKLYN,46,0,7,0,0,0,39,0,120,Work day,Work day
+"Thursday, March 27, 2014",03/27/14,MANHATTAN,13,1,6,0,2,0,5,1,114,Work day,Work day
+"Thursday, March 27, 2014",03/27/14,QUEENS,26,0,5,0,1,0,20,0,106,Work day,Work day
+"Thursday, March 27, 2014",03/27/14,STATEN ISLAND,7,0,3,0,0,0,4,0,21,Work day,Work day
+"Friday, March 28, 2014",03/28/14,,32,1,7,1,1,0,24,0,118,Work day,Work day
+"Friday, March 28, 2014",03/28/14,BRONX,22,0,5,0,0,0,17,0,57,Work day,Work day
+"Friday, March 28, 2014",03/28/14,BROOKLYN,35,0,6,0,6,0,23,0,130,Work day,Work day
+"Friday, March 28, 2014",03/28/14,MANHATTAN,13,0,6,0,1,0,6,0,104,Work day,Work day
+"Friday, March 28, 2014",03/28/14,QUEENS,20,0,4,0,2,0,14,0,98,Work day,Work day
+"Friday, March 28, 2014",03/28/14,STATEN ISLAND,2,0,0,0,0,0,2,0,22,Work day,Work day
+"Saturday, March 29, 2014",03/29/14,,32,0,6,0,0,0,26,0,106,Weekend,Weekend
+"Saturday, March 29, 2014",03/29/14,BRONX,32,0,8,0,2,0,22,0,66,Weekend,Weekend
+"Saturday, March 29, 2014",03/29/14,BROOKLYN,44,0,15,0,2,0,27,0,124,Weekend,Weekend
+"Saturday, March 29, 2014",03/29/14,MANHATTAN,32,0,14,0,1,0,17,0,119,Weekend,Weekend
+"Saturday, March 29, 2014",03/29/14,QUEENS,39,0,14,0,1,0,24,0,136,Weekend,Weekend
+"Saturday, March 29, 2014",03/29/14,STATEN ISLAND,2,0,1,0,0,0,1,0,18,Weekend,Weekend
+"Sunday, March 30, 2014",03/30/14,,36,0,1,0,2,0,33,0,105,Weekend,Weekend
+"Sunday, March 30, 2014",03/30/14,BRONX,13,0,3,0,1,0,9,0,36,Weekend,Weekend
+"Sunday, March 30, 2014",03/30/14,BROOKLYN,37,0,9,0,4,0,24,0,106,Weekend,Weekend
+"Sunday, March 30, 2014",03/30/14,MANHATTAN,13,0,7,0,1,0,5,0,90,Weekend,Weekend
+"Sunday, March 30, 2014",03/30/14,QUEENS,21,0,5,0,0,0,16,0,85,Weekend,Weekend
+"Sunday, March 30, 2014",03/30/14,STATEN ISLAND,5,0,0,0,0,0,5,0,15,Weekend,Weekend
+"Monday, March 31, 2014",03/31/14,,35,0,5,0,3,0,27,0,141,Work day,Work day
+"Monday, March 31, 2014",03/31/14,BRONX,16,0,3,0,1,0,12,0,50,Work day,Work day
+"Monday, March 31, 2014",03/31/14,BROOKLYN,40,0,9,0,3,0,28,0,125,Work day,Work day
+"Monday, March 31, 2014",03/31/14,MANHATTAN,7,0,2,0,0,0,5,0,103,Work day,Work day
+"Monday, March 31, 2014",03/31/14,QUEENS,28,0,8,0,1,0,19,0,123,Work day,Work day
+"Monday, March 31, 2014",03/31/14,STATEN ISLAND,6,0,2,0,0,0,4,0,16,Work day,Work day
+"Tuesday, April 1, 2014",04/01/14,,17,0,4,0,0,0,13,0,128,Work day,Work day
+"Tuesday, April 1, 2014",04/01/14,BRONX,8,0,5,0,2,0,1,0,48,Work day,Work day
+"Tuesday, April 1, 2014",04/01/14,BROOKLYN,41,0,4,0,2,0,35,0,124,Work day,Work day
+"Tuesday, April 1, 2014",04/01/14,MANHATTAN,12,0,6,0,2,0,4,0,116,Work day,Work day
+"Tuesday, April 1, 2014",04/01/14,QUEENS,20,0,4,0,2,0,14,0,113,Work day,Work day
+"Tuesday, April 1, 2014",04/01/14,STATEN ISLAND,4,0,0,0,0,0,4,0,20,Work day,Work day
+"Wednesday, April 2, 2014",04/02/14,,29,1,1,0,1,0,27,1,115,Work day,Work day
+"Wednesday, April 2, 2014",04/02/14,BRONX,12,0,2,0,1,0,9,0,44,Work day,Work day
+"Wednesday, April 2, 2014",04/02/14,BROOKLYN,38,1,8,1,2,0,28,0,126,Work day,Work day
+"Wednesday, April 2, 2014",04/02/14,MANHATTAN,23,0,7,0,3,0,13,0,116,Work day,Work day
+"Wednesday, April 2, 2014",04/02/14,QUEENS,27,0,7,0,2,0,18,0,101,Work day,Work day
+"Wednesday, April 2, 2014",04/02/14,STATEN ISLAND,1,0,1,0,0,0,0,0,15,Work day,Work day
+"Thursday, April 3, 2014",04/03/14,,32,0,3,0,3,0,26,0,147,Work day,Work day
+"Thursday, April 3, 2014",04/03/14,BRONX,8,1,5,1,0,0,3,0,62,Work day,Work day
+"Thursday, April 3, 2014",04/03/14,BROOKLYN,25,0,11,0,3,0,11,0,134,Work day,Work day
+"Thursday, April 3, 2014",04/03/14,MANHATTAN,30,0,5,0,9,0,16,0,119,Work day,Work day
+"Thursday, April 3, 2014",04/03/14,QUEENS,26,0,4,0,3,0,19,0,111,Work day,Work day
+"Thursday, April 3, 2014",04/03/14,STATEN ISLAND,4,0,1,0,0,0,3,0,19,Work day,Work day
+"Friday, April 4, 2014",04/04/14,,23,0,1,0,1,0,21,0,151,Work day,Work day
+"Friday, April 4, 2014",04/04/14,BRONX,15,0,8,0,0,0,7,0,57,Work day,Work day
+"Friday, April 4, 2014",04/04/14,BROOKLYN,40,1,13,1,1,0,26,0,161,Work day,Work day
+"Friday, April 4, 2014",04/04/14,MANHATTAN,20,0,10,0,2,0,8,0,121,Work day,Work day
+"Friday, April 4, 2014",04/04/14,QUEENS,28,4,6,0,1,0,21,4,115,Work day,Work day
+"Friday, April 4, 2014",04/04/14,STATEN ISLAND,4,0,2,0,0,0,2,0,17,Work day,Work day
+"Saturday, April 5, 2014",04/05/14,,41,0,3,0,1,0,37,0,143,Weekend,Weekend
+"Saturday, April 5, 2014",04/05/14,BRONX,10,0,4,0,0,0,6,0,49,Weekend,Weekend
+"Saturday, April 5, 2014",04/05/14,BROOKLYN,53,0,14,0,2,0,37,0,147,Weekend,Weekend
+"Saturday, April 5, 2014",04/05/14,MANHATTAN,21,0,7,0,0,0,14,0,116,Weekend,Weekend
+"Saturday, April 5, 2014",04/05/14,QUEENS,25,0,4,0,2,0,19,0,106,Weekend,Weekend
+"Saturday, April 5, 2014",04/05/14,STATEN ISLAND,0,1,0,0,0,0,0,1,18,Weekend,Weekend
+"Sunday, April 6, 2014",04/06/14,,37,0,2,0,0,0,35,0,122,Weekend,Weekend
+"Sunday, April 6, 2014",04/06/14,BRONX,12,0,1,0,0,0,11,0,37,Weekend,Weekend
+"Sunday, April 6, 2014",04/06/14,BROOKLYN,41,0,4,0,3,0,34,0,110,Weekend,Weekend
+"Sunday, April 6, 2014",04/06/14,MANHATTAN,17,0,6,0,2,0,9,0,106,Weekend,Weekend
+"Sunday, April 6, 2014",04/06/14,QUEENS,26,0,5,0,2,0,19,0,95,Weekend,Weekend
+"Sunday, April 6, 2014",04/06/14,STATEN ISLAND,1,0,0,0,0,0,1,0,14,Weekend,Weekend
+"Monday, April 7, 2014",04/07/14,,40,0,1,0,0,0,39,0,139,Work day,Work day
+"Monday, April 7, 2014",04/07/14,BRONX,21,0,9,0,0,0,12,0,47,Work day,Work day
+"Monday, April 7, 2014",04/07/14,BROOKLYN,43,0,13,0,6,0,24,0,135,Work day,Work day
+"Monday, April 7, 2014",04/07/14,MANHATTAN,12,0,7,0,0,0,5,0,85,Work day,Work day
+"Monday, April 7, 2014",04/07/14,QUEENS,37,0,15,0,1,0,21,0,108,Work day,Work day
+"Monday, April 7, 2014",04/07/14,STATEN ISLAND,3,0,0,0,0,0,3,0,17,Work day,Work day
+"Tuesday, April 8, 2014",04/08/14,,29,0,1,0,0,0,28,0,141,Work day,Work day
+"Tuesday, April 8, 2014",04/08/14,BRONX,10,0,5,0,1,0,4,0,59,Work day,Work day
+"Tuesday, April 8, 2014",04/08/14,BROOKLYN,42,1,12,0,4,0,26,1,149,Work day,Work day
+"Tuesday, April 8, 2014",04/08/14,MANHATTAN,18,0,6,0,5,0,7,0,127,Work day,Work day
+"Tuesday, April 8, 2014",04/08/14,QUEENS,25,0,8,0,2,0,15,0,109,Work day,Work day
+"Tuesday, April 8, 2014",04/08/14,STATEN ISLAND,6,0,1,0,0,0,5,0,21,Work day,Work day
+"Wednesday, April 9, 2014",04/09/14,,33,1,3,0,0,1,30,0,136,Work day,Work day
+"Wednesday, April 9, 2014",04/09/14,BRONX,19,0,4,0,2,0,13,0,71,Work day,Work day
+"Wednesday, April 9, 2014",04/09/14,BROOKLYN,41,0,9,0,0,0,32,0,146,Work day,Work day
+"Wednesday, April 9, 2014",04/09/14,MANHATTAN,21,0,3,0,5,0,13,0,109,Work day,Work day
+"Wednesday, April 9, 2014",04/09/14,QUEENS,28,0,8,0,0,0,20,0,109,Work day,Work day
+"Wednesday, April 9, 2014",04/09/14,STATEN ISLAND,8,0,4,0,0,0,4,0,24,Work day,Work day
+"Thursday, April 10, 2014",04/10/14,,24,0,3,0,0,0,21,0,137,Work day,Work day
+"Thursday, April 10, 2014",04/10/14,BRONX,12,0,5,0,0,0,7,0,49,Work day,Work day
+"Thursday, April 10, 2014",04/10/14,BROOKLYN,56,0,12,0,6,0,38,0,165,Work day,Work day
+"Thursday, April 10, 2014",04/10/14,MANHATTAN,19,1,7,1,3,0,9,0,144,Work day,Work day
+"Thursday, April 10, 2014",04/10/14,QUEENS,35,0,5,0,3,0,27,0,122,Work day,Work day
+"Thursday, April 10, 2014",04/10/14,STATEN ISLAND,4,0,2,0,0,0,2,0,26,Work day,Work day
+"Friday, April 11, 2014",04/11/14,,32,0,4,0,0,0,28,0,124,Work day,Work day
+"Friday, April 11, 2014",04/11/14,BRONX,18,0,2,0,2,0,14,0,70,Work day,Work day
+"Friday, April 11, 2014",04/11/14,BROOKLYN,31,0,8,0,0,0,23,0,138,Work day,Work day
+"Friday, April 11, 2014",04/11/14,MANHATTAN,27,0,11,0,8,0,8,0,149,Work day,Work day
+"Friday, April 11, 2014",04/11/14,QUEENS,23,0,4,0,1,0,18,0,106,Work day,Work day
+"Friday, April 11, 2014",04/11/14,STATEN ISLAND,5,0,0,0,0,0,5,0,20,Work day,Work day
+"Saturday, April 12, 2014",04/12/14,,63,0,5,0,3,0,55,0,157,Weekend,Weekend
+"Saturday, April 12, 2014",04/12/14,BRONX,16,0,4,0,0,0,12,0,56,Weekend,Weekend
+"Saturday, April 12, 2014",04/12/14,BROOKLYN,40,0,5,0,4,0,31,0,115,Weekend,Weekend
+"Saturday, April 12, 2014",04/12/14,MANHATTAN,26,0,9,0,4,0,13,0,108,Weekend,Weekend
+"Saturday, April 12, 2014",04/12/14,QUEENS,29,0,2,0,4,0,23,0,122,Weekend,Weekend
+"Saturday, April 12, 2014",04/12/14,STATEN ISLAND,5,0,0,0,1,0,4,0,20,Weekend,Weekend
+"Sunday, April 13, 2014",04/13/14,,33,0,3,0,1,0,29,0,110,Weekend,Weekend
+"Sunday, April 13, 2014",04/13/14,BRONX,23,0,4,0,1,0,18,0,50,Weekend,Weekend
+"Sunday, April 13, 2014",04/13/14,BROOKLYN,46,0,8,0,2,0,36,0,112,Weekend,Weekend
+"Sunday, April 13, 2014",04/13/14,MANHATTAN,17,0,4,0,3,0,10,0,96,Weekend,Weekend
+"Sunday, April 13, 2014",04/13/14,QUEENS,24,0,4,0,2,0,18,0,101,Weekend,Weekend
+"Sunday, April 13, 2014",04/13/14,STATEN ISLAND,3,0,0,0,0,0,3,0,13,Weekend,Weekend
+"Monday, April 14, 2014",04/14/14,,52,1,3,0,1,0,48,1,127,Work day,Work day
+"Monday, April 14, 2014",04/14/14,BRONX,13,0,4,0,3,0,6,0,45,Work day,Work day
+"Monday, April 14, 2014",04/14/14,BROOKLYN,56,0,10,0,7,0,39,0,129,Work day,Work day
+"Monday, April 14, 2014",04/14/14,MANHATTAN,16,0,5,0,3,0,8,0,104,Work day,Work day
+"Monday, April 14, 2014",04/14/14,QUEENS,24,0,5,0,2,0,17,0,96,Work day,Work day
+"Monday, April 14, 2014",04/14/14,STATEN ISLAND,3,0,2,0,1,0,0,0,9,Work day,Work day
+"Tuesday, April 15, 2014",04/15/14,,18,0,4,0,0,0,14,0,91,Work day,Work day
+"Tuesday, April 15, 2014",04/15/14,BRONX,14,0,3,0,1,0,10,0,40,Work day,Work day
+"Tuesday, April 15, 2014",04/15/14,BROOKLYN,31,0,6,0,0,0,25,0,101,Work day,Work day
+"Tuesday, April 15, 2014",04/15/14,MANHATTAN,25,0,13,0,3,0,9,0,100,Work day,Work day
+"Tuesday, April 15, 2014",04/15/14,QUEENS,26,0,5,0,1,0,20,0,102,Work day,Work day
+"Tuesday, April 15, 2014",04/15/14,STATEN ISLAND,2,0,1,0,0,0,1,0,16,Work day,Work day
+"Wednesday, April 16, 2014",04/16/14,,35,0,4,0,0,0,31,0,149,Work day,Work day
+"Wednesday, April 16, 2014",04/16/14,BRONX,17,0,5,0,1,0,11,0,64,Work day,Work day
+"Wednesday, April 16, 2014",04/16/14,BROOKLYN,41,1,14,0,6,0,21,1,123,Work day,Work day
+"Wednesday, April 16, 2014",04/16/14,MANHATTAN,25,0,12,0,4,0,9,0,122,Work day,Work day
+"Wednesday, April 16, 2014",04/16/14,QUEENS,30,0,5,0,3,0,22,0,97,Work day,Work day
+"Wednesday, April 16, 2014",04/16/14,STATEN ISLAND,1,0,1,0,0,0,0,0,15,Work day,Work day
+"Thursday, April 17, 2014",04/17/14,,29,0,2,0,1,0,26,0,138,Work day,Work day
+"Thursday, April 17, 2014",04/17/14,BRONX,15,0,5,0,1,0,9,0,49,Work day,Work day
+"Thursday, April 17, 2014",04/17/14,BROOKLYN,21,0,9,0,0,0,12,0,99,Work day,Work day
+"Thursday, April 17, 2014",04/17/14,MANHATTAN,14,1,7,0,1,1,6,0,118,Work day,Work day
+"Thursday, April 17, 2014",04/17/14,QUEENS,14,0,2,0,2,0,10,0,87,Work day,Work day
+"Thursday, April 17, 2014",04/17/14,STATEN ISLAND,4,0,2,0,0,0,2,0,17,Work day,Work day
+"Friday, April 18, 2014",04/18/14,,27,0,3,0,1,0,23,0,129,Work day,Work day
+"Friday, April 18, 2014",04/18/14,BRONX,12,0,2,0,1,0,9,0,49,Work day,Work day
+"Friday, April 18, 2014",04/18/14,BROOKLYN,28,0,6,0,6,0,16,0,117,Work day,Work day
+"Friday, April 18, 2014",04/18/14,MANHATTAN,14,0,1,0,2,0,11,0,97,Work day,Work day
+"Friday, April 18, 2014",04/18/14,QUEENS,11,0,2,0,0,0,9,0,89,Work day,Work day
+"Friday, April 18, 2014",04/18/14,STATEN ISLAND,5,0,0,0,0,0,5,0,15,Work day,Work day
+"Saturday, April 19, 2014",04/19/14,,29,0,1,0,1,0,27,0,121,Weekend,Weekend
+"Saturday, April 19, 2014",04/19/14,BRONX,22,0,6,0,2,0,14,0,64,Weekend,Weekend
+"Saturday, April 19, 2014",04/19/14,BROOKLYN,45,0,11,0,6,0,28,0,107,Weekend,Weekend
+"Saturday, April 19, 2014",04/19/14,MANHATTAN,26,0,5,0,10,0,11,0,105,Weekend,Weekend
+"Saturday, April 19, 2014",04/19/14,QUEENS,24,0,0,0,2,0,22,0,113,Weekend,Weekend
+"Saturday, April 19, 2014",04/19/14,STATEN ISLAND,4,0,0,0,0,0,4,0,14,Weekend,Weekend
+"Sunday, April 20, 2014",04/20/14,,20,0,0,0,0,0,20,0,94,Weekend,Weekend
+"Sunday, April 20, 2014",04/20/14,BRONX,11,0,3,0,1,0,7,0,35,Weekend,Weekend
+"Sunday, April 20, 2014",04/20/14,BROOKLYN,40,0,3,0,1,0,36,0,93,Weekend,Weekend
+"Sunday, April 20, 2014",04/20/14,MANHATTAN,19,0,5,0,5,0,9,0,82,Weekend,Weekend
+"Sunday, April 20, 2014",04/20/14,QUEENS,15,0,2,0,0,0,13,0,82,Weekend,Weekend
+"Sunday, April 20, 2014",04/20/14,STATEN ISLAND,3,0,0,0,0,0,3,0,7,Weekend,Weekend
+"Monday, April 21, 2014",04/21/14,,38,0,5,0,3,0,30,0,146,Work day,Work day
+"Monday, April 21, 2014",04/21/14,BRONX,11,0,4,0,0,0,7,0,52,Work day,Work day
+"Monday, April 21, 2014",04/21/14,BROOKLYN,21,0,2,0,3,0,16,0,107,Work day,Work day
+"Monday, April 21, 2014",04/21/14,MANHATTAN,13,0,5,0,1,0,7,0,83,Work day,Work day
+"Monday, April 21, 2014",04/21/14,QUEENS,26,1,9,1,2,0,15,0,119,Work day,Work day
+"Monday, April 21, 2014",04/21/14,STATEN ISLAND,2,0,0,0,0,0,2,0,13,Work day,Work day
+"Tuesday, April 22, 2014",04/22/14,,27,0,2,0,0,0,25,0,118,Work day,Work day
+"Tuesday, April 22, 2014",04/22/14,BRONX,15,0,3,0,0,0,12,0,45,Work day,Work day
+"Tuesday, April 22, 2014",04/22/14,BROOKLYN,27,0,4,0,3,0,20,0,86,Work day,Work day
+"Tuesday, April 22, 2014",04/22/14,MANHATTAN,18,0,4,0,3,0,11,0,99,Work day,Work day
+"Tuesday, April 22, 2014",04/22/14,QUEENS,28,0,3,0,2,0,23,0,99,Work day,Work day
+"Tuesday, April 22, 2014",04/22/14,STATEN ISLAND,3,0,0,0,2,0,1,0,12,Work day,Work day
+"Wednesday, April 23, 2014",04/23/14,,28,0,3,0,2,0,23,0,115,Work day,Work day
+"Wednesday, April 23, 2014",04/23/14,BRONX,5,0,2,0,0,0,3,0,37,Work day,Work day
+"Wednesday, April 23, 2014",04/23/14,BROOKLYN,41,0,11,0,11,0,19,0,119,Work day,Work day
+"Wednesday, April 23, 2014",04/23/14,MANHATTAN,14,0,8,0,3,0,3,0,134,Work day,Work day
+"Wednesday, April 23, 2014",04/23/14,QUEENS,26,1,12,1,2,0,12,0,114,Work day,Work day
+"Wednesday, April 23, 2014",04/23/14,STATEN ISLAND,3,0,1,0,0,0,2,0,17,Work day,Work day
+"Thursday, April 24, 2014",04/24/14,,28,0,1,0,0,0,27,0,143,Work day,Work day
+"Thursday, April 24, 2014",04/24/14,BRONX,10,0,3,0,0,0,7,0,46,Work day,Work day
+"Thursday, April 24, 2014",04/24/14,BROOKLYN,47,0,10,0,6,0,31,0,140,Work day,Work day
+"Thursday, April 24, 2014",04/24/14,MANHATTAN,23,0,10,0,3,0,10,0,142,Work day,Work day
+"Thursday, April 24, 2014",04/24/14,QUEENS,22,0,1,0,5,0,16,0,98,Work day,Work day
+"Thursday, April 24, 2014",04/24/14,STATEN ISLAND,9,0,1,0,0,0,8,0,17,Work day,Work day
+"Friday, April 25, 2014",04/25/14,,38,0,2,0,0,0,36,0,146,Work day,Work day
+"Friday, April 25, 2014",04/25/14,BRONX,12,0,4,0,1,0,7,0,58,Work day,Work day
+"Friday, April 25, 2014",04/25/14,BROOKLYN,42,0,12,0,5,0,25,0,145,Work day,Work day
+"Friday, April 25, 2014",04/25/14,MANHATTAN,24,0,5,0,4,0,15,0,136,Work day,Work day
+"Friday, April 25, 2014",04/25/14,QUEENS,26,0,0,0,1,0,25,0,110,Work day,Work day
+"Friday, April 25, 2014",04/25/14,STATEN ISLAND,0,0,0,0,0,0,0,0,22,Work day,Work day
+"Saturday, April 26, 2014",04/26/14,,35,1,1,1,1,0,33,0,124,Weekend,Weekend
+"Saturday, April 26, 2014",04/26/14,BRONX,17,0,8,0,0,0,9,0,51,Weekend,Weekend
+"Saturday, April 26, 2014",04/26/14,BROOKLYN,33,1,11,0,1,0,21,1,115,Weekend,Weekend
+"Saturday, April 26, 2014",04/26/14,MANHATTAN,14,0,9,0,4,0,1,0,118,Weekend,Weekend
+"Saturday, April 26, 2014",04/26/14,QUEENS,25,0,4,0,3,0,18,0,122,Weekend,Weekend
+"Saturday, April 26, 2014",04/26/14,STATEN ISLAND,4,0,1,0,0,0,3,0,16,Weekend,Weekend
+"Sunday, April 27, 2014",04/27/14,,49,0,4,0,1,0,44,0,126,Weekend,Weekend
+"Sunday, April 27, 2014",04/27/14,BRONX,12,0,5,0,0,0,7,0,39,Weekend,Weekend
+"Sunday, April 27, 2014",04/27/14,BROOKLYN,46,0,5,0,11,0,30,0,100,Weekend,Weekend
+"Sunday, April 27, 2014",04/27/14,MANHATTAN,18,0,4,0,1,0,13,0,86,Weekend,Weekend
+"Sunday, April 27, 2014",04/27/14,QUEENS,26,0,6,0,0,0,20,0,87,Weekend,Weekend
+"Sunday, April 27, 2014",04/27/14,STATEN ISLAND,13,0,2,0,0,0,11,0,11,Weekend,Weekend
+"Monday, April 28, 2014",04/28/14,,43,0,1,0,1,0,41,0,149,Work day,Work day
+"Monday, April 28, 2014",04/28/14,BRONX,25,1,9,0,0,0,16,1,55,Work day,Work day
+"Monday, April 28, 2014",04/28/14,BROOKLYN,36,0,12,0,2,0,22,0,153,Work day,Work day
+"Monday, April 28, 2014",04/28/14,MANHATTAN,11,0,4,0,4,0,3,0,107,Work day,Work day
+"Monday, April 28, 2014",04/28/14,QUEENS,25,0,4,0,2,0,19,0,114,Work day,Work day
+"Monday, April 28, 2014",04/28/14,STATEN ISLAND,7,0,1,0,0,0,6,0,19,Work day,Work day
+"Tuesday, April 29, 2014",04/29/14,,24,0,1,0,1,0,22,0,128,Work day,Work day
+"Tuesday, April 29, 2014",04/29/14,BRONX,17,0,0,0,0,0,17,0,46,Work day,Work day
+"Tuesday, April 29, 2014",04/29/14,BROOKLYN,21,0,9,0,1,0,11,0,113,Work day,Work day
+"Tuesday, April 29, 2014",04/29/14,MANHATTAN,20,0,7,0,1,0,12,0,117,Work day,Work day
+"Tuesday, April 29, 2014",04/29/14,QUEENS,34,0,6,0,2,0,26,0,135,Work day,Work day
+"Tuesday, April 29, 2014",04/29/14,STATEN ISLAND,1,0,0,0,0,0,1,0,16,Work day,Work day
+"Wednesday, April 30, 2014",04/30/14,,30,0,5,0,0,0,25,0,150,Work day,Work day
+"Wednesday, April 30, 2014",04/30/14,BRONX,10,0,4,0,0,0,6,0,54,Work day,Work day
+"Wednesday, April 30, 2014",04/30/14,BROOKLYN,51,1,14,0,3,0,34,1,156,Work day,Work day
+"Wednesday, April 30, 2014",04/30/14,MANHATTAN,37,1,18,1,2,0,17,0,152,Work day,Work day
+"Wednesday, April 30, 2014",04/30/14,QUEENS,34,0,12,0,0,0,22,0,118,Work day,Work day
+"Wednesday, April 30, 2014",04/30/14,STATEN ISLAND,4,0,2,0,0,0,2,0,21,Work day,Work day
+"Thursday, May 1, 2014",05/01/14,,30,1,3,0,0,0,27,1,162,Work day,Work day
+"Thursday, May 1, 2014",05/01/14,BRONX,26,0,6,0,2,0,18,0,70,Work day,Work day
+"Thursday, May 1, 2014",05/01/14,BROOKLYN,58,0,11,0,3,0,44,0,172,Work day,Work day
+"Thursday, May 1, 2014",05/01/14,MANHATTAN,22,0,6,0,8,0,8,0,123,Work day,Work day
+"Thursday, May 1, 2014",05/01/14,QUEENS,32,0,10,0,3,0,19,0,108,Work day,Work day
+"Thursday, May 1, 2014",05/01/14,STATEN ISLAND,3,0,1,0,0,0,2,0,15,Work day,Work day
+"Friday, May 2, 2014",05/02/14,,43,0,5,0,1,0,37,0,180,Work day,Work day
+"Friday, May 2, 2014",05/02/14,BRONX,18,0,3,0,2,0,13,0,72,Work day,Work day
+"Friday, May 2, 2014",05/02/14,BROOKLYN,29,0,6,0,2,0,21,0,141,Work day,Work day
+"Friday, May 2, 2014",05/02/14,MANHATTAN,17,0,4,0,8,0,5,0,134,Work day,Work day
+"Friday, May 2, 2014",05/02/14,QUEENS,51,0,7,0,5,0,39,0,146,Work day,Work day
+"Friday, May 2, 2014",05/02/14,STATEN ISLAND,4,0,0,0,0,0,4,0,25,Work day,Work day
+"Saturday, May 3, 2014",05/03/14,,35,0,4,0,2,0,29,0,143,Weekend,Weekend
+"Saturday, May 3, 2014",05/03/14,BRONX,26,0,7,0,1,0,18,0,51,Weekend,Weekend
+"Saturday, May 3, 2014",05/03/14,BROOKLYN,34,0,13,0,4,0,17,0,127,Weekend,Weekend
+"Saturday, May 3, 2014",05/03/14,MANHATTAN,17,0,6,0,5,0,6,0,141,Weekend,Weekend
+"Saturday, May 3, 2014",05/03/14,QUEENS,37,1,6,1,3,0,28,0,106,Weekend,Weekend
+"Saturday, May 3, 2014",05/03/14,STATEN ISLAND,4,0,1,0,0,0,3,0,22,Weekend,Weekend
+"Sunday, May 4, 2014",05/04/14,,20,0,1,0,0,0,19,0,97,Weekend,Weekend
+"Sunday, May 4, 2014",05/04/14,BRONX,15,0,7,0,1,0,7,0,44,Weekend,Weekend
+"Sunday, May 4, 2014",05/04/14,BROOKLYN,48,1,7,0,3,0,38,1,112,Weekend,Weekend
+"Sunday, May 4, 2014",05/04/14,MANHATTAN,21,0,7,0,4,0,10,0,96,Weekend,Weekend
+"Sunday, May 4, 2014",05/04/14,QUEENS,33,0,6,0,2,0,25,0,92,Weekend,Weekend
+"Sunday, May 4, 2014",05/04/14,STATEN ISLAND,2,0,0,0,0,0,2,0,10,Weekend,Weekend
+"Monday, May 5, 2014",05/05/14,,44,0,0,0,0,0,44,0,149,Work day,Work day
+"Monday, May 5, 2014",05/05/14,BRONX,17,0,3,0,0,0,14,0,56,Work day,Work day
+"Monday, May 5, 2014",05/05/14,BROOKLYN,49,1,12,1,7,0,30,0,159,Work day,Work day
+"Monday, May 5, 2014",05/05/14,MANHATTAN,24,0,8,0,2,0,14,0,115,Work day,Work day
+"Monday, May 5, 2014",05/05/14,QUEENS,25,0,3,0,4,0,18,0,121,Work day,Work day
+"Monday, May 5, 2014",05/05/14,STATEN ISLAND,0,0,0,0,0,0,0,0,18,Work day,Work day
+"Tuesday, May 6, 2014",05/06/14,,33,0,6,0,1,0,26,0,135,Work day,Work day
+"Tuesday, May 6, 2014",05/06/14,BRONX,14,0,5,0,1,0,8,0,53,Work day,Work day
+"Tuesday, May 6, 2014",05/06/14,BROOKLYN,36,0,7,0,6,0,23,0,131,Work day,Work day
+"Tuesday, May 6, 2014",05/06/14,MANHATTAN,32,1,8,0,6,0,18,1,127,Work day,Work day
+"Tuesday, May 6, 2014",05/06/14,QUEENS,29,0,8,0,3,0,18,0,101,Work day,Work day
+"Tuesday, May 6, 2014",05/06/14,STATEN ISLAND,4,0,2,0,0,0,2,0,18,Work day,Work day
+"Wednesday, May 7, 2014",05/07/14,,41,0,3,0,1,0,37,0,139,Work day,Work day
+"Wednesday, May 7, 2014",05/07/14,BRONX,22,0,7,0,1,0,14,0,60,Work day,Work day
+"Wednesday, May 7, 2014",05/07/14,BROOKLYN,35,0,3,0,3,0,29,0,130,Work day,Work day
+"Wednesday, May 7, 2014",05/07/14,MANHATTAN,27,0,5,0,5,0,17,0,145,Work day,Work day
+"Wednesday, May 7, 2014",05/07/14,QUEENS,26,0,4,0,0,0,22,0,110,Work day,Work day
+"Wednesday, May 7, 2014",05/07/14,STATEN ISLAND,3,0,1,0,0,0,2,0,19,Work day,Work day
+"Thursday, May 8, 2014",05/08/14,,27,0,1,0,0,0,26,0,141,Work day,Work day
+"Thursday, May 8, 2014",05/08/14,BRONX,4,0,2,0,0,0,2,0,49,Work day,Work day
+"Thursday, May 8, 2014",05/08/14,BROOKLYN,38,0,7,0,5,0,26,0,138,Work day,Work day
+"Thursday, May 8, 2014",05/08/14,MANHATTAN,21,1,7,1,4,0,10,0,132,Work day,Work day
+"Thursday, May 8, 2014",05/08/14,QUEENS,35,0,4,0,0,0,31,0,115,Work day,Work day
+"Thursday, May 8, 2014",05/08/14,STATEN ISLAND,6,0,0,0,0,0,6,0,20,Work day,Work day
+"Friday, May 9, 2014",05/09/14,,30,0,3,0,2,0,25,0,144,Work day,Work day
+"Friday, May 9, 2014",05/09/14,BRONX,10,0,3,0,3,0,4,0,63,Work day,Work day
+"Friday, May 9, 2014",05/09/14,BROOKLYN,37,0,15,0,0,0,22,0,137,Work day,Work day
+"Friday, May 9, 2014",05/09/14,MANHATTAN,18,0,7,0,2,0,9,0,115,Work day,Work day
+"Friday, May 9, 2014",05/09/14,QUEENS,26,0,2,0,2,0,22,0,115,Work day,Work day
+"Friday, May 9, 2014",05/09/14,STATEN ISLAND,2,0,0,0,0,0,2,0,10,Work day,Work day
+"Saturday, May 10, 2014",05/10/14,,56,0,2,0,1,0,53,0,145,Weekend,Weekend
+"Saturday, May 10, 2014",05/10/14,BRONX,17,0,2,0,0,0,15,0,50,Weekend,Weekend
+"Saturday, May 10, 2014",05/10/14,BROOKLYN,26,1,7,1,4,0,15,0,96,Weekend,Weekend
+"Saturday, May 10, 2014",05/10/14,MANHATTAN,14,0,3,0,2,0,9,0,119,Weekend,Weekend
+"Saturday, May 10, 2014",05/10/14,QUEENS,37,0,9,0,4,0,24,0,131,Weekend,Weekend
+"Saturday, May 10, 2014",05/10/14,STATEN ISLAND,3,0,0,0,0,0,3,0,8,Weekend,Weekend
+"Sunday, May 11, 2014",05/11/14,,62,1,0,0,2,0,60,1,174,Weekend,Weekend
+"Sunday, May 11, 2014",05/11/14,BRONX,13,0,1,0,1,0,11,0,46,Weekend,Weekend
+"Sunday, May 11, 2014",05/11/14,BROOKLYN,32,0,4,0,5,0,23,0,123,Weekend,Weekend
+"Sunday, May 11, 2014",05/11/14,MANHATTAN,21,0,6,0,1,0,14,0,94,Weekend,Weekend
+"Sunday, May 11, 2014",05/11/14,QUEENS,32,1,2,0,1,1,29,0,128,Weekend,Weekend
+"Sunday, May 11, 2014",05/11/14,STATEN ISLAND,5,0,0,0,0,0,5,0,19,Weekend,Weekend
+"Monday, May 12, 2014",05/12/14,,40,0,5,0,0,0,35,0,138,Work day,Work day
+"Monday, May 12, 2014",05/12/14,BRONX,14,0,6,0,0,0,8,0,47,Work day,Work day
+"Monday, May 12, 2014",05/12/14,BROOKLYN,46,0,8,0,7,0,31,0,141,Work day,Work day
+"Monday, May 12, 2014",05/12/14,MANHATTAN,25,1,9,1,13,0,3,0,140,Work day,Work day
+"Monday, May 12, 2014",05/12/14,QUEENS,23,0,7,0,0,0,16,0,101,Work day,Work day
+"Monday, May 12, 2014",05/12/14,STATEN ISLAND,2,0,1,0,0,0,1,0,14,Work day,Work day
+"Tuesday, May 13, 2014",05/13/14,,37,1,3,0,1,0,33,1,153,Work day,Work day
+"Tuesday, May 13, 2014",05/13/14,BRONX,10,0,2,0,1,0,7,0,41,Work day,Work day
+"Tuesday, May 13, 2014",05/13/14,BROOKLYN,28,0,8,0,4,0,16,0,133,Work day,Work day
+"Tuesday, May 13, 2014",05/13/14,MANHATTAN,21,0,5,0,4,0,12,0,114,Work day,Work day
+"Tuesday, May 13, 2014",05/13/14,QUEENS,26,0,8,0,2,0,16,0,99,Work day,Work day
+"Tuesday, May 13, 2014",05/13/14,STATEN ISLAND,6,0,1,0,0,0,5,0,20,Work day,Work day
+"Wednesday, May 14, 2014",05/14/14,,46,1,6,1,0,0,40,0,169,Work day,Work day
+"Wednesday, May 14, 2014",05/14/14,BRONX,21,0,1,0,2,0,18,0,45,Work day,Work day
+"Wednesday, May 14, 2014",05/14/14,BROOKLYN,48,0,7,0,5,0,36,0,145,Work day,Work day
+"Wednesday, May 14, 2014",05/14/14,MANHATTAN,31,0,13,0,3,0,15,0,148,Work day,Work day
+"Wednesday, May 14, 2014",05/14/14,QUEENS,20,0,6,0,3,0,11,0,112,Work day,Work day
+"Wednesday, May 14, 2014",05/14/14,STATEN ISLAND,6,0,2,0,0,0,4,0,17,Work day,Work day
+"Thursday, May 15, 2014",05/15/14,,57,0,5,0,2,0,48,0,181,Work day,Work day
+"Thursday, May 15, 2014",05/15/14,BRONX,16,0,2,0,2,0,12,0,55,Work day,Work day
+"Thursday, May 15, 2014",05/15/14,BROOKLYN,43,0,11,0,3,0,29,0,160,Work day,Work day
+"Thursday, May 15, 2014",05/15/14,MANHATTAN,30,0,14,0,5,0,11,0,140,Work day,Work day
+"Thursday, May 15, 2014",05/15/14,QUEENS,24,0,9,0,1,0,14,0,97,Work day,Work day
+"Thursday, May 15, 2014",05/15/14,STATEN ISLAND,6,0,0,0,0,0,6,0,26,Work day,Work day
+"Friday, May 16, 2014",05/16/14,,48,1,7,0,0,0,41,1,165,Work day,Work day
+"Friday, May 16, 2014",05/16/14,BRONX,20,0,4,0,0,0,16,0,63,Work day,Work day
+"Friday, May 16, 2014",05/16/14,BROOKLYN,37,0,12,0,2,0,23,0,154,Work day,Work day
+"Friday, May 16, 2014",05/16/14,MANHATTAN,20,0,11,0,1,0,8,0,150,Work day,Work day
+"Friday, May 16, 2014",05/16/14,QUEENS,24,0,6,0,2,0,16,0,140,Work day,Work day
+"Friday, May 16, 2014",05/16/14,STATEN ISLAND,10,0,3,0,0,0,7,0,28,Work day,Work day
+"Saturday, May 17, 2014",05/17/14,,43,0,4,0,1,0,38,0,158,Weekend,Weekend
+"Saturday, May 17, 2014",05/17/14,BRONX,15,0,4,0,2,0,9,0,55,Weekend,Weekend
+"Saturday, May 17, 2014",05/17/14,BROOKLYN,41,0,13,0,5,0,23,0,141,Weekend,Weekend
+"Saturday, May 17, 2014",05/17/14,MANHATTAN,20,0,1,0,6,0,13,0,133,Weekend,Weekend
+"Saturday, May 17, 2014",05/17/14,QUEENS,20,0,4,0,1,0,15,0,113,Weekend,Weekend
+"Saturday, May 17, 2014",05/17/14,STATEN ISLAND,3,0,0,0,0,0,3,0,18,Weekend,Weekend
+"Sunday, May 18, 2014",05/18/14,,24,0,4,0,0,0,20,0,122,Weekend,Weekend
+"Sunday, May 18, 2014",05/18/14,BRONX,16,0,3,0,3,0,10,0,49,Weekend,Weekend
+"Sunday, May 18, 2014",05/18/14,BROOKLYN,47,0,10,0,6,0,31,0,116,Weekend,Weekend
+"Sunday, May 18, 2014",05/18/14,MANHATTAN,19,0,3,0,2,0,14,0,114,Weekend,Weekend
+"Sunday, May 18, 2014",05/18/14,QUEENS,31,0,4,0,0,0,27,0,88,Weekend,Weekend
+"Sunday, May 18, 2014",05/18/14,STATEN ISLAND,6,0,0,0,0,0,6,0,18,Weekend,Weekend
+"Monday, May 19, 2014",05/19/14,,47,0,1,0,2,0,44,0,143,Work day,Work day
+"Monday, May 19, 2014",05/19/14,BRONX,14,0,4,0,2,0,8,0,46,Work day,Work day
+"Monday, May 19, 2014",05/19/14,BROOKLYN,40,2,3,0,4,0,33,2,127,Work day,Work day
+"Monday, May 19, 2014",05/19/14,MANHATTAN,17,0,5,0,6,0,6,0,110,Work day,Work day
+"Monday, May 19, 2014",05/19/14,QUEENS,30,1,2,1,1,0,27,0,131,Work day,Work day
+"Monday, May 19, 2014",05/19/14,STATEN ISLAND,3,0,0,0,0,0,3,0,15,Work day,Work day
+"Tuesday, May 20, 2014",05/20/14,,57,0,1,0,1,0,55,0,178,Work day,Work day
+"Tuesday, May 20, 2014",05/20/14,BRONX,30,0,4,0,0,0,26,0,54,Work day,Work day
+"Tuesday, May 20, 2014",05/20/14,BROOKLYN,42,0,11,0,9,0,22,0,161,Work day,Work day
+"Tuesday, May 20, 2014",05/20/14,MANHATTAN,17,0,8,0,4,0,5,0,133,Work day,Work day
+"Tuesday, May 20, 2014",05/20/14,QUEENS,21,0,6,0,2,0,13,0,107,Work day,Work day
+"Tuesday, May 20, 2014",05/20/14,STATEN ISLAND,11,0,1,0,1,0,9,0,16,Work day,Work day
+"Wednesday, May 21, 2014",05/21/14,,33,0,1,0,1,0,31,0,159,Work day,Work day
+"Wednesday, May 21, 2014",05/21/14,BRONX,16,0,2,0,2,0,12,0,50,Work day,Work day
+"Wednesday, May 21, 2014",05/21/14,BROOKLYN,30,2,8,0,5,0,17,2,123,Work day,Work day
+"Wednesday, May 21, 2014",05/21/14,MANHATTAN,19,0,8,0,4,0,7,0,131,Work day,Work day
+"Wednesday, May 21, 2014",05/21/14,QUEENS,16,1,4,1,2,0,10,0,97,Work day,Work day
+"Wednesday, May 21, 2014",05/21/14,STATEN ISLAND,3,0,0,0,0,0,3,0,15,Work day,Work day
+"Thursday, May 22, 2014",05/22/14,,25,1,6,0,1,0,18,1,147,Work day,Work day
+"Thursday, May 22, 2014",05/22/14,BRONX,15,0,3,0,1,0,11,0,44,Work day,Work day
+"Thursday, May 22, 2014",05/22/14,BROOKLYN,34,0,5,0,1,0,28,0,145,Work day,Work day
+"Thursday, May 22, 2014",05/22/14,MANHATTAN,21,0,10,0,6,0,5,0,132,Work day,Work day
+"Thursday, May 22, 2014",05/22/14,QUEENS,31,0,6,0,3,0,22,0,105,Work day,Work day
+"Thursday, May 22, 2014",05/22/14,STATEN ISLAND,1,0,0,0,0,0,1,0,20,Work day,Work day
+"Friday, May 23, 2014",05/23/14,,50,0,3,0,1,0,46,0,164,Work day,Work day
+"Friday, May 23, 2014",05/23/14,BRONX,34,0,9,0,2,0,23,0,64,Work day,Work day
+"Friday, May 23, 2014",05/23/14,BROOKLYN,36,0,11,0,6,0,19,0,138,Work day,Work day
+"Friday, May 23, 2014",05/23/14,MANHATTAN,24,0,11,0,1,0,12,0,138,Work day,Work day
+"Friday, May 23, 2014",05/23/14,QUEENS,39,1,10,0,3,1,26,0,134,Work day,Work day
+"Friday, May 23, 2014",05/23/14,STATEN ISLAND,1,0,0,0,0,0,1,0,22,Work day,Work day
+"Saturday, May 24, 2014",05/24/14,,36,0,2,0,0,0,34,0,101,Weekend,Weekend
+"Saturday, May 24, 2014",05/24/14,BRONX,16,1,1,0,4,0,11,1,58,Weekend,Weekend
+"Saturday, May 24, 2014",05/24/14,BROOKLYN,48,0,13,0,3,0,32,0,113,Weekend,Weekend
+"Saturday, May 24, 2014",05/24/14,MANHATTAN,12,0,5,0,3,0,4,0,97,Weekend,Weekend
+"Saturday, May 24, 2014",05/24/14,QUEENS,32,0,2,0,3,0,27,0,101,Weekend,Weekend
+"Saturday, May 24, 2014",05/24/14,STATEN ISLAND,4,0,0,0,0,0,4,0,16,Weekend,Weekend
+"Sunday, May 25, 2014",05/25/14,,47,0,1,0,1,0,45,0,115,Weekend,Weekend
+"Sunday, May 25, 2014",05/25/14,BRONX,27,0,5,0,2,0,20,0,54,Weekend,Weekend
+"Sunday, May 25, 2014",05/25/14,BROOKLYN,44,1,10,0,3,0,31,1,122,Weekend,Weekend
+"Sunday, May 25, 2014",05/25/14,MANHATTAN,6,0,0,0,4,0,2,0,79,Weekend,Weekend
+"Sunday, May 25, 2014",05/25/14,QUEENS,21,0,2,0,1,0,18,0,89,Weekend,Weekend
+"Sunday, May 25, 2014",05/25/14,STATEN ISLAND,2,0,1,0,0,0,1,0,13,Weekend,Weekend
+"Monday, May 26, 2014",05/26/14,,45,1,2,0,0,0,43,1,109,Work day,Memorial Day
+"Monday, May 26, 2014",05/26/14,BRONX,12,0,3,0,0,0,9,0,42,Work day,Memorial Day
+"Monday, May 26, 2014",05/26/14,BROOKLYN,33,0,6,0,4,0,23,0,127,Work day,Memorial Day
+"Monday, May 26, 2014",05/26/14,MANHATTAN,9,0,1,0,3,0,5,0,59,Work day,Memorial Day
+"Monday, May 26, 2014",05/26/14,QUEENS,26,0,3,0,1,0,22,0,82,Work day,Memorial Day
+"Monday, May 26, 2014",05/26/14,STATEN ISLAND,5,0,0,0,0,0,5,0,14,Work day,Memorial Day
+"Tuesday, May 27, 2014",05/27/14,,50,1,4,0,0,0,46,1,184,Work day,Work day
+"Tuesday, May 27, 2014",05/27/14,BRONX,21,0,6,0,0,0,15,0,61,Work day,Work day
+"Tuesday, May 27, 2014",05/27/14,BROOKLYN,46,0,10,0,8,0,28,0,140,Work day,Work day
+"Tuesday, May 27, 2014",05/27/14,MANHATTAN,13,0,4,0,3,0,6,0,123,Work day,Work day
+"Tuesday, May 27, 2014",05/27/14,QUEENS,26,0,6,0,3,0,17,0,118,Work day,Work day
+"Tuesday, May 27, 2014",05/27/14,STATEN ISLAND,6,0,1,0,0,0,5,0,19,Work day,Work day
+"Wednesday, May 28, 2014",05/28/14,,12,0,2,0,1,0,9,0,123,Work day,Work day
+"Wednesday, May 28, 2014",05/28/14,BRONX,11,0,5,0,1,0,5,0,60,Work day,Work day
+"Wednesday, May 28, 2014",05/28/14,BROOKLYN,25,0,8,0,4,0,13,0,126,Work day,Work day
+"Wednesday, May 28, 2014",05/28/14,MANHATTAN,8,0,3,0,1,0,4,0,109,Work day,Work day
+"Wednesday, May 28, 2014",05/28/14,QUEENS,22,0,6,0,0,0,16,0,112,Work day,Work day
+"Wednesday, May 28, 2014",05/28/14,STATEN ISLAND,4,0,0,0,0,0,4,0,8,Work day,Work day
+"Thursday, May 29, 2014",05/29/14,,54,0,4,0,1,0,49,0,160,Work day,Work day
+"Thursday, May 29, 2014",05/29/14,BRONX,20,0,7,0,1,0,12,0,52,Work day,Work day
+"Thursday, May 29, 2014",05/29/14,BROOKLYN,47,0,11,0,7,0,29,0,156,Work day,Work day
+"Thursday, May 29, 2014",05/29/14,MANHATTAN,18,0,8,0,3,0,7,0,153,Work day,Work day
+"Thursday, May 29, 2014",05/29/14,QUEENS,40,0,9,0,5,0,26,0,125,Work day,Work day
+"Thursday, May 29, 2014",05/29/14,STATEN ISLAND,6,0,0,0,0,0,6,0,16,Work day,Work day
+"Friday, May 30, 2014",05/30/14,,45,0,4,0,1,0,40,0,160,Work day,Work day
+"Friday, May 30, 2014",05/30/14,BRONX,33,0,8,0,0,0,25,0,70,Work day,Work day
+"Friday, May 30, 2014",05/30/14,BROOKLYN,31,0,13,0,3,0,15,0,130,Work day,Work day
+"Friday, May 30, 2014",05/30/14,MANHATTAN,25,0,12,0,7,0,6,0,147,Work day,Work day
+"Friday, May 30, 2014",05/30/14,QUEENS,29,0,2,0,4,0,23,0,133,Work day,Work day
+"Friday, May 30, 2014",05/30/14,STATEN ISLAND,1,0,0,0,0,0,1,0,10,Work day,Work day
+"Saturday, May 31, 2014",05/31/14,,41,0,0,0,0,0,41,0,126,Weekend,Weekend
+"Saturday, May 31, 2014",05/31/14,BRONX,28,0,7,0,2,0,19,0,60,Weekend,Weekend
+"Saturday, May 31, 2014",05/31/14,BROOKLYN,33,1,7,1,2,0,24,0,140,Weekend,Weekend
+"Saturday, May 31, 2014",05/31/14,MANHATTAN,15,0,11,0,1,0,3,0,125,Weekend,Weekend
+"Saturday, May 31, 2014",05/31/14,QUEENS,34,0,3,0,0,0,31,0,118,Weekend,Weekend
+"Saturday, May 31, 2014",05/31/14,STATEN ISLAND,2,0,0,0,0,0,2,0,18,Weekend,Weekend
+"Sunday, June 1, 2014",06/01/14,,49,0,3,0,0,0,46,0,161,Weekend,Weekend
+"Sunday, June 1, 2014",06/01/14,BRONX,18,0,6,0,3,0,9,0,56,Weekend,Weekend
+"Sunday, June 1, 2014",06/01/14,BROOKLYN,57,0,14,0,8,0,35,0,128,Weekend,Weekend
+"Sunday, June 1, 2014",06/01/14,MANHATTAN,18,0,4,0,4,0,10,0,122,Weekend,Weekend
+"Sunday, June 1, 2014",06/01/14,QUEENS,38,0,6,0,0,0,32,0,110,Weekend,Weekend
+"Sunday, June 1, 2014",06/01/14,STATEN ISLAND,7,0,1,0,0,0,6,0,26,Weekend,Weekend
+"Monday, June 2, 2014",06/02/14,,41,0,5,0,0,0,36,0,153,Work day,Work day
+"Monday, June 2, 2014",06/02/14,BRONX,19,1,3,0,1,0,15,1,64,Work day,Work day
+"Monday, June 2, 2014",06/02/14,BROOKLYN,56,1,15,1,10,0,31,0,170,Work day,Work day
+"Monday, June 2, 2014",06/02/14,MANHATTAN,14,0,5,0,4,0,5,0,104,Work day,Work day
+"Monday, June 2, 2014",06/02/14,QUEENS,30,1,6,0,7,0,17,1,135,Work day,Work day
+"Monday, June 2, 2014",06/02/14,STATEN ISLAND,4,0,1,0,1,0,2,0,17,Work day,Work day
+"Tuesday, June 3, 2014",06/03/14,,35,0,4,0,0,0,31,0,158,Work day,Work day
+"Tuesday, June 3, 2014",06/03/14,BRONX,24,0,7,0,1,0,16,0,57,Work day,Work day
+"Tuesday, June 3, 2014",06/03/14,BROOKLYN,41,0,9,0,3,0,29,0,168,Work day,Work day
+"Tuesday, June 3, 2014",06/03/14,MANHATTAN,11,0,3,0,2,0,6,0,137,Work day,Work day
+"Tuesday, June 3, 2014",06/03/14,QUEENS,16,0,4,0,1,0,11,0,126,Work day,Work day
+"Tuesday, June 3, 2014",06/03/14,STATEN ISLAND,4,0,0,0,0,0,4,0,17,Work day,Work day
+"Wednesday, June 4, 2014",06/04/14,,32,1,2,0,3,0,27,1,148,Work day,Work day
+"Wednesday, June 4, 2014",06/04/14,BRONX,24,0,8,0,1,0,15,0,54,Work day,Work day
+"Wednesday, June 4, 2014",06/04/14,BROOKLYN,32,0,7,0,3,0,22,0,110,Work day,Work day
+"Wednesday, June 4, 2014",06/04/14,MANHATTAN,13,0,0,0,5,0,8,0,130,Work day,Work day
+"Wednesday, June 4, 2014",06/04/14,QUEENS,33,0,3,0,1,0,29,0,112,Work day,Work day
+"Wednesday, June 4, 2014",06/04/14,STATEN ISLAND,2,0,1,0,0,0,1,0,28,Work day,Work day
+"Thursday, June 5, 2014",06/05/14,,24,0,3,0,1,0,20,0,126,Work day,Work day
+"Thursday, June 5, 2014",06/05/14,BRONX,24,0,3,0,0,0,21,0,54,Work day,Work day
+"Thursday, June 5, 2014",06/05/14,BROOKLYN,34,0,6,0,3,0,25,0,133,Work day,Work day
+"Thursday, June 5, 2014",06/05/14,MANHATTAN,16,1,6,0,3,0,7,1,123,Work day,Work day
+"Thursday, June 5, 2014",06/05/14,QUEENS,34,0,8,0,3,0,23,0,109,Work day,Work day
+"Thursday, June 5, 2014",06/05/14,STATEN ISLAND,0,1,0,0,0,0,0,1,23,Work day,Work day
+"Friday, June 6, 2014",06/06/14,,48,0,5,0,0,0,43,0,185,Work day,Work day
+"Friday, June 6, 2014",06/06/14,BRONX,21,0,5,0,1,0,15,0,57,Work day,Work day
+"Friday, June 6, 2014",06/06/14,BROOKLYN,64,0,10,0,12,0,42,0,162,Work day,Work day
+"Friday, June 6, 2014",06/06/14,MANHATTAN,30,0,11,0,8,0,11,0,180,Work day,Work day
+"Friday, June 6, 2014",06/06/14,QUEENS,26,1,9,0,1,1,16,0,131,Work day,Work day
+"Friday, June 6, 2014",06/06/14,STATEN ISLAND,7,0,0,0,1,0,6,0,28,Work day,Work day
+"Saturday, June 7, 2014",06/07/14,,37,0,1,0,2,0,34,0,149,Weekend,Weekend
+"Saturday, June 7, 2014",06/07/14,BRONX,34,0,5,0,1,0,28,0,58,Weekend,Weekend
+"Saturday, June 7, 2014",06/07/14,BROOKLYN,43,0,11,0,4,0,28,0,135,Weekend,Weekend
+"Saturday, June 7, 2014",06/07/14,MANHATTAN,22,0,5,0,5,0,12,0,127,Weekend,Weekend
+"Saturday, June 7, 2014",06/07/14,QUEENS,48,1,4,1,0,0,44,0,135,Weekend,Weekend
+"Saturday, June 7, 2014",06/07/14,STATEN ISLAND,8,0,0,0,1,0,7,0,18,Weekend,Weekend
+"Sunday, June 8, 2014",06/08/14,,58,0,1,0,1,0,56,0,116,Weekend,Weekend
+"Sunday, June 8, 2014",06/08/14,BRONX,18,0,2,0,2,0,14,0,47,Weekend,Weekend
+"Sunday, June 8, 2014",06/08/14,BROOKLYN,66,0,11,0,4,0,51,0,126,Weekend,Weekend
+"Sunday, June 8, 2014",06/08/14,MANHATTAN,31,0,4,0,2,0,25,0,99,Weekend,Weekend
+"Sunday, June 8, 2014",06/08/14,QUEENS,27,0,2,0,6,0,19,0,105,Weekend,Weekend
+"Sunday, June 8, 2014",06/08/14,STATEN ISLAND,4,0,0,0,0,0,4,0,22,Weekend,Weekend
+"Monday, June 9, 2014",06/09/14,,45,0,2,0,0,0,43,0,140,Work day,Work day
+"Monday, June 9, 2014",06/09/14,BRONX,13,0,1,0,0,0,12,0,42,Work day,Work day
+"Monday, June 9, 2014",06/09/14,BROOKLYN,40,0,11,0,1,0,28,0,126,Work day,Work day
+"Monday, June 9, 2014",06/09/14,MANHATTAN,13,0,3,0,0,0,10,0,105,Work day,Work day
+"Monday, June 9, 2014",06/09/14,QUEENS,22,0,6,0,3,0,13,0,100,Work day,Work day
+"Monday, June 9, 2014",06/09/14,STATEN ISLAND,7,1,1,1,0,0,6,0,15,Work day,Work day
+"Tuesday, June 10, 2014",06/10/14,,29,0,1,0,0,0,28,0,139,Work day,Work day
+"Tuesday, June 10, 2014",06/10/14,BRONX,5,0,1,0,1,0,3,0,40,Work day,Work day
+"Tuesday, June 10, 2014",06/10/14,BROOKLYN,34,1,12,0,2,1,20,0,148,Work day,Work day
+"Tuesday, June 10, 2014",06/10/14,MANHATTAN,13,0,6,0,2,0,5,0,108,Work day,Work day
+"Tuesday, June 10, 2014",06/10/14,QUEENS,31,1,4,0,0,1,27,0,111,Work day,Work day
+"Tuesday, June 10, 2014",06/10/14,STATEN ISLAND,11,0,1,0,0,0,10,0,23,Work day,Work day
+"Wednesday, June 11, 2014",06/11/14,,47,0,4,0,0,0,43,0,140,Work day,Work day
+"Wednesday, June 11, 2014",06/11/14,BRONX,24,0,5,0,1,0,18,0,48,Work day,Work day
+"Wednesday, June 11, 2014",06/11/14,BROOKLYN,33,0,7,0,5,0,21,0,123,Work day,Work day
+"Wednesday, June 11, 2014",06/11/14,MANHATTAN,21,0,11,0,4,0,6,0,135,Work day,Work day
+"Wednesday, June 11, 2014",06/11/14,QUEENS,14,0,3,0,1,0,10,0,109,Work day,Work day
+"Wednesday, June 11, 2014",06/11/14,STATEN ISLAND,3,0,1,0,0,0,2,0,21,Work day,Work day
+"Thursday, June 12, 2014",06/12/14,,34,0,2,0,3,0,29,0,129,Work day,Work day
+"Thursday, June 12, 2014",06/12/14,BRONX,21,0,2,0,3,0,16,0,50,Work day,Work day
+"Thursday, June 12, 2014",06/12/14,BROOKLYN,47,0,3,0,6,0,38,0,126,Work day,Work day
+"Thursday, June 12, 2014",06/12/14,MANHATTAN,20,0,9,0,4,0,7,0,122,Work day,Work day
+"Thursday, June 12, 2014",06/12/14,QUEENS,31,0,4,0,2,0,25,0,101,Work day,Work day
+"Thursday, June 12, 2014",06/12/14,STATEN ISLAND,5,0,1,0,0,0,4,0,33,Work day,Work day
+"Friday, June 13, 2014",06/13/14,,37,0,1,0,1,0,35,0,153,Work day,Work day
+"Friday, June 13, 2014",06/13/14,BRONX,28,0,5,0,1,0,22,0,72,Work day,Work day
+"Friday, June 13, 2014",06/13/14,BROOKLYN,67,1,20,1,5,0,42,0,158,Work day,Work day
+"Friday, June 13, 2014",06/13/14,MANHATTAN,22,0,8,0,5,0,9,0,155,Work day,Work day
+"Friday, June 13, 2014",06/13/14,QUEENS,27,2,5,0,2,0,20,2,140,Work day,Work day
+"Friday, June 13, 2014",06/13/14,STATEN ISLAND,8,0,0,0,0,0,8,0,29,Work day,Work day
+"Saturday, June 14, 2014",06/14/14,,33,0,2,0,1,0,30,0,133,Weekend,Weekend
+"Saturday, June 14, 2014",06/14/14,BRONX,22,0,5,0,3,0,14,0,78,Weekend,Weekend
+"Saturday, June 14, 2014",06/14/14,BROOKLYN,35,0,9,0,2,0,24,0,143,Weekend,Weekend
+"Saturday, June 14, 2014",06/14/14,MANHATTAN,14,0,2,0,3,0,9,0,115,Weekend,Weekend
+"Saturday, June 14, 2014",06/14/14,QUEENS,27,0,6,0,2,0,19,0,121,Weekend,Weekend
+"Saturday, June 14, 2014",06/14/14,STATEN ISLAND,3,0,0,0,0,0,3,0,21,Weekend,Weekend
+"Sunday, June 15, 2014",06/15/14,,41,1,5,0,0,0,36,1,110,Weekend,Weekend
+"Sunday, June 15, 2014",06/15/14,BRONX,27,0,4,0,4,0,19,0,50,Weekend,Weekend
+"Sunday, June 15, 2014",06/15/14,BROOKLYN,65,0,10,0,3,0,52,0,136,Weekend,Weekend
+"Sunday, June 15, 2014",06/15/14,MANHATTAN,16,0,3,0,5,0,8,0,76,Weekend,Weekend
+"Sunday, June 15, 2014",06/15/14,QUEENS,29,0,2,0,2,0,25,0,94,Weekend,Weekend
+"Sunday, June 15, 2014",06/15/14,STATEN ISLAND,0,0,0,0,0,0,0,0,9,Weekend,Weekend
+"Monday, June 16, 2014",06/16/14,,49,0,3,0,1,0,45,0,151,Work day,Work day
+"Monday, June 16, 2014",06/16/14,BRONX,26,0,4,0,0,0,22,0,53,Work day,Work day
+"Monday, June 16, 2014",06/16/14,BROOKLYN,37,0,13,0,6,0,18,0,132,Work day,Work day
+"Monday, June 16, 2014",06/16/14,MANHATTAN,24,0,9,0,6,0,9,0,119,Work day,Work day
+"Monday, June 16, 2014",06/16/14,QUEENS,38,0,12,0,0,0,26,0,142,Work day,Work day
+"Monday, June 16, 2014",06/16/14,STATEN ISLAND,5,0,0,0,0,0,5,0,25,Work day,Work day
+"Tuesday, June 17, 2014",06/17/14,,42,0,2,0,2,0,38,0,152,Work day,Work day
+"Tuesday, June 17, 2014",06/17/14,BRONX,19,0,5,0,0,0,14,0,58,Work day,Work day
+"Tuesday, June 17, 2014",06/17/14,BROOKLYN,68,0,12,0,7,0,49,0,179,Work day,Work day
+"Tuesday, June 17, 2014",06/17/14,MANHATTAN,28,0,8,0,4,0,16,0,133,Work day,Work day
+"Tuesday, June 17, 2014",06/17/14,QUEENS,28,0,6,0,5,0,17,0,125,Work day,Work day
+"Tuesday, June 17, 2014",06/17/14,STATEN ISLAND,5,0,1,0,1,0,3,0,19,Work day,Work day
+"Wednesday, June 18, 2014",06/18/14,,37,0,3,0,2,0,32,0,153,Work day,Work day
+"Wednesday, June 18, 2014",06/18/14,BRONX,20,0,8,0,0,0,12,0,59,Work day,Work day
+"Wednesday, June 18, 2014",06/18/14,BROOKLYN,39,0,10,0,6,0,23,0,157,Work day,Work day
+"Wednesday, June 18, 2014",06/18/14,MANHATTAN,24,0,12,0,3,0,9,0,143,Work day,Work day
+"Wednesday, June 18, 2014",06/18/14,QUEENS,26,0,3,0,3,0,20,0,124,Work day,Work day
+"Wednesday, June 18, 2014",06/18/14,STATEN ISLAND,4,0,1,0,0,0,3,0,27,Work day,Work day
+"Thursday, June 19, 2014",06/19/14,,45,0,2,0,4,0,39,0,173,Work day,Work day
+"Thursday, June 19, 2014",06/19/14,BRONX,23,0,5,0,1,0,17,0,60,Work day,Work day
+"Thursday, June 19, 2014",06/19/14,BROOKLYN,40,0,13,0,6,0,21,0,155,Work day,Work day
+"Thursday, June 19, 2014",06/19/14,MANHATTAN,32,0,11,0,10,0,11,0,142,Work day,Work day
+"Thursday, June 19, 2014",06/19/14,QUEENS,18,0,4,0,2,0,12,0,119,Work day,Work day
+"Thursday, June 19, 2014",06/19/14,STATEN ISLAND,6,0,0,0,0,0,6,0,25,Work day,Work day
+"Friday, June 20, 2014",06/20/14,,58,2,4,0,4,0,50,2,182,Work day,Work day
+"Friday, June 20, 2014",06/20/14,BRONX,21,0,5,0,2,0,14,0,74,Work day,Work day
+"Friday, June 20, 2014",06/20/14,BROOKLYN,57,0,15,0,14,0,28,0,185,Work day,Work day
+"Friday, June 20, 2014",06/20/14,MANHATTAN,29,0,10,0,6,0,13,0,159,Work day,Work day
+"Friday, June 20, 2014",06/20/14,QUEENS,36,0,7,0,4,0,25,0,139,Work day,Work day
+"Friday, June 20, 2014",06/20/14,STATEN ISLAND,10,0,2,0,0,0,8,0,26,Work day,Work day
+"Saturday, June 21, 2014",06/21/14,,55,1,2,1,2,0,51,0,144,Weekend,Weekend
+"Saturday, June 21, 2014",06/21/14,BRONX,28,0,9,0,3,0,16,0,65,Weekend,Weekend
+"Saturday, June 21, 2014",06/21/14,BROOKLYN,21,0,5,0,2,0,14,0,105,Weekend,Weekend
+"Saturday, June 21, 2014",06/21/14,MANHATTAN,34,0,7,0,5,0,22,0,97,Weekend,Weekend
+"Saturday, June 21, 2014",06/21/14,QUEENS,35,0,9,0,3,0,23,0,132,Weekend,Weekend
+"Saturday, June 21, 2014",06/21/14,STATEN ISLAND,1,0,0,0,0,0,1,0,14,Weekend,Weekend
+"Sunday, June 22, 2014",06/22/14,,39,0,2,0,1,0,36,0,120,Weekend,Weekend
+"Sunday, June 22, 2014",06/22/14,BRONX,23,0,3,0,2,0,18,0,50,Weekend,Weekend
+"Sunday, June 22, 2014",06/22/14,BROOKLYN,33,0,2,0,3,0,28,0,111,Weekend,Weekend
+"Sunday, June 22, 2014",06/22/14,MANHATTAN,17,0,4,0,3,0,10,0,85,Weekend,Weekend
+"Sunday, June 22, 2014",06/22/14,QUEENS,28,0,4,0,1,0,23,0,100,Weekend,Weekend
+"Sunday, June 22, 2014",06/22/14,STATEN ISLAND,4,0,0,0,0,0,4,0,11,Weekend,Weekend
+"Monday, June 23, 2014",06/23/14,,28,0,5,0,2,0,21,0,150,Work day,Work day
+"Monday, June 23, 2014",06/23/14,BRONX,15,0,5,0,3,0,7,0,73,Work day,Work day
+"Monday, June 23, 2014",06/23/14,BROOKLYN,45,0,22,0,4,0,19,0,159,Work day,Work day
+"Monday, June 23, 2014",06/23/14,MANHATTAN,21,0,7,0,5,0,9,0,109,Work day,Work day
+"Monday, June 23, 2014",06/23/14,QUEENS,38,0,8,0,2,0,28,0,121,Work day,Work day
+"Monday, June 23, 2014",06/23/14,STATEN ISLAND,9,0,2,0,0,0,7,0,31,Work day,Work day
+"Tuesday, June 24, 2014",06/24/14,,38,0,4,0,1,0,33,0,150,Work day,Work day
+"Tuesday, June 24, 2014",06/24/14,BRONX,21,0,8,0,3,0,10,0,65,Work day,Work day
+"Tuesday, June 24, 2014",06/24/14,BROOKLYN,28,0,3,0,7,0,18,0,149,Work day,Work day
+"Tuesday, June 24, 2014",06/24/14,MANHATTAN,26,0,9,0,11,0,6,0,128,Work day,Work day
+"Tuesday, June 24, 2014",06/24/14,QUEENS,30,0,5,0,6,0,19,0,122,Work day,Work day
+"Tuesday, June 24, 2014",06/24/14,STATEN ISLAND,7,0,1,0,0,0,6,0,18,Work day,Work day
+"Wednesday, June 25, 2014",06/25/14,,36,1,4,0,1,0,31,1,151,Work day,Work day
+"Wednesday, June 25, 2014",06/25/14,BRONX,19,0,4,0,3,0,12,0,65,Work day,Work day
+"Wednesday, June 25, 2014",06/25/14,BROOKLYN,62,1,20,1,8,0,34,0,153,Work day,Work day
+"Wednesday, June 25, 2014",06/25/14,MANHATTAN,19,0,8,0,3,0,8,0,122,Work day,Work day
+"Wednesday, June 25, 2014",06/25/14,QUEENS,35,0,3,0,4,0,28,0,135,Work day,Work day
+"Wednesday, June 25, 2014",06/25/14,STATEN ISLAND,4,0,1,0,0,0,3,0,19,Work day,Work day
+"Thursday, June 26, 2014",06/26/14,,37,0,3,0,0,0,34,0,170,Work day,Work day
+"Thursday, June 26, 2014",06/26/14,BRONX,29,0,7,0,3,0,19,0,64,Work day,Work day
+"Thursday, June 26, 2014",06/26/14,BROOKLYN,61,0,16,0,10,0,35,0,158,Work day,Work day
+"Thursday, June 26, 2014",06/26/14,MANHATTAN,29,0,8,0,5,0,16,0,129,Work day,Work day
+"Thursday, June 26, 2014",06/26/14,QUEENS,35,0,11,0,2,0,22,0,128,Work day,Work day
+"Thursday, June 26, 2014",06/26/14,STATEN ISLAND,4,0,0,0,0,0,4,0,21,Work day,Work day
+"Friday, June 27, 2014",06/27/14,,41,0,3,0,0,0,38,0,163,Work day,Work day
+"Friday, June 27, 2014",06/27/14,BRONX,21,0,5,0,3,0,13,0,66,Work day,Work day
+"Friday, June 27, 2014",06/27/14,BROOKLYN,49,0,11,0,7,0,31,0,142,Work day,Work day
+"Friday, June 27, 2014",06/27/14,MANHATTAN,24,0,10,0,5,0,9,0,139,Work day,Work day
+"Friday, June 27, 2014",06/27/14,QUEENS,20,0,4,0,0,0,16,0,130,Work day,Work day
+"Friday, June 27, 2014",06/27/14,STATEN ISLAND,3,0,2,0,0,0,1,0,20,Work day,Work day
+"Saturday, June 28, 2014",06/28/14,,42,0,1,0,1,0,39,0,153,Weekend,Weekend
+"Saturday, June 28, 2014",06/28/14,BRONX,16,0,2,0,2,0,12,0,64,Weekend,Weekend
+"Saturday, June 28, 2014",06/28/14,BROOKLYN,51,1,6,1,8,0,37,0,124,Weekend,Weekend
+"Saturday, June 28, 2014",06/28/14,MANHATTAN,30,0,11,0,3,0,16,0,123,Weekend,Weekend
+"Saturday, June 28, 2014",06/28/14,QUEENS,56,0,25,0,3,0,28,0,133,Weekend,Weekend
+"Saturday, June 28, 2014",06/28/14,STATEN ISLAND,2,0,0,0,1,0,1,0,13,Weekend,Weekend
+"Sunday, June 29, 2014",06/29/14,,32,0,1,0,1,0,30,0,134,Weekend,Weekend
+"Sunday, June 29, 2014",06/29/14,BRONX,21,0,6,0,3,0,12,0,58,Weekend,Weekend
+"Sunday, June 29, 2014",06/29/14,BROOKLYN,52,0,6,0,2,0,44,0,109,Weekend,Weekend
+"Sunday, June 29, 2014",06/29/14,MANHATTAN,21,0,5,0,3,0,13,0,109,Weekend,Weekend
+"Sunday, June 29, 2014",06/29/14,QUEENS,40,1,4,0,5,0,31,1,113,Weekend,Weekend
+"Sunday, June 29, 2014",06/29/14,STATEN ISLAND,1,0,0,0,0,0,1,0,14,Weekend,Weekend
+"Monday, June 30, 2014",06/30/14,,46,0,5,0,3,0,38,0,148,Work day,Work day
+"Monday, June 30, 2014",06/30/14,BRONX,14,0,3,0,1,0,10,0,46,Work day,Work day
+"Monday, June 30, 2014",06/30/14,BROOKLYN,41,0,5,0,9,0,27,0,135,Work day,Work day
+"Monday, June 30, 2014",06/30/14,MANHATTAN,30,0,8,0,7,0,15,0,140,Work day,Work day
+"Monday, June 30, 2014",06/30/14,QUEENS,29,0,5,0,3,0,21,0,124,Work day,Work day
+"Monday, June 30, 2014",06/30/14,STATEN ISLAND,4,0,2,0,0,0,2,0,16,Work day,Work day
+"Tuesday, July 1, 2014",07/01/14,,33,0,7,0,2,0,24,0,138,Work day,Work day
+"Tuesday, July 1, 2014",07/01/14,BRONX,15,0,6,0,0,0,9,0,65,Work day,Work day
+"Tuesday, July 1, 2014",07/01/14,BROOKLYN,50,0,7,0,9,0,34,0,154,Work day,Work day
+"Tuesday, July 1, 2014",07/01/14,MANHATTAN,20,0,9,0,3,0,8,0,111,Work day,Work day
+"Tuesday, July 1, 2014",07/01/14,QUEENS,28,0,4,0,3,0,21,0,133,Work day,Work day
+"Tuesday, July 1, 2014",07/01/14,STATEN ISLAND,3,0,2,0,0,0,1,0,15,Work day,Work day
+"Wednesday, July 2, 2014",07/02/14,,34,1,3,0,2,0,29,1,163,Work day,Work day
+"Wednesday, July 2, 2014",07/02/14,BRONX,21,0,3,0,1,0,17,0,56,Work day,Work day
+"Wednesday, July 2, 2014",07/02/14,BROOKLYN,38,1,14,1,8,0,16,0,153,Work day,Work day
+"Wednesday, July 2, 2014",07/02/14,MANHATTAN,25,1,7,1,3,0,15,0,144,Work day,Work day
+"Wednesday, July 2, 2014",07/02/14,QUEENS,33,0,4,0,4,0,25,0,122,Work day,Work day
+"Wednesday, July 2, 2014",07/02/14,STATEN ISLAND,4,0,0,0,0,0,4,0,20,Work day,Work day
+"Thursday, July 3, 2014",07/03/14,,73,0,7,0,3,0,63,0,197,Work day,Work day
+"Thursday, July 3, 2014",07/03/14,BRONX,32,0,12,0,4,0,16,0,63,Work day,Work day
+"Thursday, July 3, 2014",07/03/14,BROOKLYN,51,1,9,1,8,0,34,0,198,Work day,Work day
+"Thursday, July 3, 2014",07/03/14,MANHATTAN,19,0,8,0,5,0,6,0,131,Work day,Work day
+"Thursday, July 3, 2014",07/03/14,QUEENS,27,0,6,0,1,0,20,0,123,Work day,Work day
+"Thursday, July 3, 2014",07/03/14,STATEN ISLAND,1,0,0,0,0,0,1,0,28,Work day,Work day
+"Friday, July 4, 2014",07/04/14,,29,0,1,0,1,0,27,0,88,Work day,Independence Day
+"Friday, July 4, 2014",07/04/14,BRONX,16,0,5,0,1,0,10,0,39,Work day,Independence Day
+"Friday, July 4, 2014",07/04/14,BROOKLYN,27,0,4,0,1,0,22,0,82,Work day,Independence Day
+"Friday, July 4, 2014",07/04/14,MANHATTAN,12,0,3,0,4,0,5,0,65,Work day,Independence Day
+"Friday, July 4, 2014",07/04/14,QUEENS,28,1,6,0,1,0,21,1,72,Work day,Independence Day
+"Friday, July 4, 2014",07/04/14,STATEN ISLAND,6,0,1,0,0,0,5,0,14,Work day,Independence Day
+"Saturday, July 5, 2014",07/05/14,,65,0,3,0,2,0,60,0,124,Weekend,Weekend
+"Saturday, July 5, 2014",07/05/14,BRONX,26,0,8,0,1,0,17,0,60,Weekend,Weekend
+"Saturday, July 5, 2014",07/05/14,BROOKLYN,58,0,13,0,7,0,38,0,126,Weekend,Weekend
+"Saturday, July 5, 2014",07/05/14,MANHATTAN,27,0,7,0,7,0,13,0,78,Weekend,Weekend
+"Saturday, July 5, 2014",07/05/14,QUEENS,28,1,2,1,4,0,22,0,102,Weekend,Weekend
+"Saturday, July 5, 2014",07/05/14,STATEN ISLAND,15,0,0,0,0,0,15,0,15,Weekend,Weekend
+"Sunday, July 6, 2014",07/06/14,,39,1,3,0,0,1,36,0,116,Weekend,Weekend
+"Sunday, July 6, 2014",07/06/14,BRONX,15,0,1,0,1,0,13,0,44,Weekend,Weekend
+"Sunday, July 6, 2014",07/06/14,BROOKLYN,42,0,5,0,2,0,35,0,96,Weekend,Weekend
+"Sunday, July 6, 2014",07/06/14,MANHATTAN,14,0,6,0,5,0,3,0,79,Weekend,Weekend
+"Sunday, July 6, 2014",07/06/14,QUEENS,29,0,1,0,4,0,24,0,100,Weekend,Weekend
+"Sunday, July 6, 2014",07/06/14,STATEN ISLAND,9,0,0,0,0,0,9,0,15,Weekend,Weekend
+"Monday, July 7, 2014",07/07/14,,30,0,5,0,1,0,24,0,141,Work day,Work day
+"Monday, July 7, 2014",07/07/14,BRONX,34,0,2,0,2,0,30,0,67,Work day,Work day
+"Monday, July 7, 2014",07/07/14,BROOKLYN,45,0,6,0,4,0,35,0,143,Work day,Work day
+"Monday, July 7, 2014",07/07/14,MANHATTAN,8,0,1,0,4,0,3,0,117,Work day,Work day
+"Monday, July 7, 2014",07/07/14,QUEENS,43,0,6,0,3,0,34,0,121,Work day,Work day
+"Monday, July 7, 2014",07/07/14,STATEN ISLAND,9,0,0,0,0,0,9,0,24,Work day,Work day
+"Tuesday, July 8, 2014",07/08/14,,31,0,4,0,1,0,26,0,130,Work day,Work day
+"Tuesday, July 8, 2014",07/08/14,BRONX,11,0,5,0,2,0,4,0,50,Work day,Work day
+"Tuesday, July 8, 2014",07/08/14,BROOKLYN,56,0,6,0,10,0,40,0,135,Work day,Work day
+"Tuesday, July 8, 2014",07/08/14,MANHATTAN,15,0,7,0,2,0,6,0,128,Work day,Work day
+"Tuesday, July 8, 2014",07/08/14,QUEENS,20,0,5,0,4,0,11,0,127,Work day,Work day
+"Tuesday, July 8, 2014",07/08/14,STATEN ISLAND,7,0,1,0,0,0,6,0,23,Work day,Work day
+"Wednesday, July 9, 2014",07/09/14,,31,0,1,0,2,0,28,0,138,Work day,Work day
+"Wednesday, July 9, 2014",07/09/14,BRONX,14,0,4,0,4,0,6,0,64,Work day,Work day
+"Wednesday, July 9, 2014",07/09/14,BROOKLYN,20,1,7,0,3,0,10,1,132,Work day,Work day
+"Wednesday, July 9, 2014",07/09/14,MANHATTAN,23,0,8,0,3,0,12,0,106,Work day,Work day
+"Wednesday, July 9, 2014",07/09/14,QUEENS,20,1,5,0,2,0,13,1,107,Work day,Work day
+"Wednesday, July 9, 2014",07/09/14,STATEN ISLAND,4,0,1,0,0,0,3,0,22,Work day,Work day
+"Thursday, July 10, 2014",07/10/14,,28,0,3,0,1,0,24,0,139,Work day,Work day
+"Thursday, July 10, 2014",07/10/14,BRONX,17,0,2,0,3,0,12,0,46,Work day,Work day
+"Thursday, July 10, 2014",07/10/14,BROOKLYN,38,0,9,0,4,0,25,0,142,Work day,Work day
+"Thursday, July 10, 2014",07/10/14,MANHATTAN,22,1,9,1,5,0,8,0,122,Work day,Work day
+"Thursday, July 10, 2014",07/10/14,QUEENS,27,0,5,0,3,0,19,0,111,Work day,Work day
+"Thursday, July 10, 2014",07/10/14,STATEN ISLAND,4,0,0,0,0,0,4,0,24,Work day,Work day
+"Friday, July 11, 2014",07/11/14,,39,0,2,0,2,0,35,0,165,Work day,Work day
+"Friday, July 11, 2014",07/11/14,BRONX,26,0,4,0,2,0,20,0,60,Work day,Work day
+"Friday, July 11, 2014",07/11/14,BROOKLYN,44,0,12,0,3,0,29,0,148,Work day,Work day
+"Friday, July 11, 2014",07/11/14,MANHATTAN,14,0,6,0,4,0,4,0,123,Work day,Work day
+"Friday, July 11, 2014",07/11/14,QUEENS,47,0,9,0,6,0,32,0,126,Work day,Work day
+"Friday, July 11, 2014",07/11/14,STATEN ISLAND,8,0,0,0,0,0,8,0,18,Work day,Work day
+"Saturday, July 12, 2014",07/12/14,,32,0,0,0,0,0,32,0,137,Weekend,Weekend
+"Saturday, July 12, 2014",07/12/14,BRONX,16,0,7,0,1,0,8,0,67,Weekend,Weekend
+"Saturday, July 12, 2014",07/12/14,BROOKLYN,34,0,2,0,4,0,28,0,126,Weekend,Weekend
+"Saturday, July 12, 2014",07/12/14,MANHATTAN,19,0,6,0,3,0,10,0,96,Weekend,Weekend
+"Saturday, July 12, 2014",07/12/14,QUEENS,35,0,5,0,2,0,28,0,107,Weekend,Weekend
+"Saturday, July 12, 2014",07/12/14,STATEN ISLAND,1,0,0,0,0,0,1,0,17,Weekend,Weekend
+"Sunday, July 13, 2014",07/13/14,,28,0,1,0,0,0,27,0,107,Weekend,Weekend
+"Sunday, July 13, 2014",07/13/14,BRONX,21,0,3,0,3,0,15,0,50,Weekend,Weekend
+"Sunday, July 13, 2014",07/13/14,BROOKLYN,43,1,6,1,4,0,33,0,99,Weekend,Weekend
+"Sunday, July 13, 2014",07/13/14,MANHATTAN,29,0,6,0,4,0,19,0,99,Weekend,Weekend
+"Sunday, July 13, 2014",07/13/14,QUEENS,25,0,7,0,2,0,16,0,77,Weekend,Weekend
+"Sunday, July 13, 2014",07/13/14,STATEN ISLAND,1,0,0,0,0,0,1,0,7,Weekend,Weekend
+"Monday, July 14, 2014",07/14/14,,26,2,1,2,0,0,25,0,126,Work day,Work day
+"Monday, July 14, 2014",07/14/14,BRONX,18,0,8,0,2,0,8,0,58,Work day,Work day
+"Monday, July 14, 2014",07/14/14,BROOKLYN,34,1,6,1,2,0,26,0,117,Work day,Work day
+"Monday, July 14, 2014",07/14/14,MANHATTAN,31,0,10,0,5,0,16,0,116,Work day,Work day
+"Monday, July 14, 2014",07/14/14,QUEENS,33,0,4,0,4,0,25,0,126,Work day,Work day
+"Monday, July 14, 2014",07/14/14,STATEN ISLAND,1,0,0,0,0,0,1,0,18,Work day,Work day
+"Tuesday, July 15, 2014",07/15/14,,41,0,2,0,3,0,36,0,156,Work day,Work day
+"Tuesday, July 15, 2014",07/15/14,BRONX,13,0,1,0,1,0,11,0,46,Work day,Work day
+"Tuesday, July 15, 2014",07/15/14,BROOKLYN,32,0,8,0,5,0,19,0,128,Work day,Work day
+"Tuesday, July 15, 2014",07/15/14,MANHATTAN,18,0,6,0,4,0,8,0,126,Work day,Work day
+"Tuesday, July 15, 2014",07/15/14,QUEENS,29,0,7,0,2,0,20,0,119,Work day,Work day
+"Tuesday, July 15, 2014",07/15/14,STATEN ISLAND,5,0,0,0,1,0,4,0,12,Work day,Work day
+"Wednesday, July 16, 2014",07/16/14,,29,0,2,0,2,0,25,0,134,Work day,Work day
+"Wednesday, July 16, 2014",07/16/14,BRONX,22,0,4,0,3,0,15,0,59,Work day,Work day
+"Wednesday, July 16, 2014",07/16/14,BROOKLYN,35,0,7,0,10,0,18,0,127,Work day,Work day
+"Wednesday, July 16, 2014",07/16/14,MANHATTAN,15,0,2,0,6,0,7,0,119,Work day,Work day
+"Wednesday, July 16, 2014",07/16/14,QUEENS,29,0,5,0,5,0,19,0,96,Work day,Work day
+"Wednesday, July 16, 2014",07/16/14,STATEN ISLAND,7,0,1,0,0,0,6,0,16,Work day,Work day
+"Thursday, July 17, 2014",07/17/14,,32,0,2,0,0,0,30,0,119,Work day,Work day
+"Thursday, July 17, 2014",07/17/14,BRONX,11,0,4,0,0,0,7,0,50,Work day,Work day
+"Thursday, July 17, 2014",07/17/14,BROOKLYN,31,0,5,0,11,0,15,0,133,Work day,Work day
+"Thursday, July 17, 2014",07/17/14,MANHATTAN,31,0,10,0,7,0,14,0,150,Work day,Work day
+"Thursday, July 17, 2014",07/17/14,QUEENS,18,0,1,0,6,0,11,0,113,Work day,Work day
+"Thursday, July 17, 2014",07/17/14,STATEN ISLAND,1,0,1,0,0,0,0,0,22,Work day,Work day
+"Friday, July 18, 2014",07/18/14,,40,0,2,0,2,0,36,0,171,Work day,Work day
+"Friday, July 18, 2014",07/18/14,BRONX,6,0,0,0,0,0,6,0,48,Work day,Work day
+"Friday, July 18, 2014",07/18/14,BROOKLYN,61,0,14,0,4,0,43,0,147,Work day,Work day
+"Friday, July 18, 2014",07/18/14,MANHATTAN,20,0,4,0,1,0,15,0,132,Work day,Work day
+"Friday, July 18, 2014",07/18/14,QUEENS,29,1,3,0,2,0,24,1,115,Work day,Work day
+"Friday, July 18, 2014",07/18/14,STATEN ISLAND,0,1,0,1,0,0,0,0,11,Work day,Work day
+"Saturday, July 19, 2014",07/19/14,,46,0,1,0,1,0,44,0,119,Weekend,Weekend
+"Saturday, July 19, 2014",07/19/14,BRONX,14,0,2,0,0,0,12,0,39,Weekend,Weekend
+"Saturday, July 19, 2014",07/19/14,BROOKLYN,39,0,4,0,12,0,23,0,102,Weekend,Weekend
+"Saturday, July 19, 2014",07/19/14,MANHATTAN,26,0,6,0,6,0,14,0,102,Weekend,Weekend
+"Saturday, July 19, 2014",07/19/14,QUEENS,25,0,1,0,1,0,23,0,103,Weekend,Weekend
+"Saturday, July 19, 2014",07/19/14,STATEN ISLAND,4,0,1,0,0,0,3,0,15,Weekend,Weekend
+"Sunday, July 20, 2014",07/20/14,,31,0,2,0,1,0,28,0,126,Weekend,Weekend
+"Sunday, July 20, 2014",07/20/14,BRONX,17,0,3,0,2,0,12,0,45,Weekend,Weekend
+"Sunday, July 20, 2014",07/20/14,BROOKLYN,39,1,5,1,4,0,30,0,113,Weekend,Weekend
+"Sunday, July 20, 2014",07/20/14,MANHATTAN,13,1,0,0,5,1,8,0,67,Weekend,Weekend
+"Sunday, July 20, 2014",07/20/14,QUEENS,25,0,7,0,1,0,17,0,91,Weekend,Weekend
+"Sunday, July 20, 2014",07/20/14,STATEN ISLAND,0,0,0,0,0,0,0,0,9,Weekend,Weekend
+"Monday, July 21, 2014",07/21/14,,35,0,5,0,1,0,29,0,139,Work day,Work day
+"Monday, July 21, 2014",07/21/14,BRONX,20,0,8,0,2,0,10,0,46,Work day,Work day
+"Monday, July 21, 2014",07/21/14,BROOKLYN,29,0,5,0,5,0,19,0,129,Work day,Work day
+"Monday, July 21, 2014",07/21/14,MANHATTAN,21,0,8,0,1,0,12,0,110,Work day,Work day
+"Monday, July 21, 2014",07/21/14,QUEENS,25,0,8,0,3,0,14,0,118,Work day,Work day
+"Monday, July 21, 2014",07/21/14,STATEN ISLAND,0,0,0,0,0,0,0,0,15,Work day,Work day
+"Tuesday, July 22, 2014",07/22/14,,38,0,3,0,1,0,34,0,130,Work day,Work day
+"Tuesday, July 22, 2014",07/22/14,BRONX,15,0,3,0,0,0,12,0,59,Work day,Work day
+"Tuesday, July 22, 2014",07/22/14,BROOKLYN,49,0,6,0,7,0,36,0,152,Work day,Work day
+"Tuesday, July 22, 2014",07/22/14,MANHATTAN,21,0,3,0,4,0,14,0,120,Work day,Work day
+"Tuesday, July 22, 2014",07/22/14,QUEENS,29,0,9,0,4,0,16,0,112,Work day,Work day
+"Tuesday, July 22, 2014",07/22/14,STATEN ISLAND,2,0,0,0,0,0,2,0,14,Work day,Work day
+"Wednesday, July 23, 2014",07/23/14,,30,0,3,0,2,0,25,0,143,Work day,Work day
+"Wednesday, July 23, 2014",07/23/14,BRONX,17,0,3,0,0,0,14,0,53,Work day,Work day
+"Wednesday, July 23, 2014",07/23/14,BROOKLYN,33,0,5,0,5,0,23,0,135,Work day,Work day
+"Wednesday, July 23, 2014",07/23/14,MANHATTAN,20,0,6,0,4,0,10,0,125,Work day,Work day
+"Wednesday, July 23, 2014",07/23/14,QUEENS,22,1,5,0,3,0,14,1,113,Work day,Work day
+"Wednesday, July 23, 2014",07/23/14,STATEN ISLAND,8,0,1,0,0,0,7,0,22,Work day,Work day
+"Thursday, July 24, 2014",07/24/14,,43,1,4,0,5,0,34,1,121,Work day,Work day
+"Thursday, July 24, 2014",07/24/14,BRONX,15,1,7,0,1,0,7,1,57,Work day,Work day
+"Thursday, July 24, 2014",07/24/14,BROOKLYN,42,0,7,0,6,0,29,0,118,Work day,Work day
+"Thursday, July 24, 2014",07/24/14,MANHATTAN,18,0,5,0,8,0,5,0,122,Work day,Work day
+"Thursday, July 24, 2014",07/24/14,QUEENS,23,0,4,0,4,0,15,0,101,Work day,Work day
+"Thursday, July 24, 2014",07/24/14,STATEN ISLAND,7,0,1,0,1,0,5,0,20,Work day,Work day
+"Friday, July 25, 2014",07/25/14,,52,0,3,0,2,0,47,0,165,Work day,Work day
+"Friday, July 25, 2014",07/25/14,BRONX,27,0,5,0,2,0,20,0,73,Work day,Work day
+"Friday, July 25, 2014",07/25/14,BROOKLYN,32,1,8,1,5,0,19,0,146,Work day,Work day
+"Friday, July 25, 2014",07/25/14,MANHATTAN,28,1,11,0,5,0,12,1,127,Work day,Work day
+"Friday, July 25, 2014",07/25/14,QUEENS,37,0,6,0,7,0,24,0,119,Work day,Work day
+"Friday, July 25, 2014",07/25/14,STATEN ISLAND,2,0,0,0,0,0,2,0,21,Work day,Work day
+"Saturday, July 26, 2014",07/26/14,,27,0,2,0,1,0,24,0,140,Weekend,Weekend
+"Saturday, July 26, 2014",07/26/14,BRONX,18,0,3,0,0,0,15,0,57,Weekend,Weekend
+"Saturday, July 26, 2014",07/26/14,BROOKLYN,44,0,9,0,9,0,26,0,120,Weekend,Weekend
+"Saturday, July 26, 2014",07/26/14,MANHATTAN,23,0,2,0,9,0,12,0,101,Weekend,Weekend
+"Saturday, July 26, 2014",07/26/14,QUEENS,32,0,0,0,6,0,26,0,106,Weekend,Weekend
+"Saturday, July 26, 2014",07/26/14,STATEN ISLAND,4,0,0,0,1,0,3,0,10,Weekend,Weekend
+"Sunday, July 27, 2014",07/27/14,,53,1,3,0,2,0,48,1,121,Weekend,Weekend
+"Sunday, July 27, 2014",07/27/14,BRONX,10,0,2,0,2,0,6,0,50,Weekend,Weekend
+"Sunday, July 27, 2014",07/27/14,BROOKLYN,32,0,4,0,5,0,23,0,104,Weekend,Weekend
+"Sunday, July 27, 2014",07/27/14,MANHATTAN,34,0,6,0,4,0,24,0,90,Weekend,Weekend
+"Sunday, July 27, 2014",07/27/14,QUEENS,37,2,1,1,5,0,31,1,99,Weekend,Weekend
+"Sunday, July 27, 2014",07/27/14,STATEN ISLAND,1,0,0,0,0,0,1,0,11,Weekend,Weekend
+"Monday, July 28, 2014",07/28/14,,36,0,2,0,2,0,32,0,150,Work day,Work day
+"Monday, July 28, 2014",07/28/14,BRONX,13,0,4,0,3,0,6,0,42,Work day,Work day
+"Monday, July 28, 2014",07/28/14,BROOKLYN,44,0,13,0,5,0,26,0,147,Work day,Work day
+"Monday, July 28, 2014",07/28/14,MANHATTAN,21,0,8,0,5,0,8,0,116,Work day,Work day
+"Monday, July 28, 2014",07/28/14,QUEENS,34,1,4,0,5,1,25,0,124,Work day,Work day
+"Monday, July 28, 2014",07/28/14,STATEN ISLAND,3,0,0,0,1,0,2,0,15,Work day,Work day
+"Tuesday, July 29, 2014",07/29/14,,24,0,1,0,1,0,22,0,118,Work day,Work day
+"Tuesday, July 29, 2014",07/29/14,BRONX,16,0,2,0,1,0,13,0,50,Work day,Work day
+"Tuesday, July 29, 2014",07/29/14,BROOKLYN,41,0,9,0,6,0,26,0,136,Work day,Work day
+"Tuesday, July 29, 2014",07/29/14,MANHATTAN,16,0,5,0,4,0,7,0,102,Work day,Work day
+"Tuesday, July 29, 2014",07/29/14,QUEENS,24,1,1,1,8,0,15,0,104,Work day,Work day
+"Tuesday, July 29, 2014",07/29/14,STATEN ISLAND,3,0,0,0,0,0,3,0,16,Work day,Work day
+"Wednesday, July 30, 2014",07/30/14,,35,0,2,0,1,0,32,0,149,Work day,Work day
+"Wednesday, July 30, 2014",07/30/14,BRONX,13,0,2,0,1,0,10,0,49,Work day,Work day
+"Wednesday, July 30, 2014",07/30/14,BROOKLYN,45,0,7,0,7,0,31,0,133,Work day,Work day
+"Wednesday, July 30, 2014",07/30/14,MANHATTAN,18,0,3,0,8,0,7,0,130,Work day,Work day
+"Wednesday, July 30, 2014",07/30/14,QUEENS,33,0,9,0,5,0,19,0,128,Work day,Work day
+"Wednesday, July 30, 2014",07/30/14,STATEN ISLAND,3,0,0,0,1,0,2,0,16,Work day,Work day
+"Thursday, July 31, 2014",07/31/14,,35,0,4,0,2,0,29,0,149,Work day,Work day
+"Thursday, July 31, 2014",07/31/14,BRONX,14,0,3,0,1,0,10,0,49,Work day,Work day
+"Thursday, July 31, 2014",07/31/14,BROOKLYN,34,0,9,0,7,0,18,0,148,Work day,Work day
+"Thursday, July 31, 2014",07/31/14,MANHATTAN,21,0,4,0,7,0,10,0,146,Work day,Work day
+"Thursday, July 31, 2014",07/31/14,QUEENS,28,0,4,0,3,0,21,0,113,Work day,Work day
+"Thursday, July 31, 2014",07/31/14,STATEN ISLAND,6,1,1,1,1,0,4,0,21,Work day,Work day
+"Friday, August 1, 2014",08/01/14,,28,1,3,0,2,0,23,1,140,Work day,Work day
+"Friday, August 1, 2014",08/01/14,BRONX,8,0,1,0,0,0,7,0,57,Work day,Work day
+"Friday, August 1, 2014",08/01/14,BROOKLYN,62,1,14,1,7,0,41,0,159,Work day,Work day
+"Friday, August 1, 2014",08/01/14,MANHATTAN,30,0,11,0,10,0,9,0,162,Work day,Work day
+"Friday, August 1, 2014",08/01/14,QUEENS,31,1,5,1,0,0,26,0,125,Work day,Work day
+"Friday, August 1, 2014",08/01/14,STATEN ISLAND,8,0,2,0,0,0,6,0,23,Work day,Work day
+"Saturday, August 2, 2014",08/02/14,,36,2,2,0,2,0,32,2,159,Weekend,Weekend
+"Saturday, August 2, 2014",08/02/14,BRONX,12,0,0,0,0,0,12,0,49,Weekend,Weekend
+"Saturday, August 2, 2014",08/02/14,BROOKLYN,41,0,5,0,4,0,32,0,110,Weekend,Weekend
+"Saturday, August 2, 2014",08/02/14,MANHATTAN,25,0,10,0,5,0,10,0,106,Weekend,Weekend
+"Saturday, August 2, 2014",08/02/14,QUEENS,27,0,2,0,2,0,23,0,97,Weekend,Weekend
+"Saturday, August 2, 2014",08/02/14,STATEN ISLAND,5,0,0,0,1,0,4,0,19,Weekend,Weekend
+"Sunday, August 3, 2014",08/03/14,,40,0,5,0,0,0,35,0,125,Weekend,Weekend
+"Sunday, August 3, 2014",08/03/14,BRONX,10,0,1,0,1,0,8,0,40,Weekend,Weekend
+"Sunday, August 3, 2014",08/03/14,BROOKLYN,44,0,3,0,1,0,40,0,123,Weekend,Weekend
+"Sunday, August 3, 2014",08/03/14,MANHATTAN,17,0,4,0,3,0,10,0,95,Weekend,Weekend
+"Sunday, August 3, 2014",08/03/14,QUEENS,9,0,1,0,2,0,6,0,82,Weekend,Weekend
+"Sunday, August 3, 2014",08/03/14,STATEN ISLAND,2,0,0,0,0,0,2,0,11,Weekend,Weekend
+"Monday, August 4, 2014",08/04/14,,29,0,3,0,1,0,25,0,145,Work day,Work day
+"Monday, August 4, 2014",08/04/14,BRONX,26,0,5,0,0,0,21,0,59,Work day,Work day
+"Monday, August 4, 2014",08/04/14,BROOKLYN,64,0,7,0,7,0,50,0,125,Work day,Work day
+"Monday, August 4, 2014",08/04/14,MANHATTAN,15,0,4,0,1,0,10,0,99,Work day,Work day
+"Monday, August 4, 2014",08/04/14,QUEENS,31,0,7,0,3,0,21,0,133,Work day,Work day
+"Monday, August 4, 2014",08/04/14,STATEN ISLAND,11,0,4,0,0,0,7,0,27,Work day,Work day
+"Tuesday, August 5, 2014",08/05/14,,30,1,3,1,1,0,26,0,148,Work day,Work day
+"Tuesday, August 5, 2014",08/05/14,BRONX,17,0,4,0,1,0,12,0,47,Work day,Work day
+"Tuesday, August 5, 2014",08/05/14,BROOKLYN,48,0,9,0,8,0,31,0,149,Work day,Work day
+"Tuesday, August 5, 2014",08/05/14,MANHATTAN,41,0,16,0,11,0,14,0,126,Work day,Work day
+"Tuesday, August 5, 2014",08/05/14,QUEENS,36,0,4,0,1,0,31,0,116,Work day,Work day
+"Tuesday, August 5, 2014",08/05/14,STATEN ISLAND,2,0,0,0,0,0,2,0,20,Work day,Work day
+"Wednesday, August 6, 2014",08/06/14,,25,0,4,0,1,0,20,0,138,Work day,Work day
+"Wednesday, August 6, 2014",08/06/14,BRONX,16,1,3,1,2,0,11,0,55,Work day,Work day
+"Wednesday, August 6, 2014",08/06/14,BROOKLYN,33,0,6,0,6,0,21,0,120,Work day,Work day
+"Wednesday, August 6, 2014",08/06/14,MANHATTAN,17,0,4,0,4,0,9,0,116,Work day,Work day
+"Wednesday, August 6, 2014",08/06/14,QUEENS,25,0,3,0,4,0,18,0,117,Work day,Work day
+"Wednesday, August 6, 2014",08/06/14,STATEN ISLAND,4,0,1,0,0,0,3,0,15,Work day,Work day
+"Thursday, August 7, 2014",08/07/14,,21,0,1,0,1,0,19,0,143,Work day,Work day
+"Thursday, August 7, 2014",08/07/14,BRONX,28,0,3,0,0,0,25,0,58,Work day,Work day
+"Thursday, August 7, 2014",08/07/14,BROOKLYN,41,0,9,0,13,0,19,0,137,Work day,Work day
+"Thursday, August 7, 2014",08/07/14,MANHATTAN,27,0,9,0,7,0,11,0,133,Work day,Work day
+"Thursday, August 7, 2014",08/07/14,QUEENS,32,0,4,0,6,0,22,0,100,Work day,Work day
+"Thursday, August 7, 2014",08/07/14,STATEN ISLAND,7,0,1,0,0,0,6,0,14,Work day,Work day
+"Friday, August 8, 2014",08/08/14,,30,0,2,0,0,0,28,0,137,Work day,Work day
+"Friday, August 8, 2014",08/08/14,BRONX,18,0,7,0,1,0,10,0,54,Work day,Work day
+"Friday, August 8, 2014",08/08/14,BROOKLYN,47,0,7,0,8,0,32,0,140,Work day,Work day
+"Friday, August 8, 2014",08/08/14,MANHATTAN,16,0,4,0,4,0,8,0,124,Work day,Work day
+"Friday, August 8, 2014",08/08/14,QUEENS,46,0,7,0,4,0,35,0,124,Work day,Work day
+"Friday, August 8, 2014",08/08/14,STATEN ISLAND,5,0,0,0,2,0,3,0,22,Work day,Work day
+"Saturday, August 9, 2014",08/09/14,,50,0,1,0,1,0,48,0,142,Weekend,Weekend
+"Saturday, August 9, 2014",08/09/14,BRONX,20,0,1,0,0,0,19,0,54,Weekend,Weekend
+"Saturday, August 9, 2014",08/09/14,BROOKLYN,28,0,4,0,7,0,17,0,108,Weekend,Weekend
+"Saturday, August 9, 2014",08/09/14,MANHATTAN,20,0,5,0,6,0,9,0,106,Weekend,Weekend
+"Saturday, August 9, 2014",08/09/14,QUEENS,32,0,5,0,1,0,26,0,116,Weekend,Weekend
+"Saturday, August 9, 2014",08/09/14,STATEN ISLAND,2,0,0,0,0,0,2,0,12,Weekend,Weekend
+"Sunday, August 10, 2014",08/10/14,,50,0,3,0,0,0,47,0,139,Weekend,Weekend
+"Sunday, August 10, 2014",08/10/14,BRONX,15,0,1,0,1,0,13,0,42,Weekend,Weekend
+"Sunday, August 10, 2014",08/10/14,BROOKLYN,28,0,2,0,9,0,17,0,101,Weekend,Weekend
+"Sunday, August 10, 2014",08/10/14,MANHATTAN,22,0,5,0,5,0,12,0,99,Weekend,Weekend
+"Sunday, August 10, 2014",08/10/14,QUEENS,49,0,1,0,4,0,44,0,116,Weekend,Weekend
+"Sunday, August 10, 2014",08/10/14,STATEN ISLAND,2,0,0,0,0,0,2,0,15,Weekend,Weekend
+"Monday, August 11, 2014",08/11/14,,20,0,1,0,1,0,18,0,136,Work day,Work day
+"Monday, August 11, 2014",08/11/14,BRONX,18,0,4,0,1,0,13,0,48,Work day,Work day
+"Monday, August 11, 2014",08/11/14,BROOKLYN,44,0,14,0,11,0,19,0,153,Work day,Work day
+"Monday, August 11, 2014",08/11/14,MANHATTAN,19,0,6,0,3,0,10,0,118,Work day,Work day
+"Monday, August 11, 2014",08/11/14,QUEENS,40,0,5,0,5,0,30,0,127,Work day,Work day
+"Monday, August 11, 2014",08/11/14,STATEN ISLAND,3,0,1,0,0,0,2,0,22,Work day,Work day
+"Tuesday, August 12, 2014",08/12/14,,34,1,2,0,0,0,32,1,111,Work day,Work day
+"Tuesday, August 12, 2014",08/12/14,BRONX,13,0,3,0,2,0,8,0,41,Work day,Work day
+"Tuesday, August 12, 2014",08/12/14,BROOKLYN,28,0,4,0,6,0,18,0,110,Work day,Work day
+"Tuesday, August 12, 2014",08/12/14,MANHATTAN,20,0,10,0,2,0,8,0,101,Work day,Work day
+"Tuesday, August 12, 2014",08/12/14,QUEENS,25,0,3,0,3,0,19,0,104,Work day,Work day
+"Tuesday, August 12, 2014",08/12/14,STATEN ISLAND,6,0,1,0,0,0,5,0,24,Work day,Work day
+"Wednesday, August 13, 2014",08/13/14,,39,0,2,0,2,0,35,0,121,Work day,Work day
+"Wednesday, August 13, 2014",08/13/14,BRONX,17,0,2,0,2,0,13,0,59,Work day,Work day
+"Wednesday, August 13, 2014",08/13/14,BROOKLYN,36,0,9,0,3,0,24,0,139,Work day,Work day
+"Wednesday, August 13, 2014",08/13/14,MANHATTAN,25,0,11,0,4,0,10,0,119,Work day,Work day
+"Wednesday, August 13, 2014",08/13/14,QUEENS,33,1,10,0,3,1,20,0,120,Work day,Work day
+"Wednesday, August 13, 2014",08/13/14,STATEN ISLAND,5,0,0,0,0,0,5,0,13,Work day,Work day
+"Thursday, August 14, 2014",08/14/14,,45,0,4,0,2,0,39,0,147,Work day,Work day
+"Thursday, August 14, 2014",08/14/14,BRONX,13,0,2,0,1,0,10,0,61,Work day,Work day
+"Thursday, August 14, 2014",08/14/14,BROOKLYN,46,0,5,0,9,0,32,0,145,Work day,Work day
+"Thursday, August 14, 2014",08/14/14,MANHATTAN,24,0,4,0,12,0,8,0,144,Work day,Work day
+"Thursday, August 14, 2014",08/14/14,QUEENS,27,0,3,0,4,0,20,0,107,Work day,Work day
+"Thursday, August 14, 2014",08/14/14,STATEN ISLAND,7,0,1,0,0,0,6,0,20,Work day,Work day
+"Friday, August 15, 2014",08/15/14,,32,0,0,0,0,0,32,0,145,Work day,Work day
+"Friday, August 15, 2014",08/15/14,BRONX,11,0,2,0,1,0,8,0,54,Work day,Work day
+"Friday, August 15, 2014",08/15/14,BROOKLYN,26,1,5,0,5,1,16,0,102,Work day,Work day
+"Friday, August 15, 2014",08/15/14,MANHATTAN,16,0,5,0,4,0,7,0,100,Work day,Work day
+"Friday, August 15, 2014",08/15/14,QUEENS,13,0,0,0,4,0,9,0,101,Work day,Work day
+"Friday, August 15, 2014",08/15/14,STATEN ISLAND,1,0,0,0,0,0,1,0,20,Work day,Work day
+"Saturday, August 16, 2014",08/16/14,,30,0,1,0,1,0,28,0,120,Weekend,Weekend
+"Saturday, August 16, 2014",08/16/14,BRONX,9,0,1,0,1,0,7,0,44,Weekend,Weekend
+"Saturday, August 16, 2014",08/16/14,BROOKLYN,56,0,3,0,6,0,47,0,112,Weekend,Weekend
+"Saturday, August 16, 2014",08/16/14,MANHATTAN,25,0,6,0,6,0,13,0,106,Weekend,Weekend
+"Saturday, August 16, 2014",08/16/14,QUEENS,23,0,7,0,3,0,13,0,98,Weekend,Weekend
+"Saturday, August 16, 2014",08/16/14,STATEN ISLAND,0,0,0,0,0,0,0,0,10,Weekend,Weekend
+"Sunday, August 17, 2014",08/17/14,,39,0,4,0,1,0,34,0,120,Weekend,Weekend
+"Sunday, August 17, 2014",08/17/14,BRONX,14,0,3,0,4,0,7,0,41,Weekend,Weekend
+"Sunday, August 17, 2014",08/17/14,BROOKLYN,55,1,7,0,6,0,42,1,126,Weekend,Weekend
+"Sunday, August 17, 2014",08/17/14,MANHATTAN,15,0,5,0,3,0,7,0,90,Weekend,Weekend
+"Sunday, August 17, 2014",08/17/14,QUEENS,27,0,5,0,1,0,21,0,89,Weekend,Weekend
+"Sunday, August 17, 2014",08/17/14,STATEN ISLAND,4,0,0,0,0,0,4,0,10,Weekend,Weekend
+"Monday, August 18, 2014",08/18/14,,32,0,4,0,2,0,26,0,137,Work day,Work day
+"Monday, August 18, 2014",08/18/14,BRONX,14,0,3,0,1,0,10,0,56,Work day,Work day
+"Monday, August 18, 2014",08/18/14,BROOKLYN,34,0,8,0,9,0,17,0,150,Work day,Work day
+"Monday, August 18, 2014",08/18/14,MANHATTAN,17,1,7,0,6,1,4,0,118,Work day,Work day
+"Monday, August 18, 2014",08/18/14,QUEENS,23,1,8,1,2,0,13,0,122,Work day,Work day
+"Monday, August 18, 2014",08/18/14,STATEN ISLAND,8,0,0,0,0,0,8,0,12,Work day,Work day
+"Tuesday, August 19, 2014",08/19/14,,31,0,2,0,2,0,27,0,138,Work day,Work day
+"Tuesday, August 19, 2014",08/19/14,BRONX,21,0,3,0,5,0,13,0,51,Work day,Work day
+"Tuesday, August 19, 2014",08/19/14,BROOKLYN,40,0,12,0,8,0,20,0,123,Work day,Work day
+"Tuesday, August 19, 2014",08/19/14,MANHATTAN,21,0,4,0,9,0,8,0,109,Work day,Work day
+"Tuesday, August 19, 2014",08/19/14,QUEENS,20,0,4,0,0,0,16,0,86,Work day,Work day
+"Tuesday, August 19, 2014",08/19/14,STATEN ISLAND,1,0,0,0,0,0,1,0,9,Work day,Work day
+"Wednesday, August 20, 2014",08/20/14,,36,0,2,0,1,0,33,0,130,Work day,Work day
+"Wednesday, August 20, 2014",08/20/14,BRONX,11,0,0,0,4,0,7,0,54,Work day,Work day
+"Wednesday, August 20, 2014",08/20/14,BROOKLYN,35,0,9,0,4,0,22,0,117,Work day,Work day
+"Wednesday, August 20, 2014",08/20/14,MANHATTAN,8,0,2,0,2,0,4,0,111,Work day,Work day
+"Wednesday, August 20, 2014",08/20/14,QUEENS,26,0,6,0,3,0,17,0,121,Work day,Work day
+"Wednesday, August 20, 2014",08/20/14,STATEN ISLAND,7,0,0,0,0,0,7,0,18,Work day,Work day
+"Thursday, August 21, 2014",08/21/14,,55,0,3,0,2,0,50,0,158,Work day,Work day
+"Thursday, August 21, 2014",08/21/14,BRONX,18,0,8,0,3,0,7,0,45,Work day,Work day
+"Thursday, August 21, 2014",08/21/14,BROOKLYN,23,0,5,0,2,0,16,0,125,Work day,Work day
+"Thursday, August 21, 2014",08/21/14,MANHATTAN,20,0,8,0,4,0,8,0,125,Work day,Work day
+"Thursday, August 21, 2014",08/21/14,QUEENS,27,0,5,0,5,0,17,0,96,Work day,Work day
+"Thursday, August 21, 2014",08/21/14,STATEN ISLAND,4,0,1,0,0,0,3,0,18,Work day,Work day
+"Friday, August 22, 2014",08/22/14,,38,0,3,0,1,0,34,0,148,Work day,Work day
+"Friday, August 22, 2014",08/22/14,BRONX,18,0,6,0,0,0,12,0,61,Work day,Work day
+"Friday, August 22, 2014",08/22/14,BROOKLYN,55,0,10,0,4,0,41,0,122,Work day,Work day
+"Friday, August 22, 2014",08/22/14,MANHATTAN,22,0,5,0,1,0,16,0,142,Work day,Work day
+"Friday, August 22, 2014",08/22/14,QUEENS,21,0,3,0,3,0,15,0,85,Work day,Work day
+"Friday, August 22, 2014",08/22/14,STATEN ISLAND,3,0,0,0,0,0,3,0,10,Work day,Work day
+"Saturday, August 23, 2014",08/23/14,,49,0,1,0,4,0,44,0,104,Weekend,Weekend
+"Saturday, August 23, 2014",08/23/14,BRONX,13,0,2,0,2,0,9,0,52,Weekend,Weekend
+"Saturday, August 23, 2014",08/23/14,BROOKLYN,30,0,13,0,1,0,16,0,91,Weekend,Weekend
+"Saturday, August 23, 2014",08/23/14,MANHATTAN,6,0,1,0,1,0,4,0,109,Weekend,Weekend
+"Saturday, August 23, 2014",08/23/14,QUEENS,28,0,2,0,0,0,26,0,89,Weekend,Weekend
+"Saturday, August 23, 2014",08/23/14,STATEN ISLAND,6,0,0,0,0,0,6,0,9,Weekend,Weekend
+"Sunday, August 24, 2014",08/24/14,,41,1,0,0,1,0,40,1,119,Weekend,Weekend
+"Sunday, August 24, 2014",08/24/14,BRONX,7,0,2,0,1,0,4,0,42,Weekend,Weekend
+"Sunday, August 24, 2014",08/24/14,BROOKLYN,38,0,4,0,6,0,28,0,98,Weekend,Weekend
+"Sunday, August 24, 2014",08/24/14,MANHATTAN,12,0,3,0,2,0,7,0,76,Weekend,Weekend
+"Sunday, August 24, 2014",08/24/14,QUEENS,34,0,4,0,3,0,27,0,91,Weekend,Weekend
+"Sunday, August 24, 2014",08/24/14,STATEN ISLAND,2,0,0,0,1,0,1,0,11,Weekend,Weekend
+"Monday, August 25, 2014",08/25/14,,35,0,0,0,0,0,35,0,146,Work day,Work day
+"Monday, August 25, 2014",08/25/14,BRONX,20,0,1,0,2,0,17,0,47,Work day,Work day
+"Monday, August 25, 2014",08/25/14,BROOKLYN,31,0,12,0,6,0,13,0,121,Work day,Work day
+"Monday, August 25, 2014",08/25/14,MANHATTAN,20,0,4,0,8,0,8,0,102,Work day,Work day
+"Monday, August 25, 2014",08/25/14,QUEENS,21,0,4,0,1,0,16,0,117,Work day,Work day
+"Monday, August 25, 2014",08/25/14,STATEN ISLAND,2,0,0,0,0,0,2,0,16,Work day,Work day
+"Tuesday, August 26, 2014",08/26/14,,23,0,5,0,0,0,18,0,119,Work day,Work day
+"Tuesday, August 26, 2014",08/26/14,BRONX,30,0,5,0,1,0,24,0,66,Work day,Work day
+"Tuesday, August 26, 2014",08/26/14,BROOKLYN,35,0,9,0,6,0,20,0,137,Work day,Work day
+"Tuesday, August 26, 2014",08/26/14,MANHATTAN,20,0,5,0,7,0,8,0,126,Work day,Work day
+"Tuesday, August 26, 2014",08/26/14,QUEENS,40,0,13,0,6,0,21,0,138,Work day,Work day
+"Tuesday, August 26, 2014",08/26/14,STATEN ISLAND,10,0,0,0,0,0,10,0,22,Work day,Work day
+"Wednesday, August 27, 2014",08/27/14,,33,1,1,0,1,0,31,1,145,Work day,Work day
+"Wednesday, August 27, 2014",08/27/14,BRONX,13,0,3,0,0,0,10,0,53,Work day,Work day
+"Wednesday, August 27, 2014",08/27/14,BROOKLYN,46,0,8,0,5,0,33,0,127,Work day,Work day
+"Wednesday, August 27, 2014",08/27/14,MANHATTAN,20,0,4,0,3,0,13,0,103,Work day,Work day
+"Wednesday, August 27, 2014",08/27/14,QUEENS,18,0,0,0,5,0,13,0,95,Work day,Work day
+"Wednesday, August 27, 2014",08/27/14,STATEN ISLAND,3,0,0,0,1,0,2,0,15,Work day,Work day
+"Thursday, August 28, 2014",08/28/14,,42,1,0,1,5,0,37,0,161,Work day,Work day
+"Thursday, August 28, 2014",08/28/14,BRONX,8,0,1,0,0,0,7,0,57,Work day,Work day
+"Thursday, August 28, 2014",08/28/14,BROOKLYN,42,1,12,1,8,0,22,0,133,Work day,Work day
+"Thursday, August 28, 2014",08/28/14,MANHATTAN,23,1,12,1,4,0,7,0,145,Work day,Work day
+"Thursday, August 28, 2014",08/28/14,QUEENS,26,0,8,0,1,0,17,0,107,Work day,Work day
+"Thursday, August 28, 2014",08/28/14,STATEN ISLAND,8,0,0,0,0,0,8,0,15,Work day,Work day
+"Friday, August 29, 2014",08/29/14,,49,1,6,0,1,1,42,0,160,Work day,Work day
+"Friday, August 29, 2014",08/29/14,BRONX,12,0,2,0,2,0,8,0,56,Work day,Work day
+"Friday, August 29, 2014",08/29/14,BROOKLYN,41,0,5,0,8,0,28,0,153,Work day,Work day
+"Friday, August 29, 2014",08/29/14,MANHATTAN,22,1,9,1,3,0,10,0,103,Work day,Work day
+"Friday, August 29, 2014",08/29/14,QUEENS,25,0,1,0,1,0,23,0,137,Work day,Work day
+"Friday, August 29, 2014",08/29/14,STATEN ISLAND,6,0,0,0,1,0,5,0,21,Work day,Work day
+"Saturday, August 30, 2014",08/30/14,,39,1,2,0,0,0,37,1,123,Weekend,Weekend
+"Saturday, August 30, 2014",08/30/14,BRONX,21,0,8,0,0,0,13,0,55,Weekend,Weekend
+"Saturday, August 30, 2014",08/30/14,BROOKLYN,23,0,4,0,4,0,15,0,122,Weekend,Weekend
+"Saturday, August 30, 2014",08/30/14,MANHATTAN,13,0,5,0,2,0,6,0,88,Weekend,Weekend
+"Saturday, August 30, 2014",08/30/14,QUEENS,22,1,5,1,5,0,12,0,110,Weekend,Weekend
+"Saturday, August 30, 2014",08/30/14,STATEN ISLAND,7,0,0,0,0,0,7,0,12,Weekend,Weekend
+"Sunday, August 31, 2014",08/31/14,,39,0,0,0,0,0,39,0,122,Weekend,Weekend
+"Sunday, August 31, 2014",08/31/14,BRONX,9,0,1,0,0,0,8,0,52,Weekend,Weekend
+"Sunday, August 31, 2014",08/31/14,BROOKLYN,59,0,3,0,2,0,54,0,127,Weekend,Weekend
+"Sunday, August 31, 2014",08/31/14,MANHATTAN,20,0,6,0,1,0,13,0,83,Weekend,Weekend
+"Sunday, August 31, 2014",08/31/14,QUEENS,17,0,3,0,2,0,12,0,91,Weekend,Weekend
+"Sunday, August 31, 2014",08/31/14,STATEN ISLAND,4,0,0,0,1,0,3,0,20,Weekend,Weekend
+"Monday, September 1, 2014",09/01/14,,39,0,1,0,2,0,36,0,80,Work day,Labor Day
+"Monday, September 1, 2014",09/01/14,BRONX,11,1,1,0,7,0,3,1,35,Work day,Labor Day
+"Monday, September 1, 2014",09/01/14,BROOKLYN,52,0,6,0,5,0,41,0,128,Work day,Labor Day
+"Monday, September 1, 2014",09/01/14,MANHATTAN,5,0,1,0,1,0,3,0,59,Work day,Labor Day
+"Monday, September 1, 2014",09/01/14,QUEENS,13,0,4,0,1,0,8,0,80,Work day,Labor Day
+"Monday, September 1, 2014",09/01/14,STATEN ISLAND,1,0,0,0,0,0,1,0,10,Work day,Labor Day
+"Tuesday, September 2, 2014",09/02/14,,34,0,2,0,2,0,30,0,183,Work day,Work day
+"Tuesday, September 2, 2014",09/02/14,BRONX,7,0,2,0,0,0,5,0,69,Work day,Work day
+"Tuesday, September 2, 2014",09/02/14,BROOKLYN,53,0,15,0,3,0,35,0,189,Work day,Work day
+"Tuesday, September 2, 2014",09/02/14,MANHATTAN,20,0,2,0,6,0,12,0,122,Work day,Work day
+"Tuesday, September 2, 2014",09/02/14,QUEENS,27,0,3,0,2,0,22,0,116,Work day,Work day
+"Tuesday, September 2, 2014",09/02/14,STATEN ISLAND,3,0,0,0,0,0,3,0,21,Work day,Work day
+"Wednesday, September 3, 2014",09/03/14,,60,0,3,0,0,0,57,0,153,Work day,Work day
+"Wednesday, September 3, 2014",09/03/14,BRONX,27,0,6,0,4,0,17,0,64,Work day,Work day
+"Wednesday, September 3, 2014",09/03/14,BROOKLYN,22,1,7,0,3,1,12,0,125,Work day,Work day
+"Wednesday, September 3, 2014",09/03/14,MANHATTAN,18,0,1,0,4,0,13,0,117,Work day,Work day
+"Wednesday, September 3, 2014",09/03/14,QUEENS,16,0,3,0,2,0,11,0,97,Work day,Work day
+"Wednesday, September 3, 2014",09/03/14,STATEN ISLAND,5,0,0,0,0,0,5,0,24,Work day,Work day
+"Thursday, September 4, 2014",09/04/14,,32,0,7,0,1,0,24,0,179,Work day,Work day
+"Thursday, September 4, 2014",09/04/14,BRONX,25,0,7,0,3,0,15,0,69,Work day,Work day
+"Thursday, September 4, 2014",09/04/14,BROOKLYN,53,0,7,0,5,0,41,0,178,Work day,Work day
+"Thursday, September 4, 2014",09/04/14,MANHATTAN,11,2,3,2,2,0,6,0,130,Work day,Work day
+"Thursday, September 4, 2014",09/04/14,QUEENS,27,0,3,0,1,0,23,0,149,Work day,Work day
+"Thursday, September 4, 2014",09/04/14,STATEN ISLAND,4,0,0,0,1,0,3,0,22,Work day,Work day
+"Friday, September 5, 2014",09/05/14,,29,0,3,0,3,0,23,0,144,Work day,Work day
+"Friday, September 5, 2014",09/05/14,BRONX,17,0,5,0,1,0,11,0,58,Work day,Work day
+"Friday, September 5, 2014",09/05/14,BROOKLYN,32,1,8,0,4,0,20,1,143,Work day,Work day
+"Friday, September 5, 2014",09/05/14,MANHATTAN,19,0,6,0,4,0,9,0,133,Work day,Work day
+"Friday, September 5, 2014",09/05/14,QUEENS,24,0,2,0,5,0,17,0,140,Work day,Work day
+"Friday, September 5, 2014",09/05/14,STATEN ISLAND,13,0,3,0,0,0,10,0,29,Work day,Work day
+"Saturday, September 6, 2014",09/06/14,,36,0,2,0,3,0,31,0,115,Weekend,Weekend
+"Saturday, September 6, 2014",09/06/14,BRONX,24,0,4,0,2,0,18,0,53,Weekend,Weekend
+"Saturday, September 6, 2014",09/06/14,BROOKLYN,39,0,8,0,5,0,26,0,134,Weekend,Weekend
+"Saturday, September 6, 2014",09/06/14,MANHATTAN,14,0,4,0,2,0,8,0,114,Weekend,Weekend
+"Saturday, September 6, 2014",09/06/14,QUEENS,19,0,5,0,1,0,13,0,123,Weekend,Weekend
+"Saturday, September 6, 2014",09/06/14,STATEN ISLAND,6,0,0,0,0,0,6,0,14,Weekend,Weekend
+"Sunday, September 7, 2014",09/07/14,,55,0,0,0,1,0,54,0,125,Weekend,Weekend
+"Sunday, September 7, 2014",09/07/14,BRONX,17,1,0,1,2,0,15,0,53,Weekend,Weekend
+"Sunday, September 7, 2014",09/07/14,BROOKLYN,36,1,5,1,7,0,24,0,115,Weekend,Weekend
+"Sunday, September 7, 2014",09/07/14,MANHATTAN,14,1,1,1,5,0,8,0,91,Weekend,Weekend
+"Sunday, September 7, 2014",09/07/14,QUEENS,25,0,2,0,3,0,20,0,88,Weekend,Weekend
+"Sunday, September 7, 2014",09/07/14,STATEN ISLAND,0,0,0,0,0,0,0,0,5,Weekend,Weekend
+"Monday, September 8, 2014",09/08/14,,26,0,1,0,0,0,25,0,124,Work day,Work day
+"Monday, September 8, 2014",09/08/14,BRONX,25,0,3,0,1,0,21,0,64,Work day,Work day
+"Monday, September 8, 2014",09/08/14,BROOKLYN,42,0,7,0,9,0,26,0,160,Work day,Work day
+"Monday, September 8, 2014",09/08/14,MANHATTAN,14,0,3,0,3,0,8,0,104,Work day,Work day
+"Monday, September 8, 2014",09/08/14,QUEENS,24,0,3,0,5,0,16,0,125,Work day,Work day
+"Monday, September 8, 2014",09/08/14,STATEN ISLAND,4,0,0,0,0,0,4,0,20,Work day,Work day
+"Tuesday, September 9, 2014",09/09/14,,28,0,2,0,2,0,24,0,147,Work day,Work day
+"Tuesday, September 9, 2014",09/09/14,BRONX,21,0,2,0,1,0,18,0,50,Work day,Work day
+"Tuesday, September 9, 2014",09/09/14,BROOKLYN,34,0,8,0,4,0,22,0,137,Work day,Work day
+"Tuesday, September 9, 2014",09/09/14,MANHATTAN,19,0,4,0,4,0,11,0,125,Work day,Work day
+"Tuesday, September 9, 2014",09/09/14,QUEENS,27,0,3,0,4,0,20,0,116,Work day,Work day
+"Tuesday, September 9, 2014",09/09/14,STATEN ISLAND,6,0,0,0,1,0,5,0,16,Work day,Work day
+"Wednesday, September 10, 2014",09/10/14,,57,0,7,0,1,0,49,0,169,Work day,Work day
+"Wednesday, September 10, 2014",09/10/14,BRONX,16,0,2,0,1,0,13,0,65,Work day,Work day
+"Wednesday, September 10, 2014",09/10/14,BROOKLYN,34,0,11,0,5,0,18,0,132,Work day,Work day
+"Wednesday, September 10, 2014",09/10/14,MANHATTAN,24,0,12,0,3,0,9,0,119,Work day,Work day
+"Wednesday, September 10, 2014",09/10/14,QUEENS,20,1,7,1,2,0,11,0,116,Work day,Work day
+"Wednesday, September 10, 2014",09/10/14,STATEN ISLAND,6,0,3,0,0,0,3,0,17,Work day,Work day
+"Thursday, September 11, 2014",09/11/14,,25,0,3,0,1,0,21,0,153,Work day,Work day
+"Thursday, September 11, 2014",09/11/14,BRONX,15,0,5,0,0,0,10,0,49,Work day,Work day
+"Thursday, September 11, 2014",09/11/14,BROOKLYN,48,0,9,0,8,0,31,0,138,Work day,Work day
+"Thursday, September 11, 2014",09/11/14,MANHATTAN,14,0,5,0,3,0,6,0,124,Work day,Work day
+"Thursday, September 11, 2014",09/11/14,QUEENS,27,0,6,0,2,0,19,0,128,Work day,Work day
+"Thursday, September 11, 2014",09/11/14,STATEN ISLAND,2,0,0,0,0,0,2,0,27,Work day,Work day
+"Friday, September 12, 2014",09/12/14,,63,4,7,2,3,0,53,2,174,Work day,Work day
+"Friday, September 12, 2014",09/12/14,BRONX,27,0,4,0,3,0,20,0,71,Work day,Work day
+"Friday, September 12, 2014",09/12/14,BROOKLYN,58,0,9,0,13,0,36,0,172,Work day,Work day
+"Friday, September 12, 2014",09/12/14,MANHATTAN,29,0,9,0,4,0,16,0,133,Work day,Work day
+"Friday, September 12, 2014",09/12/14,QUEENS,32,0,4,0,6,0,22,0,156,Work day,Work day
+"Friday, September 12, 2014",09/12/14,STATEN ISLAND,4,0,0,0,0,0,4,0,22,Work day,Work day
+"Saturday, September 13, 2014",09/13/14,,53,0,2,0,4,0,47,0,147,Weekend,Weekend
+"Saturday, September 13, 2014",09/13/14,BRONX,14,0,1,0,1,0,12,0,50,Weekend,Weekend
+"Saturday, September 13, 2014",09/13/14,BROOKLYN,51,0,13,0,4,0,34,0,127,Weekend,Weekend
+"Saturday, September 13, 2014",09/13/14,MANHATTAN,15,0,6,0,4,0,5,0,109,Weekend,Weekend
+"Saturday, September 13, 2014",09/13/14,QUEENS,30,0,8,0,3,0,19,0,103,Weekend,Weekend
+"Saturday, September 13, 2014",09/13/14,STATEN ISLAND,2,0,0,0,1,0,1,0,22,Weekend,Weekend
+"Sunday, September 14, 2014",09/14/14,,38,0,1,0,2,0,35,0,127,Weekend,Weekend
+"Sunday, September 14, 2014",09/14/14,BRONX,22,0,2,0,2,0,18,0,49,Weekend,Weekend
+"Sunday, September 14, 2014",09/14/14,BROOKLYN,54,0,4,0,4,0,46,0,121,Weekend,Weekend
+"Sunday, September 14, 2014",09/14/14,MANHATTAN,13,0,5,0,2,0,6,0,99,Weekend,Weekend
+"Sunday, September 14, 2014",09/14/14,QUEENS,22,0,4,0,5,0,13,0,112,Weekend,Weekend
+"Sunday, September 14, 2014",09/14/14,STATEN ISLAND,6,0,0,0,0,0,6,0,18,Weekend,Weekend
+"Monday, September 15, 2014",09/15/14,,29,0,6,0,0,0,23,0,147,Work day,Work day
+"Monday, September 15, 2014",09/15/14,BRONX,16,0,2,0,1,0,13,0,59,Work day,Work day
+"Monday, September 15, 2014",09/15/14,BROOKLYN,53,0,8,0,4,0,41,0,154,Work day,Work day
+"Monday, September 15, 2014",09/15/14,MANHATTAN,13,0,3,0,3,0,7,0,108,Work day,Work day
+"Monday, September 15, 2014",09/15/14,QUEENS,25,0,4,0,5,0,16,0,119,Work day,Work day
+"Monday, September 15, 2014",09/15/14,STATEN ISLAND,7,0,0,0,0,0,7,0,22,Work day,Work day
+"Tuesday, September 16, 2014",09/16/14,,39,0,4,0,1,0,34,0,143,Work day,Work day
+"Tuesday, September 16, 2014",09/16/14,BRONX,27,1,4,0,4,0,19,1,68,Work day,Work day
+"Tuesday, September 16, 2014",09/16/14,BROOKLYN,41,0,8,0,4,0,29,0,143,Work day,Work day
+"Tuesday, September 16, 2014",09/16/14,MANHATTAN,15,0,4,0,4,0,7,0,127,Work day,Work day
+"Tuesday, September 16, 2014",09/16/14,QUEENS,27,0,5,0,2,0,20,0,113,Work day,Work day
+"Tuesday, September 16, 2014",09/16/14,STATEN ISLAND,4,0,1,0,0,0,3,0,19,Work day,Work day
+"Wednesday, September 17, 2014",09/17/14,,33,0,4,0,0,0,29,0,169,Work day,Work day
+"Wednesday, September 17, 2014",09/17/14,BRONX,12,0,6,0,2,0,4,0,60,Work day,Work day
+"Wednesday, September 17, 2014",09/17/14,BROOKLYN,49,1,19,1,5,0,25,0,154,Work day,Work day
+"Wednesday, September 17, 2014",09/17/14,MANHATTAN,28,0,8,0,9,0,11,0,126,Work day,Work day
+"Wednesday, September 17, 2014",09/17/14,QUEENS,29,0,8,0,5,0,16,0,131,Work day,Work day
+"Wednesday, September 17, 2014",09/17/14,STATEN ISLAND,7,0,0,0,0,0,7,0,18,Work day,Work day
+"Thursday, September 18, 2014",09/18/14,,48,0,3,0,1,0,44,0,159,Work day,Work day
+"Thursday, September 18, 2014",09/18/14,BRONX,14,0,2,0,1,0,11,0,51,Work day,Work day
+"Thursday, September 18, 2014",09/18/14,BROOKLYN,57,0,8,0,6,0,43,0,152,Work day,Work day
+"Thursday, September 18, 2014",09/18/14,MANHATTAN,23,1,11,1,5,0,7,0,149,Work day,Work day
+"Thursday, September 18, 2014",09/18/14,QUEENS,30,2,3,0,2,0,25,2,119,Work day,Work day
+"Thursday, September 18, 2014",09/18/14,STATEN ISLAND,5,0,1,0,1,0,3,0,19,Work day,Work day
+"Friday, September 19, 2014",09/19/14,,43,0,1,0,2,0,40,0,181,Work day,Work day
+"Friday, September 19, 2014",09/19/14,BRONX,15,0,5,0,2,0,8,0,54,Work day,Work day
+"Friday, September 19, 2014",09/19/14,BROOKLYN,36,0,1,0,6,0,29,0,134,Work day,Work day
+"Friday, September 19, 2014",09/19/14,MANHATTAN,14,0,5,0,2,0,7,0,127,Work day,Work day
+"Friday, September 19, 2014",09/19/14,QUEENS,33,0,5,0,3,0,25,0,130,Work day,Work day
+"Friday, September 19, 2014",09/19/14,STATEN ISLAND,2,0,0,0,0,0,2,0,20,Work day,Work day
+"Saturday, September 20, 2014",09/20/14,,45,0,4,0,4,0,37,0,148,Weekend,Weekend
+"Saturday, September 20, 2014",09/20/14,BRONX,17,0,1,0,3,0,13,0,62,Weekend,Weekend
+"Saturday, September 20, 2014",09/20/14,BROOKLYN,45,0,12,0,6,0,27,0,126,Weekend,Weekend
+"Saturday, September 20, 2014",09/20/14,MANHATTAN,15,0,3,0,6,0,6,0,121,Weekend,Weekend
+"Saturday, September 20, 2014",09/20/14,QUEENS,33,0,6,0,7,0,20,0,119,Weekend,Weekend
+"Saturday, September 20, 2014",09/20/14,STATEN ISLAND,4,0,0,0,0,0,4,0,18,Weekend,Weekend
+"Sunday, September 21, 2014",09/21/14,,71,1,4,0,5,0,62,1,150,Weekend,Weekend
+"Sunday, September 21, 2014",09/21/14,BRONX,13,0,2,0,2,0,9,0,38,Weekend,Weekend
+"Sunday, September 21, 2014",09/21/14,BROOKLYN,40,0,2,0,5,0,33,0,92,Weekend,Weekend
+"Sunday, September 21, 2014",09/21/14,MANHATTAN,9,0,2,0,3,0,4,0,127,Weekend,Weekend
+"Sunday, September 21, 2014",09/21/14,QUEENS,30,0,5,0,0,0,25,0,93,Weekend,Weekend
+"Sunday, September 21, 2014",09/21/14,STATEN ISLAND,3,0,0,0,0,0,3,0,15,Weekend,Weekend
+"Monday, September 22, 2014",09/22/14,,30,0,2,0,3,0,25,0,153,Work day,Work day
+"Monday, September 22, 2014",09/22/14,BRONX,24,0,6,0,3,0,15,0,74,Work day,Work day
+"Monday, September 22, 2014",09/22/14,BROOKLYN,47,0,8,0,10,0,29,0,163,Work day,Work day
+"Monday, September 22, 2014",09/22/14,MANHATTAN,16,0,7,0,5,0,4,0,104,Work day,Work day
+"Monday, September 22, 2014",09/22/14,QUEENS,47,1,11,0,6,0,30,1,141,Work day,Work day
+"Monday, September 22, 2014",09/22/14,STATEN ISLAND,12,0,3,0,1,0,8,0,26,Work day,Work day
+"Tuesday, September 23, 2014",09/23/14,,30,1,5,0,0,0,25,1,124,Work day,Work day
+"Tuesday, September 23, 2014",09/23/14,BRONX,17,1,2,0,1,0,14,1,60,Work day,Work day
+"Tuesday, September 23, 2014",09/23/14,BROOKLYN,34,0,9,0,5,0,20,0,139,Work day,Work day
+"Tuesday, September 23, 2014",09/23/14,MANHATTAN,20,0,9,0,3,0,8,0,137,Work day,Work day
+"Tuesday, September 23, 2014",09/23/14,QUEENS,30,0,5,0,1,0,24,0,113,Work day,Work day
+"Tuesday, September 23, 2014",09/23/14,STATEN ISLAND,4,0,0,0,1,0,3,0,19,Work day,Work day
+"Wednesday, September 24, 2014",09/24/14,,17,0,2,0,1,0,14,0,116,Work day,Work day
+"Wednesday, September 24, 2014",09/24/14,BRONX,16,0,5,0,1,0,10,0,52,Work day,Work day
+"Wednesday, September 24, 2014",09/24/14,BROOKLYN,33,0,8,0,7,0,18,0,130,Work day,Work day
+"Wednesday, September 24, 2014",09/24/14,MANHATTAN,16,0,10,0,5,0,1,0,140,Work day,Work day
+"Wednesday, September 24, 2014",09/24/14,QUEENS,22,0,4,0,2,0,16,0,105,Work day,Work day
+"Wednesday, September 24, 2014",09/24/14,STATEN ISLAND,2,0,0,0,0,0,2,0,22,Work day,Work day
+"Thursday, September 25, 2014",09/25/14,,21,0,3,0,0,0,18,0,104,Work day,Work day
+"Thursday, September 25, 2014",09/25/14,BRONX,18,0,2,0,2,0,14,0,58,Work day,Work day
+"Thursday, September 25, 2014",09/25/14,BROOKLYN,35,1,4,1,3,0,28,0,122,Work day,Work day
+"Thursday, September 25, 2014",09/25/14,MANHATTAN,20,1,4,1,2,0,14,0,108,Work day,Work day
+"Thursday, September 25, 2014",09/25/14,QUEENS,12,0,5,0,0,0,7,0,89,Work day,Work day
+"Thursday, September 25, 2014",09/25/14,STATEN ISLAND,2,0,0,0,0,0,2,0,9,Work day,Work day
+"Friday, September 26, 2014",09/26/14,,50,0,2,0,1,0,47,0,168,Work day,Work day
+"Friday, September 26, 2014",09/26/14,BRONX,33,0,6,0,4,0,23,0,77,Work day,Work day
+"Friday, September 26, 2014",09/26/14,BROOKLYN,40,0,10,0,4,0,26,0,127,Work day,Work day
+"Friday, September 26, 2014",09/26/14,MANHATTAN,18,0,9,0,3,0,6,0,135,Work day,Work day
+"Friday, September 26, 2014",09/26/14,QUEENS,29,0,5,0,3,0,21,0,121,Work day,Work day
+"Friday, September 26, 2014",09/26/14,STATEN ISLAND,5,0,0,0,0,0,5,0,15,Work day,Work day
+"Saturday, September 27, 2014",09/27/14,,40,0,3,0,1,0,36,0,140,Weekend,Weekend
+"Saturday, September 27, 2014",09/27/14,BRONX,22,0,5,0,3,0,14,0,55,Weekend,Weekend
+"Saturday, September 27, 2014",09/27/14,BROOKLYN,60,0,8,0,6,0,46,0,136,Weekend,Weekend
+"Saturday, September 27, 2014",09/27/14,MANHATTAN,23,0,7,0,4,0,12,0,132,Weekend,Weekend
+"Saturday, September 27, 2014",09/27/14,QUEENS,24,0,2,0,3,0,19,0,117,Weekend,Weekend
+"Saturday, September 27, 2014",09/27/14,STATEN ISLAND,5,0,0,0,0,0,5,0,19,Weekend,Weekend
+"Sunday, September 28, 2014",09/28/14,,41,2,0,1,1,0,40,1,129,Weekend,Weekend
+"Sunday, September 28, 2014",09/28/14,BRONX,22,0,4,0,1,0,17,0,45,Weekend,Weekend
+"Sunday, September 28, 2014",09/28/14,BROOKLYN,31,0,6,0,5,0,20,0,127,Weekend,Weekend
+"Sunday, September 28, 2014",09/28/14,MANHATTAN,8,1,3,1,1,0,4,0,96,Weekend,Weekend
+"Sunday, September 28, 2014",09/28/14,QUEENS,40,0,5,0,3,0,32,0,103,Weekend,Weekend
+"Sunday, September 28, 2014",09/28/14,STATEN ISLAND,2,0,0,0,0,0,2,0,12,Weekend,Weekend
+"Monday, September 29, 2014",09/29/14,,20,0,3,0,2,0,15,0,136,Work day,Work day
+"Monday, September 29, 2014",09/29/14,BRONX,7,0,3,0,3,0,1,0,51,Work day,Work day
+"Monday, September 29, 2014",09/29/14,BROOKLYN,33,0,7,0,6,0,20,0,134,Work day,Work day
+"Monday, September 29, 2014",09/29/14,MANHATTAN,22,0,11,0,5,0,6,0,112,Work day,Work day
+"Monday, September 29, 2014",09/29/14,QUEENS,35,0,3,0,2,0,30,0,112,Work day,Work day
+"Monday, September 29, 2014",09/29/14,STATEN ISLAND,6,0,1,0,1,0,4,0,20,Work day,Work day
+"Tuesday, September 30, 2014",09/30/14,,32,1,6,1,2,0,24,0,133,Work day,Work day
+"Tuesday, September 30, 2014",09/30/14,BRONX,11,0,2,0,1,0,8,0,49,Work day,Work day
+"Tuesday, September 30, 2014",09/30/14,BROOKLYN,52,0,10,0,6,0,36,0,131,Work day,Work day
+"Tuesday, September 30, 2014",09/30/14,MANHATTAN,24,0,7,0,9,0,8,0,124,Work day,Work day
+"Tuesday, September 30, 2014",09/30/14,QUEENS,28,0,7,0,1,0,20,0,137,Work day,Work day
+"Tuesday, September 30, 2014",09/30/14,STATEN ISLAND,0,0,0,0,0,0,0,0,15,Work day,Work day
+"Wednesday, October 1, 2014",10/01/14,,26,1,1,1,1,0,24,0,121,Work day,Work day
+"Wednesday, October 1, 2014",10/01/14,BRONX,17,0,3,0,1,0,13,0,53,Work day,Work day
+"Wednesday, October 1, 2014",10/01/14,BROOKLYN,31,0,9,0,4,0,18,0,136,Work day,Work day
+"Wednesday, October 1, 2014",10/01/14,MANHATTAN,16,0,6,0,3,0,7,0,103,Work day,Work day
+"Wednesday, October 1, 2014",10/01/14,QUEENS,37,0,14,0,1,0,22,0,121,Work day,Work day
+"Wednesday, October 1, 2014",10/01/14,STATEN ISLAND,6,0,0,0,1,0,5,0,25,Work day,Work day
+"Thursday, October 2, 2014",10/02/14,,22,0,1,0,0,0,21,0,137,Work day,Work day
+"Thursday, October 2, 2014",10/02/14,BRONX,16,0,3,0,0,0,13,0,48,Work day,Work day
+"Thursday, October 2, 2014",10/02/14,BROOKLYN,37,0,11,0,7,0,19,0,129,Work day,Work day
+"Thursday, October 2, 2014",10/02/14,MANHATTAN,8,0,2,0,1,0,5,0,116,Work day,Work day
+"Thursday, October 2, 2014",10/02/14,QUEENS,24,0,4,0,2,0,18,0,108,Work day,Work day
+"Thursday, October 2, 2014",10/02/14,STATEN ISLAND,8,0,0,0,0,0,8,0,20,Work day,Work day
+"Friday, October 3, 2014",10/03/14,,47,0,0,0,0,0,47,0,160,Work day,Work day
+"Friday, October 3, 2014",10/03/14,BRONX,28,1,8,1,0,0,20,0,78,Work day,Work day
+"Friday, October 3, 2014",10/03/14,BROOKLYN,47,0,17,0,3,0,27,0,165,Work day,Work day
+"Friday, October 3, 2014",10/03/14,MANHATTAN,31,0,8,0,9,0,14,0,131,Work day,Work day
+"Friday, October 3, 2014",10/03/14,QUEENS,66,0,12,0,6,0,48,0,164,Work day,Work day
+"Friday, October 3, 2014",10/03/14,STATEN ISLAND,11,0,2,0,0,0,9,0,21,Work day,Work day
+"Saturday, October 4, 2014",10/04/14,,30,0,2,0,0,0,28,0,121,Weekend,Weekend
+"Saturday, October 4, 2014",10/04/14,BRONX,15,0,5,0,2,0,8,0,57,Weekend,Weekend
+"Saturday, October 4, 2014",10/04/14,BROOKLYN,53,0,16,0,5,0,32,0,128,Weekend,Weekend
+"Saturday, October 4, 2014",10/04/14,MANHATTAN,28,0,6,0,2,0,20,0,100,Weekend,Weekend
+"Saturday, October 4, 2014",10/04/14,QUEENS,23,0,6,0,2,0,15,0,109,Weekend,Weekend
+"Saturday, October 4, 2014",10/04/14,STATEN ISLAND,8,0,0,0,0,0,8,0,16,Weekend,Weekend
+"Sunday, October 5, 2014",10/05/14,,33,0,1,0,2,0,30,0,126,Weekend,Weekend
+"Sunday, October 5, 2014",10/05/14,BRONX,16,0,3,0,0,0,13,0,38,Weekend,Weekend
+"Sunday, October 5, 2014",10/05/14,BROOKLYN,40,0,8,0,5,0,27,0,115,Weekend,Weekend
+"Sunday, October 5, 2014",10/05/14,MANHATTAN,18,0,6,0,4,0,8,0,107,Weekend,Weekend
+"Sunday, October 5, 2014",10/05/14,QUEENS,34,0,1,0,1,0,32,0,104,Weekend,Weekend
+"Sunday, October 5, 2014",10/05/14,STATEN ISLAND,9,0,0,0,0,0,9,0,15,Weekend,Weekend
+"Monday, October 6, 2014",10/06/14,,22,0,4,0,2,0,16,0,147,Work day,Work day
+"Monday, October 6, 2014",10/06/14,BRONX,15,0,2,0,3,0,10,0,67,Work day,Work day
+"Monday, October 6, 2014",10/06/14,BROOKLYN,56,1,14,1,5,0,37,0,161,Work day,Work day
+"Monday, October 6, 2014",10/06/14,MANHATTAN,19,0,8,0,6,0,5,0,114,Work day,Work day
+"Monday, October 6, 2014",10/06/14,QUEENS,38,0,7,0,2,0,29,0,136,Work day,Work day
+"Monday, October 6, 2014",10/06/14,STATEN ISLAND,2,0,0,0,0,0,2,0,14,Work day,Work day
+"Tuesday, October 7, 2014",10/07/14,,47,1,6,0,1,0,40,1,138,Work day,Work day
+"Tuesday, October 7, 2014",10/07/14,BRONX,15,0,5,0,1,0,9,0,59,Work day,Work day
+"Tuesday, October 7, 2014",10/07/14,BROOKLYN,48,0,6,0,7,0,35,0,145,Work day,Work day
+"Tuesday, October 7, 2014",10/07/14,MANHATTAN,27,0,8,0,6,0,13,0,117,Work day,Work day
+"Tuesday, October 7, 2014",10/07/14,QUEENS,42,0,5,0,3,0,34,0,134,Work day,Work day
+"Tuesday, October 7, 2014",10/07/14,STATEN ISLAND,4,0,0,0,0,0,4,0,26,Work day,Work day
+"Wednesday, October 8, 2014",10/08/14,,40,1,1,0,4,1,35,0,173,Work day,Work day
+"Wednesday, October 8, 2014",10/08/14,BRONX,22,0,7,0,2,0,13,0,63,Work day,Work day
+"Wednesday, October 8, 2014",10/08/14,BROOKLYN,38,0,8,0,7,0,23,0,137,Work day,Work day
+"Wednesday, October 8, 2014",10/08/14,MANHATTAN,19,0,4,0,4,0,11,0,133,Work day,Work day
+"Wednesday, October 8, 2014",10/08/14,QUEENS,21,0,9,0,4,0,8,0,106,Work day,Work day
+"Wednesday, October 8, 2014",10/08/14,STATEN ISLAND,10,0,2,0,0,0,8,0,27,Work day,Work day
+"Thursday, October 9, 2014",10/09/14,,29,0,5,0,1,0,23,0,116,Work day,Work day
+"Thursday, October 9, 2014",10/09/14,BRONX,11,0,1,0,3,0,7,0,37,Work day,Work day
+"Thursday, October 9, 2014",10/09/14,BROOKLYN,38,0,5,0,8,0,25,0,107,Work day,Work day
+"Thursday, October 9, 2014",10/09/14,MANHATTAN,19,0,6,0,4,0,9,0,123,Work day,Work day
+"Thursday, October 9, 2014",10/09/14,QUEENS,19,0,9,0,1,0,9,0,100,Work day,Work day
+"Thursday, October 9, 2014",10/09/14,STATEN ISLAND,5,0,0,0,0,0,5,0,16,Work day,Work day
+"Friday, October 10, 2014",10/10/14,,27,0,1,0,0,0,26,0,139,Work day,Work day
+"Friday, October 10, 2014",10/10/14,BRONX,24,0,7,0,4,0,13,0,57,Work day,Work day
+"Friday, October 10, 2014",10/10/14,BROOKLYN,31,0,7,0,5,0,19,0,112,Work day,Work day
+"Friday, October 10, 2014",10/10/14,MANHATTAN,24,1,5,1,5,0,14,0,117,Work day,Work day
+"Friday, October 10, 2014",10/10/14,QUEENS,22,0,3,0,2,0,17,0,97,Work day,Work day
+"Friday, October 10, 2014",10/10/14,STATEN ISLAND,2,0,0,0,0,0,2,0,19,Work day,Work day
+"Saturday, October 11, 2014",10/11/14,,40,0,2,0,1,0,37,0,130,Weekend,Weekend
+"Saturday, October 11, 2014",10/11/14,BRONX,24,0,4,0,3,0,17,0,54,Weekend,Weekend
+"Saturday, October 11, 2014",10/11/14,BROOKLYN,52,0,8,0,1,0,43,0,125,Weekend,Weekend
+"Saturday, October 11, 2014",10/11/14,MANHATTAN,24,0,4,0,3,0,17,0,116,Weekend,Weekend
+"Saturday, October 11, 2014",10/11/14,QUEENS,39,0,4,0,1,0,34,0,105,Weekend,Weekend
+"Saturday, October 11, 2014",10/11/14,STATEN ISLAND,2,0,0,0,0,0,2,0,16,Weekend,Weekend
+"Sunday, October 12, 2014",10/12/14,,36,1,4,0,1,0,31,1,114,Weekend,Weekend
+"Sunday, October 12, 2014",10/12/14,BRONX,18,0,5,0,2,0,11,0,39,Weekend,Weekend
+"Sunday, October 12, 2014",10/12/14,BROOKLYN,56,0,4,0,3,0,49,0,108,Weekend,Weekend
+"Sunday, October 12, 2014",10/12/14,MANHATTAN,21,0,4,0,4,0,13,0,101,Weekend,Weekend
+"Sunday, October 12, 2014",10/12/14,QUEENS,29,0,4,0,1,0,24,0,98,Weekend,Weekend
+"Sunday, October 12, 2014",10/12/14,STATEN ISLAND,1,0,1,0,0,0,0,0,13,Weekend,Weekend
+"Monday, October 13, 2014",10/13/14,,26,0,1,0,1,0,24,0,111,Work day,Columbus Day
+"Monday, October 13, 2014",10/13/14,BRONX,13,0,5,0,2,0,6,0,44,Work day,Columbus Day
+"Monday, October 13, 2014",10/13/14,BROOKLYN,42,0,8,0,4,0,30,0,99,Work day,Columbus Day
+"Monday, October 13, 2014",10/13/14,MANHATTAN,34,0,14,0,3,0,17,0,88,Work day,Columbus Day
+"Monday, October 13, 2014",10/13/14,QUEENS,20,0,5,0,1,0,14,0,88,Work day,Columbus Day
+"Monday, October 13, 2014",10/13/14,STATEN ISLAND,2,0,0,0,1,0,1,0,20,Work day,Columbus Day
+"Tuesday, October 14, 2014",10/14/14,,46,0,4,0,3,0,39,0,188,Work day,Work day
+"Tuesday, October 14, 2014",10/14/14,BRONX,23,0,3,0,2,0,18,0,55,Work day,Work day
+"Tuesday, October 14, 2014",10/14/14,BROOKLYN,49,0,15,0,8,0,26,0,150,Work day,Work day
+"Tuesday, October 14, 2014",10/14/14,MANHATTAN,23,1,9,1,5,0,9,0,133,Work day,Work day
+"Tuesday, October 14, 2014",10/14/14,QUEENS,33,0,4,0,6,0,23,0,146,Work day,Work day
+"Tuesday, October 14, 2014",10/14/14,STATEN ISLAND,3,0,1,0,0,0,2,0,22,Work day,Work day
+"Wednesday, October 15, 2014",10/15/14,,38,0,4,0,2,0,32,0,144,Work day,Work day
+"Wednesday, October 15, 2014",10/15/14,BRONX,17,0,2,0,0,0,15,0,57,Work day,Work day
+"Wednesday, October 15, 2014",10/15/14,BROOKLYN,33,0,10,0,3,0,20,0,118,Work day,Work day
+"Wednesday, October 15, 2014",10/15/14,MANHATTAN,20,0,10,0,2,0,8,0,111,Work day,Work day
+"Wednesday, October 15, 2014",10/15/14,QUEENS,30,0,5,0,3,0,22,0,120,Work day,Work day
+"Wednesday, October 15, 2014",10/15/14,STATEN ISLAND,5,0,1,0,0,0,4,0,25,Work day,Work day
+"Thursday, October 16, 2014",10/16/14,,50,0,2,0,0,0,48,0,170,Work day,Work day
+"Thursday, October 16, 2014",10/16/14,BRONX,17,0,7,0,0,0,10,0,51,Work day,Work day
+"Thursday, October 16, 2014",10/16/14,BROOKLYN,37,0,9,0,6,0,22,0,128,Work day,Work day
+"Thursday, October 16, 2014",10/16/14,MANHATTAN,18,0,7,0,6,0,5,0,106,Work day,Work day
+"Thursday, October 16, 2014",10/16/14,QUEENS,49,0,7,0,1,0,41,0,130,Work day,Work day
+"Thursday, October 16, 2014",10/16/14,STATEN ISLAND,4,0,0,0,0,0,4,0,17,Work day,Work day
+"Friday, October 17, 2014",10/17/14,,48,2,4,0,0,0,44,2,152,Work day,Work day
+"Friday, October 17, 2014",10/17/14,BRONX,13,0,3,0,2,0,8,0,56,Work day,Work day
+"Friday, October 17, 2014",10/17/14,BROOKLYN,35,0,7,0,9,0,19,0,137,Work day,Work day
+"Friday, October 17, 2014",10/17/14,MANHATTAN,32,0,7,0,6,0,19,0,146,Work day,Work day
+"Friday, October 17, 2014",10/17/14,QUEENS,33,1,8,1,4,0,21,0,139,Work day,Work day
+"Friday, October 17, 2014",10/17/14,STATEN ISLAND,1,0,0,0,0,0,1,0,18,Work day,Work day
+"Saturday, October 18, 2014",10/18/14,,45,0,8,0,4,0,33,0,135,Weekend,Weekend
+"Saturday, October 18, 2014",10/18/14,BRONX,13,0,4,0,1,0,8,0,52,Weekend,Weekend
+"Saturday, October 18, 2014",10/18/14,BROOKLYN,33,0,7,0,6,0,20,0,100,Weekend,Weekend
+"Saturday, October 18, 2014",10/18/14,MANHATTAN,28,0,7,0,4,0,17,0,97,Weekend,Weekend
+"Saturday, October 18, 2014",10/18/14,QUEENS,29,0,3,0,6,0,20,0,91,Weekend,Weekend
+"Saturday, October 18, 2014",10/18/14,STATEN ISLAND,15,0,0,0,0,0,15,0,18,Weekend,Weekend
+"Sunday, October 19, 2014",10/19/14,,38,0,2,0,1,0,35,0,126,Weekend,Weekend
+"Sunday, October 19, 2014",10/19/14,BRONX,19,0,5,0,2,0,12,0,36,Weekend,Weekend
+"Sunday, October 19, 2014",10/19/14,BROOKLYN,63,0,10,0,7,0,46,0,122,Weekend,Weekend
+"Sunday, October 19, 2014",10/19/14,MANHATTAN,10,0,2,0,2,0,6,0,86,Weekend,Weekend
+"Sunday, October 19, 2014",10/19/14,QUEENS,30,0,5,0,4,0,21,0,102,Weekend,Weekend
+"Sunday, October 19, 2014",10/19/14,STATEN ISLAND,0,0,0,0,0,0,0,0,11,Weekend,Weekend
+"Monday, October 20, 2014",10/20/14,,33,0,0,0,0,0,33,0,131,Work day,Work day
+"Monday, October 20, 2014",10/20/14,BRONX,11,0,1,0,0,0,10,0,56,Work day,Work day
+"Monday, October 20, 2014",10/20/14,BROOKLYN,40,1,10,1,3,0,27,0,157,Work day,Work day
+"Monday, October 20, 2014",10/20/14,MANHATTAN,20,0,8,0,6,0,6,0,118,Work day,Work day
+"Monday, October 20, 2014",10/20/14,QUEENS,29,0,11,0,2,0,16,0,111,Work day,Work day
+"Monday, October 20, 2014",10/20/14,STATEN ISLAND,3,0,0,0,0,0,3,0,18,Work day,Work day
+"Tuesday, October 21, 2014",10/21/14,,28,0,5,0,1,0,22,0,124,Work day,Work day
+"Tuesday, October 21, 2014",10/21/14,BRONX,14,0,5,0,1,0,8,0,55,Work day,Work day
+"Tuesday, October 21, 2014",10/21/14,BROOKLYN,43,0,15,0,10,0,18,0,156,Work day,Work day
+"Tuesday, October 21, 2014",10/21/14,MANHATTAN,14,0,7,0,2,0,5,0,113,Work day,Work day
+"Tuesday, October 21, 2014",10/21/14,QUEENS,29,0,9,0,2,0,18,0,132,Work day,Work day
+"Tuesday, October 21, 2014",10/21/14,STATEN ISLAND,4,0,1,0,0,0,3,0,27,Work day,Work day
+"Wednesday, October 22, 2014",10/22/14,,31,0,9,0,1,0,21,0,160,Work day,Work day
+"Wednesday, October 22, 2014",10/22/14,BRONX,13,0,6,0,1,0,6,0,57,Work day,Work day
+"Wednesday, October 22, 2014",10/22/14,BROOKLYN,69,0,20,0,6,0,43,0,169,Work day,Work day
+"Wednesday, October 22, 2014",10/22/14,MANHATTAN,21,0,15,0,3,0,3,0,143,Work day,Work day
+"Wednesday, October 22, 2014",10/22/14,QUEENS,46,0,14,0,4,0,28,0,149,Work day,Work day
+"Wednesday, October 22, 2014",10/22/14,STATEN ISLAND,11,0,2,0,0,0,9,0,30,Work day,Work day
+"Thursday, October 23, 2014",10/23/14,,27,1,6,1,2,0,19,0,137,Work day,Work day
+"Thursday, October 23, 2014",10/23/14,BRONX,11,0,3,0,0,0,8,0,50,Work day,Work day
+"Thursday, October 23, 2014",10/23/14,BROOKLYN,49,0,11,0,5,0,33,0,158,Work day,Work day
+"Thursday, October 23, 2014",10/23/14,MANHATTAN,23,0,13,0,4,0,6,0,141,Work day,Work day
+"Thursday, October 23, 2014",10/23/14,QUEENS,34,0,3,0,0,0,31,0,132,Work day,Work day
+"Thursday, October 23, 2014",10/23/14,STATEN ISLAND,7,0,0,0,0,0,7,0,21,Work day,Work day
+"Friday, October 24, 2014",10/24/14,,38,0,3,0,0,0,35,0,162,Work day,Work day
+"Friday, October 24, 2014",10/24/14,BRONX,14,1,11,1,0,0,3,0,50,Work day,Work day
+"Friday, October 24, 2014",10/24/14,BROOKLYN,53,0,7,0,4,0,42,0,173,Work day,Work day
+"Friday, October 24, 2014",10/24/14,MANHATTAN,15,0,4,0,7,0,4,0,128,Work day,Work day
+"Friday, October 24, 2014",10/24/14,QUEENS,31,0,6,0,2,0,23,0,132,Work day,Work day
+"Friday, October 24, 2014",10/24/14,STATEN ISLAND,5,0,0,0,0,0,5,0,24,Work day,Work day
+"Saturday, October 25, 2014",10/25/14,,34,0,5,0,1,0,28,0,126,Weekend,Weekend
+"Saturday, October 25, 2014",10/25/14,BRONX,22,0,5,0,0,0,17,0,52,Weekend,Weekend
+"Saturday, October 25, 2014",10/25/14,BROOKLYN,39,0,7,0,3,0,29,0,121,Weekend,Weekend
+"Saturday, October 25, 2014",10/25/14,MANHATTAN,18,0,5,0,3,0,10,0,108,Weekend,Weekend
+"Saturday, October 25, 2014",10/25/14,QUEENS,24,0,3,0,1,0,20,0,96,Weekend,Weekend
+"Saturday, October 25, 2014",10/25/14,STATEN ISLAND,2,0,0,0,0,0,2,0,12,Weekend,Weekend
+"Sunday, October 26, 2014",10/26/14,,34,0,2,0,1,0,31,0,114,Weekend,Weekend
+"Sunday, October 26, 2014",10/26/14,BRONX,13,0,1,0,3,0,9,0,54,Weekend,Weekend
+"Sunday, October 26, 2014",10/26/14,BROOKLYN,40,2,7,2,3,0,30,0,128,Weekend,Weekend
+"Sunday, October 26, 2014",10/26/14,MANHATTAN,28,0,9,0,0,0,19,0,112,Weekend,Weekend
+"Sunday, October 26, 2014",10/26/14,QUEENS,14,0,1,0,3,0,10,0,89,Weekend,Weekend
+"Sunday, October 26, 2014",10/26/14,STATEN ISLAND,5,0,1,0,0,0,4,0,17,Weekend,Weekend
+"Monday, October 27, 2014",10/27/14,,36,0,2,0,1,0,33,0,165,Work day,Work day
+"Monday, October 27, 2014",10/27/14,BRONX,24,0,9,0,1,0,14,0,62,Work day,Work day
+"Monday, October 27, 2014",10/27/14,BROOKLYN,51,0,12,0,4,0,35,0,159,Work day,Work day
+"Monday, October 27, 2014",10/27/14,MANHATTAN,19,0,13,0,1,0,5,0,120,Work day,Work day
+"Monday, October 27, 2014",10/27/14,QUEENS,49,0,8,0,0,0,41,0,114,Work day,Work day
+"Monday, October 27, 2014",10/27/14,STATEN ISLAND,5,0,1,0,0,0,4,0,22,Work day,Work day
+"Tuesday, October 28, 2014",10/28/14,,22,0,1,0,2,0,19,0,130,Work day,Work day
+"Tuesday, October 28, 2014",10/28/14,BRONX,25,0,9,0,1,0,15,0,50,Work day,Work day
+"Tuesday, October 28, 2014",10/28/14,BROOKLYN,21,0,2,0,8,0,11,0,146,Work day,Work day
+"Tuesday, October 28, 2014",10/28/14,MANHATTAN,14,0,3,0,4,0,7,0,118,Work day,Work day
+"Tuesday, October 28, 2014",10/28/14,QUEENS,28,0,7,0,3,0,18,0,104,Work day,Work day
+"Tuesday, October 28, 2014",10/28/14,STATEN ISLAND,4,0,0,0,0,0,4,0,23,Work day,Work day
+"Wednesday, October 29, 2014",10/29/14,,36,1,5,1,1,0,30,0,131,Work day,Work day
+"Wednesday, October 29, 2014",10/29/14,BRONX,12,0,3,0,2,0,7,0,50,Work day,Work day
+"Wednesday, October 29, 2014",10/29/14,BROOKLYN,44,0,9,0,2,0,33,0,120,Work day,Work day
+"Wednesday, October 29, 2014",10/29/14,MANHATTAN,19,0,10,0,1,0,8,0,119,Work day,Work day
+"Wednesday, October 29, 2014",10/29/14,QUEENS,28,1,6,1,2,0,20,0,117,Work day,Work day
+"Wednesday, October 29, 2014",10/29/14,STATEN ISLAND,4,0,1,0,0,0,3,0,17,Work day,Work day
+"Thursday, October 30, 2014",10/30/14,,23,0,4,0,1,0,18,0,136,Work day,Work day
+"Thursday, October 30, 2014",10/30/14,BRONX,5,0,2,0,2,0,1,0,51,Work day,Work day
+"Thursday, October 30, 2014",10/30/14,BROOKLYN,32,0,9,0,3,0,20,0,150,Work day,Work day
+"Thursday, October 30, 2014",10/30/14,MANHATTAN,23,1,7,1,2,0,14,0,147,Work day,Work day
+"Thursday, October 30, 2014",10/30/14,QUEENS,27,1,7,1,2,0,18,0,126,Work day,Work day
+"Thursday, October 30, 2014",10/30/14,STATEN ISLAND,6,0,3,0,0,0,3,0,16,Work day,Work day
+"Friday, October 31, 2014",10/31/14,,35,0,3,0,1,0,31,0,141,Work day,Work day
+"Friday, October 31, 2014",10/31/14,BRONX,6,0,3,0,0,0,3,0,52,Work day,Work day
+"Friday, October 31, 2014",10/31/14,BROOKLYN,37,0,15,0,6,0,16,0,162,Work day,Work day
+"Friday, October 31, 2014",10/31/14,MANHATTAN,15,0,3,0,4,0,8,0,138,Work day,Work day
+"Friday, October 31, 2014",10/31/14,QUEENS,45,0,9,0,3,0,33,0,155,Work day,Work day
+"Friday, October 31, 2014",10/31/14,STATEN ISLAND,4,0,0,0,0,0,4,0,20,Work day,Work day
+"Saturday, November 1, 2014",11/01/14,,42,0,3,0,0,0,39,0,143,Weekend,Weekend
+"Saturday, November 1, 2014",11/01/14,BRONX,17,0,3,0,2,0,12,0,70,Weekend,Weekend
+"Saturday, November 1, 2014",11/01/14,BROOKLYN,81,1,22,1,3,0,56,0,153,Weekend,Weekend
+"Saturday, November 1, 2014",11/01/14,MANHATTAN,33,0,21,0,1,0,11,0,150,Weekend,Weekend
+"Saturday, November 1, 2014",11/01/14,QUEENS,27,0,7,0,2,0,18,0,128,Weekend,Weekend
+"Saturday, November 1, 2014",11/01/14,STATEN ISLAND,2,0,1,0,0,0,1,0,12,Weekend,Weekend
+"Sunday, November 2, 2014",11/02/14,,40,0,2,0,0,0,38,0,120,Weekend,Weekend
+"Sunday, November 2, 2014",11/02/14,BRONX,11,0,2,0,1,0,8,0,51,Weekend,Weekend
+"Sunday, November 2, 2014",11/02/14,BROOKLYN,44,0,13,0,4,0,27,0,142,Weekend,Weekend
+"Sunday, November 2, 2014",11/02/14,MANHATTAN,20,0,9,0,1,0,10,0,109,Weekend,Weekend
+"Sunday, November 2, 2014",11/02/14,QUEENS,18,0,2,0,1,0,15,0,98,Weekend,Weekend
+"Sunday, November 2, 2014",11/02/14,STATEN ISLAND,3,0,2,0,0,0,1,0,12,Weekend,Weekend
+"Monday, November 3, 2014",11/03/14,,37,3,4,0,4,0,29,3,161,Work day,Work day
+"Monday, November 3, 2014",11/03/14,BRONX,15,0,5,0,1,0,9,0,59,Work day,Work day
+"Monday, November 3, 2014",11/03/14,BROOKLYN,45,0,3,0,5,0,37,0,147,Work day,Work day
+"Monday, November 3, 2014",11/03/14,MANHATTAN,18,0,5,0,2,0,11,0,100,Work day,Work day
+"Monday, November 3, 2014",11/03/14,QUEENS,35,0,8,0,1,0,26,0,135,Work day,Work day
+"Monday, November 3, 2014",11/03/14,STATEN ISLAND,7,0,1,0,1,0,5,0,23,Work day,Work day
+"Tuesday, November 4, 2014",11/04/14,,24,0,1,0,1,0,22,0,151,Work day,Work day
+"Tuesday, November 4, 2014",11/04/14,BRONX,13,0,4,0,0,0,9,0,33,Work day,Work day
+"Tuesday, November 4, 2014",11/04/14,BROOKLYN,31,0,12,0,5,0,14,0,124,Work day,Work day
+"Tuesday, November 4, 2014",11/04/14,MANHATTAN,19,0,9,0,3,0,7,0,102,Work day,Work day
+"Tuesday, November 4, 2014",11/04/14,QUEENS,34,2,5,1,4,0,25,1,101,Work day,Work day
+"Tuesday, November 4, 2014",11/04/14,STATEN ISLAND,6,0,2,0,0,0,4,0,27,Work day,Work day
+"Wednesday, November 5, 2014",11/05/14,,30,0,1,0,2,0,27,0,131,Work day,Work day
+"Wednesday, November 5, 2014",11/05/14,BRONX,33,0,2,0,4,0,27,0,55,Work day,Work day
+"Wednesday, November 5, 2014",11/05/14,BROOKLYN,37,0,10,0,0,0,27,0,116,Work day,Work day
+"Wednesday, November 5, 2014",11/05/14,MANHATTAN,11,0,3,0,1,0,7,0,114,Work day,Work day
+"Wednesday, November 5, 2014",11/05/14,QUEENS,29,1,5,1,5,0,19,0,115,Work day,Work day
+"Wednesday, November 5, 2014",11/05/14,STATEN ISLAND,10,0,2,0,0,0,8,0,23,Work day,Work day
+"Thursday, November 6, 2014",11/06/14,,39,0,7,0,1,0,31,0,163,Work day,Work day
+"Thursday, November 6, 2014",11/06/14,BRONX,15,0,3,0,1,0,11,0,63,Work day,Work day
+"Thursday, November 6, 2014",11/06/14,BROOKLYN,45,1,17,0,2,0,26,1,147,Work day,Work day
+"Thursday, November 6, 2014",11/06/14,MANHATTAN,18,0,12,0,1,0,5,0,135,Work day,Work day
+"Thursday, November 6, 2014",11/06/14,QUEENS,33,0,14,0,1,0,18,0,132,Work day,Work day
+"Thursday, November 6, 2014",11/06/14,STATEN ISLAND,3,0,0,0,0,0,3,0,12,Work day,Work day
+"Friday, November 7, 2014",11/07/14,,32,0,2,0,1,0,29,0,144,Work day,Work day
+"Friday, November 7, 2014",11/07/14,BRONX,18,0,5,0,1,0,12,0,54,Work day,Work day
+"Friday, November 7, 2014",11/07/14,BROOKLYN,46,0,12,0,10,0,24,0,164,Work day,Work day
+"Friday, November 7, 2014",11/07/14,MANHATTAN,18,0,9,0,2,0,7,0,128,Work day,Work day
+"Friday, November 7, 2014",11/07/14,QUEENS,52,0,15,0,4,0,33,0,134,Work day,Work day
+"Friday, November 7, 2014",11/07/14,STATEN ISLAND,5,0,1,0,0,0,4,0,17,Work day,Work day
+"Saturday, November 8, 2014",11/08/14,,24,1,1,1,0,0,23,0,122,Weekend,Weekend
+"Saturday, November 8, 2014",11/08/14,BRONX,21,0,5,0,0,0,16,0,51,Weekend,Weekend
+"Saturday, November 8, 2014",11/08/14,BROOKLYN,33,0,7,0,6,0,20,0,129,Weekend,Weekend
+"Saturday, November 8, 2014",11/08/14,MANHATTAN,13,0,8,0,1,0,4,0,110,Weekend,Weekend
+"Saturday, November 8, 2014",11/08/14,QUEENS,38,1,14,1,2,0,22,0,118,Weekend,Weekend
+"Saturday, November 8, 2014",11/08/14,STATEN ISLAND,3,0,1,0,0,0,2,0,13,Weekend,Weekend
+"Sunday, November 9, 2014",11/09/14,,37,1,2,1,2,0,33,0,101,Weekend,Weekend
+"Sunday, November 9, 2014",11/09/14,BRONX,8,0,7,0,0,0,1,0,34,Weekend,Weekend
+"Sunday, November 9, 2014",11/09/14,BROOKLYN,26,0,2,0,1,0,23,0,95,Weekend,Weekend
+"Sunday, November 9, 2014",11/09/14,MANHATTAN,14,0,5,0,1,0,8,0,94,Weekend,Weekend
+"Sunday, November 9, 2014",11/09/14,QUEENS,14,0,3,0,1,0,10,0,85,Weekend,Weekend
+"Sunday, November 9, 2014",11/09/14,STATEN ISLAND,2,0,0,0,0,0,2,0,10,Weekend,Weekend
+"Monday, November 10, 2014",11/10/14,,30,0,5,0,1,0,24,0,125,Work day,Work day
+"Monday, November 10, 2014",11/10/14,BRONX,17,0,4,0,2,0,11,0,60,Work day,Work day
+"Monday, November 10, 2014",11/10/14,BROOKLYN,33,0,10,0,3,0,20,0,116,Work day,Work day
+"Monday, November 10, 2014",11/10/14,MANHATTAN,22,0,6,0,5,0,11,0,107,Work day,Work day
+"Monday, November 10, 2014",11/10/14,QUEENS,31,0,10,0,2,0,19,0,125,Work day,Work day
+"Monday, November 10, 2014",11/10/14,STATEN ISLAND,3,0,0,0,0,0,3,0,26,Work day,Work day
+"Tuesday, November 11, 2014",11/11/14,,34,0,4,0,1,0,29,0,117,Work day,Veterans Day
+"Tuesday, November 11, 2014",11/11/14,BRONX,14,0,1,0,2,0,11,0,43,Work day,Veterans Day
+"Tuesday, November 11, 2014",11/11/14,BROOKLYN,21,0,5,0,4,0,12,0,112,Work day,Veterans Day
+"Tuesday, November 11, 2014",11/11/14,MANHATTAN,14,0,4,0,5,0,5,0,107,Work day,Veterans Day
+"Tuesday, November 11, 2014",11/11/14,QUEENS,31,0,6,0,3,0,22,0,96,Work day,Veterans Day
+"Tuesday, November 11, 2014",11/11/14,STATEN ISLAND,9,0,1,0,0,0,8,0,18,Work day,Veterans Day
+"Wednesday, November 12, 2014",11/12/14,,37,0,5,0,3,0,29,0,122,Work day,Work day
+"Wednesday, November 12, 2014",11/12/14,BRONX,14,0,3,0,0,0,11,0,42,Work day,Work day
+"Wednesday, November 12, 2014",11/12/14,BROOKLYN,40,0,8,0,6,0,26,0,151,Work day,Work day
+"Wednesday, November 12, 2014",11/12/14,MANHATTAN,21,1,5,1,4,0,12,0,109,Work day,Work day
+"Wednesday, November 12, 2014",11/12/14,QUEENS,45,0,3,0,2,0,40,0,106,Work day,Work day
+"Wednesday, November 12, 2014",11/12/14,STATEN ISLAND,4,0,0,0,0,0,4,0,15,Work day,Work day
+"Thursday, November 13, 2014",11/13/14,,38,2,8,0,0,0,30,2,160,Work day,Work day
+"Thursday, November 13, 2014",11/13/14,BRONX,18,1,3,1,0,0,15,0,67,Work day,Work day
+"Thursday, November 13, 2014",11/13/14,BROOKLYN,40,0,13,0,7,0,20,0,157,Work day,Work day
+"Thursday, November 13, 2014",11/13/14,MANHATTAN,25,0,11,0,3,0,11,0,157,Work day,Work day
+"Thursday, November 13, 2014",11/13/14,QUEENS,33,0,11,0,1,0,21,0,132,Work day,Work day
+"Thursday, November 13, 2014",11/13/14,STATEN ISLAND,4,0,0,0,0,0,4,0,23,Work day,Work day
+"Friday, November 14, 2014",11/14/14,,34,0,3,0,1,0,30,0,162,Work day,Work day
+"Friday, November 14, 2014",11/14/14,BRONX,21,0,7,0,1,0,13,0,58,Work day,Work day
+"Friday, November 14, 2014",11/14/14,BROOKLYN,51,0,12,0,7,0,32,0,149,Work day,Work day
+"Friday, November 14, 2014",11/14/14,MANHATTAN,13,0,4,0,2,0,7,0,127,Work day,Work day
+"Friday, November 14, 2014",11/14/14,QUEENS,37,0,9,0,3,0,25,0,133,Work day,Work day
+"Friday, November 14, 2014",11/14/14,STATEN ISLAND,8,0,0,0,0,0,8,0,22,Work day,Work day
+"Saturday, November 15, 2014",11/15/14,,43,0,5,0,0,0,38,0,133,Weekend,Weekend
+"Saturday, November 15, 2014",11/15/14,BRONX,10,0,1,0,1,0,8,0,49,Weekend,Weekend
+"Saturday, November 15, 2014",11/15/14,BROOKLYN,38,0,2,0,4,0,32,0,108,Weekend,Weekend
+"Saturday, November 15, 2014",11/15/14,MANHATTAN,18,0,12,0,4,0,2,0,112,Weekend,Weekend
+"Saturday, November 15, 2014",11/15/14,QUEENS,32,0,10,0,1,0,21,0,112,Weekend,Weekend
+"Saturday, November 15, 2014",11/15/14,STATEN ISLAND,1,1,0,1,0,0,1,0,15,Weekend,Weekend
+"Sunday, November 16, 2014",11/16/14,,18,0,0,0,0,0,18,0,95,Weekend,Weekend
+"Sunday, November 16, 2014",11/16/14,BRONX,13,0,4,0,1,0,8,0,40,Weekend,Weekend
+"Sunday, November 16, 2014",11/16/14,BROOKLYN,35,0,5,0,2,0,28,0,93,Weekend,Weekend
+"Sunday, November 16, 2014",11/16/14,MANHATTAN,13,0,5,0,2,0,6,0,92,Weekend,Weekend
+"Sunday, November 16, 2014",11/16/14,QUEENS,35,0,5,0,0,0,30,0,102,Weekend,Weekend
+"Sunday, November 16, 2014",11/16/14,STATEN ISLAND,0,0,0,0,0,0,0,0,7,Weekend,Weekend
+"Monday, November 17, 2014",11/17/14,,32,1,2,1,2,0,28,0,154,Work day,Work day
+"Monday, November 17, 2014",11/17/14,BRONX,16,0,9,0,0,0,7,0,60,Work day,Work day
+"Monday, November 17, 2014",11/17/14,BROOKLYN,46,0,13,0,5,0,28,0,156,Work day,Work day
+"Monday, November 17, 2014",11/17/14,MANHATTAN,22,0,11,0,1,0,10,0,133,Work day,Work day
+"Monday, November 17, 2014",11/17/14,QUEENS,47,0,22,0,3,0,22,0,141,Work day,Work day
+"Monday, November 17, 2014",11/17/14,STATEN ISLAND,4,0,1,0,0,0,3,0,22,Work day,Work day
+"Tuesday, November 18, 2014",11/18/14,,32,0,9,0,0,0,23,0,168,Work day,Work day
+"Tuesday, November 18, 2014",11/18/14,BRONX,18,0,3,0,0,0,15,0,77,Work day,Work day
+"Tuesday, November 18, 2014",11/18/14,BROOKLYN,44,0,13,0,2,0,29,0,163,Work day,Work day
+"Tuesday, November 18, 2014",11/18/14,MANHATTAN,22,0,9,0,2,0,11,0,146,Work day,Work day
+"Tuesday, November 18, 2014",11/18/14,QUEENS,27,0,12,0,1,0,14,0,134,Work day,Work day
+"Tuesday, November 18, 2014",11/18/14,STATEN ISLAND,6,0,1,0,0,0,5,0,23,Work day,Work day
+"Wednesday, November 19, 2014",11/19/14,,27,0,4,0,1,0,22,0,155,Work day,Work day
+"Wednesday, November 19, 2014",11/19/14,BRONX,14,0,2,0,0,0,12,0,48,Work day,Work day
+"Wednesday, November 19, 2014",11/19/14,BROOKLYN,57,1,10,0,4,0,43,1,156,Work day,Work day
+"Wednesday, November 19, 2014",11/19/14,MANHATTAN,13,0,4,0,0,0,9,0,130,Work day,Work day
+"Wednesday, November 19, 2014",11/19/14,QUEENS,18,0,3,0,0,0,15,0,119,Work day,Work day
+"Wednesday, November 19, 2014",11/19/14,STATEN ISLAND,12,0,1,0,0,0,11,0,25,Work day,Work day
+"Thursday, November 20, 2014",11/20/14,,20,0,3,0,0,0,17,0,151,Work day,Work day
+"Thursday, November 20, 2014",11/20/14,BRONX,13,0,4,0,1,0,8,0,56,Work day,Work day
+"Thursday, November 20, 2014",11/20/14,BROOKLYN,34,1,14,1,4,0,16,0,154,Work day,Work day
+"Thursday, November 20, 2014",11/20/14,MANHATTAN,21,0,7,0,3,0,11,0,150,Work day,Work day
+"Thursday, November 20, 2014",11/20/14,QUEENS,23,1,5,0,1,0,17,1,105,Work day,Work day
+"Thursday, November 20, 2014",11/20/14,STATEN ISLAND,2,0,1,0,0,0,1,0,18,Work day,Work day
+"Friday, November 21, 2014",11/21/14,,38,0,4,0,0,0,34,0,169,Work day,Work day
+"Friday, November 21, 2014",11/21/14,BRONX,21,0,9,0,0,0,12,0,69,Work day,Work day
+"Friday, November 21, 2014",11/21/14,BROOKLYN,40,0,12,0,3,0,25,0,139,Work day,Work day
+"Friday, November 21, 2014",11/21/14,MANHATTAN,15,0,4,0,2,0,9,0,141,Work day,Work day
+"Friday, November 21, 2014",11/21/14,QUEENS,39,0,11,0,1,0,27,0,143,Work day,Work day
+"Friday, November 21, 2014",11/21/14,STATEN ISLAND,9,0,1,0,0,0,8,0,15,Work day,Work day
+"Saturday, November 22, 2014",11/22/14,,57,0,5,0,0,0,52,0,135,Weekend,Weekend
+"Saturday, November 22, 2014",11/22/14,BRONX,22,0,3,0,0,0,19,0,50,Weekend,Weekend
+"Saturday, November 22, 2014",11/22/14,BROOKLYN,41,0,10,0,4,0,27,0,114,Weekend,Weekend
+"Saturday, November 22, 2014",11/22/14,MANHATTAN,16,0,6,0,1,0,9,0,103,Weekend,Weekend
+"Saturday, November 22, 2014",11/22/14,QUEENS,32,0,9,0,2,0,21,0,89,Weekend,Weekend
+"Saturday, November 22, 2014",11/22/14,STATEN ISLAND,2,0,1,0,1,0,0,0,20,Weekend,Weekend
+"Sunday, November 23, 2014",11/23/14,,37,0,0,0,0,0,37,0,109,Weekend,Weekend
+"Sunday, November 23, 2014",11/23/14,BRONX,12,0,3,0,0,0,9,0,36,Weekend,Weekend
+"Sunday, November 23, 2014",11/23/14,BROOKLYN,32,0,5,0,2,0,25,0,100,Weekend,Weekend
+"Sunday, November 23, 2014",11/23/14,MANHATTAN,18,0,7,0,1,0,10,0,76,Weekend,Weekend
+"Sunday, November 23, 2014",11/23/14,QUEENS,30,0,3,0,3,0,24,0,97,Weekend,Weekend
+"Sunday, November 23, 2014",11/23/14,STATEN ISLAND,0,0,0,0,0,0,0,0,6,Weekend,Weekend
+"Monday, November 24, 2014",11/24/14,,44,1,5,0,3,0,36,1,181,Work day,Work day
+"Monday, November 24, 2014",11/24/14,BRONX,15,0,4,0,0,0,11,0,56,Work day,Work day
+"Monday, November 24, 2014",11/24/14,BROOKLYN,41,0,13,0,1,0,27,0,172,Work day,Work day
+"Monday, November 24, 2014",11/24/14,MANHATTAN,17,2,10,1,0,1,7,0,139,Work day,Work day
+"Monday, November 24, 2014",11/24/14,QUEENS,32,0,7,0,3,0,22,0,160,Work day,Work day
+"Monday, November 24, 2014",11/24/14,STATEN ISLAND,6,0,2,0,0,0,4,0,14,Work day,Work day
+"Tuesday, November 25, 2014",11/25/14,,27,0,0,0,1,0,26,0,160,Work day,Work day
+"Tuesday, November 25, 2014",11/25/14,BRONX,16,1,6,0,0,1,10,0,55,Work day,Work day
+"Tuesday, November 25, 2014",11/25/14,BROOKLYN,26,0,3,0,6,0,17,0,123,Work day,Work day
+"Tuesday, November 25, 2014",11/25/14,MANHATTAN,13,0,5,0,3,0,5,0,128,Work day,Work day
+"Tuesday, November 25, 2014",11/25/14,QUEENS,32,0,10,0,4,0,18,0,110,Work day,Work day
+"Tuesday, November 25, 2014",11/25/14,STATEN ISLAND,11,0,2,0,0,0,9,0,23,Work day,Work day
+"Wednesday, November 26, 2014",11/26/14,,21,0,6,0,0,0,15,0,160,Work day,Work day
+"Wednesday, November 26, 2014",11/26/14,BRONX,22,0,17,0,3,0,2,0,70,Work day,Work day
+"Wednesday, November 26, 2014",11/26/14,BROOKLYN,63,0,23,0,4,0,36,0,191,Work day,Work day
+"Wednesday, November 26, 2014",11/26/14,MANHATTAN,31,0,16,0,3,0,12,0,135,Work day,Work day
+"Wednesday, November 26, 2014",11/26/14,QUEENS,42,0,22,0,2,0,18,0,161,Work day,Work day
+"Wednesday, November 26, 2014",11/26/14,STATEN ISLAND,6,0,2,0,0,0,4,0,24,Work day,Work day
+"Thursday, November 27, 2014",11/27/14,,39,0,5,0,0,0,34,0,110,Work day,Thanksgiving Day
+"Thursday, November 27, 2014",11/27/14,BRONX,10,0,3,0,0,0,7,0,40,Work day,Thanksgiving Day
+"Thursday, November 27, 2014",11/27/14,BROOKLYN,25,0,3,0,1,0,21,0,84,Work day,Thanksgiving Day
+"Thursday, November 27, 2014",11/27/14,MANHATTAN,16,0,5,0,3,0,8,0,54,Work day,Thanksgiving Day
+"Thursday, November 27, 2014",11/27/14,QUEENS,27,0,0,0,3,0,24,0,76,Work day,Thanksgiving Day
+"Thursday, November 27, 2014",11/27/14,STATEN ISLAND,10,0,0,0,0,0,10,0,14,Work day,Thanksgiving Day
+"Friday, November 28, 2014",11/28/14,,27,0,5,0,0,0,22,0,103,Work day,Work day
+"Friday, November 28, 2014",11/28/14,BRONX,24,0,5,0,0,0,19,0,59,Work day,Work day
+"Friday, November 28, 2014",11/28/14,BROOKLYN,39,0,16,0,3,0,20,0,105,Work day,Work day
+"Friday, November 28, 2014",11/28/14,MANHATTAN,15,0,11,0,0,0,4,0,82,Work day,Work day
+"Friday, November 28, 2014",11/28/14,QUEENS,9,0,2,0,2,0,5,0,84,Work day,Work day
+"Friday, November 28, 2014",11/28/14,STATEN ISLAND,3,0,0,0,0,0,3,0,11,Work day,Work day
+"Saturday, November 29, 2014",11/29/14,,23,1,2,0,0,0,21,1,90,Weekend,Weekend
+"Saturday, November 29, 2014",11/29/14,BRONX,23,0,4,0,0,0,19,0,47,Weekend,Weekend
+"Saturday, November 29, 2014",11/29/14,BROOKLYN,16,0,3,0,2,0,11,0,85,Weekend,Weekend
+"Saturday, November 29, 2014",11/29/14,MANHATTAN,14,0,3,0,2,0,9,0,78,Weekend,Weekend
+"Saturday, November 29, 2014",11/29/14,QUEENS,14,0,3,0,0,0,11,0,82,Weekend,Weekend
+"Saturday, November 29, 2014",11/29/14,STATEN ISLAND,3,0,0,0,0,0,3,0,12,Weekend,Weekend
+"Sunday, November 30, 2014",11/30/14,,26,0,1,0,0,0,25,0,96,Weekend,Weekend
+"Sunday, November 30, 2014",11/30/14,BRONX,5,0,2,0,0,0,3,0,31,Weekend,Weekend
+"Sunday, November 30, 2014",11/30/14,BROOKLYN,16,1,2,0,3,0,11,1,77,Weekend,Weekend
+"Sunday, November 30, 2014",11/30/14,MANHATTAN,10,0,4,0,1,0,5,0,78,Weekend,Weekend
+"Sunday, November 30, 2014",11/30/14,QUEENS,23,0,1,0,2,0,20,0,82,Weekend,Weekend
+"Sunday, November 30, 2014",11/30/14,STATEN ISLAND,1,0,0,0,0,0,1,0,12,Weekend,Weekend
+"Monday, December 1, 2014",12/01/14,,40,0,9,0,0,0,31,0,162,Work day,Work day
+"Monday, December 1, 2014",12/01/14,BRONX,16,0,7,0,0,0,9,0,58,Work day,Work day
+"Monday, December 1, 2014",12/01/14,BROOKLYN,30,0,9,0,2,0,19,0,171,Work day,Work day
+"Monday, December 1, 2014",12/01/14,MANHATTAN,22,0,9,0,4,0,9,0,123,Work day,Work day
+"Monday, December 1, 2014",12/01/14,QUEENS,30,0,12,0,1,0,17,0,108,Work day,Work day
+"Monday, December 1, 2014",12/01/14,STATEN ISLAND,6,0,1,0,0,0,5,0,22,Work day,Work day
+"Tuesday, December 2, 2014",12/02/14,,37,0,10,0,0,0,27,0,181,Work day,Work day
+"Tuesday, December 2, 2014",12/02/14,BRONX,18,0,7,0,1,0,10,0,59,Work day,Work day
+"Tuesday, December 2, 2014",12/02/14,BROOKLYN,37,1,17,1,3,0,17,0,115,Work day,Work day
+"Tuesday, December 2, 2014",12/02/14,MANHATTAN,20,0,10,0,3,0,7,0,131,Work day,Work day
+"Tuesday, December 2, 2014",12/02/14,QUEENS,20,0,6,0,0,0,14,0,110,Work day,Work day
+"Tuesday, December 2, 2014",12/02/14,STATEN ISLAND,3,0,1,0,0,0,2,0,15,Work day,Work day
+"Wednesday, December 3, 2014",12/03/14,,30,0,4,0,0,0,26,0,158,Work day,Work day
+"Wednesday, December 3, 2014",12/03/14,BRONX,12,0,4,0,3,0,5,0,50,Work day,Work day
+"Wednesday, December 3, 2014",12/03/14,BROOKLYN,49,0,15,0,0,0,34,0,142,Work day,Work day
+"Wednesday, December 3, 2014",12/03/14,MANHATTAN,15,0,5,0,2,0,8,0,104,Work day,Work day
+"Wednesday, December 3, 2014",12/03/14,QUEENS,19,1,11,1,0,0,8,0,99,Work day,Work day
+"Wednesday, December 3, 2014",12/03/14,STATEN ISLAND,3,0,2,0,0,0,1,0,16,Work day,Work day
+"Thursday, December 4, 2014",12/04/14,,44,0,3,0,1,0,40,0,153,Work day,Work day
+"Thursday, December 4, 2014",12/04/14,BRONX,19,0,4,0,0,0,15,0,54,Work day,Work day
+"Thursday, December 4, 2014",12/04/14,BROOKLYN,39,0,8,0,1,0,30,0,129,Work day,Work day
+"Thursday, December 4, 2014",12/04/14,MANHATTAN,37,0,12,0,1,0,24,0,149,Work day,Work day
+"Thursday, December 4, 2014",12/04/14,QUEENS,20,0,7,0,1,0,12,0,101,Work day,Work day
+"Thursday, December 4, 2014",12/04/14,STATEN ISLAND,2,0,1,0,0,0,1,0,20,Work day,Work day
+"Friday, December 5, 2014",12/05/14,,41,0,8,0,0,0,33,0,152,Work day,Work day
+"Friday, December 5, 2014",12/05/14,BRONX,15,0,9,0,0,0,6,0,62,Work day,Work day
+"Friday, December 5, 2014",12/05/14,BROOKLYN,50,0,19,0,4,0,27,0,135,Work day,Work day
+"Friday, December 5, 2014",12/05/14,MANHATTAN,29,1,24,1,2,0,3,0,163,Work day,Work day
+"Friday, December 5, 2014",12/05/14,QUEENS,45,0,18,0,2,0,25,0,138,Work day,Work day
+"Friday, December 5, 2014",12/05/14,STATEN ISLAND,2,0,1,0,0,0,1,0,21,Work day,Work day
+"Saturday, December 6, 2014",12/06/14,,32,0,9,0,1,0,22,0,130,Weekend,Weekend
+"Saturday, December 6, 2014",12/06/14,BRONX,15,0,9,0,0,0,6,0,64,Weekend,Weekend
+"Saturday, December 6, 2014",12/06/14,BROOKLYN,48,0,21,0,0,0,27,0,144,Weekend,Weekend
+"Saturday, December 6, 2014",12/06/14,MANHATTAN,33,0,12,0,2,0,19,0,148,Weekend,Weekend
+"Saturday, December 6, 2014",12/06/14,QUEENS,31,0,16,0,4,0,11,0,124,Weekend,Weekend
+"Saturday, December 6, 2014",12/06/14,STATEN ISLAND,6,0,1,0,0,0,5,0,18,Weekend,Weekend
+"Sunday, December 7, 2014",12/07/14,,30,0,1,0,2,0,27,0,118,Weekend,Weekend
+"Sunday, December 7, 2014",12/07/14,BRONX,26,0,2,0,1,0,23,0,41,Weekend,Weekend
+"Sunday, December 7, 2014",12/07/14,BROOKLYN,28,0,9,0,1,0,18,0,111,Weekend,Weekend
+"Sunday, December 7, 2014",12/07/14,MANHATTAN,22,0,6,0,3,0,13,0,107,Weekend,Weekend
+"Sunday, December 7, 2014",12/07/14,QUEENS,29,1,7,1,0,0,22,0,98,Weekend,Weekend
+"Sunday, December 7, 2014",12/07/14,STATEN ISLAND,0,0,0,0,0,0,0,0,17,Weekend,Weekend
+"Monday, December 8, 2014",12/08/14,,29,0,2,0,0,0,27,0,143,Work day,Work day
+"Monday, December 8, 2014",12/08/14,BRONX,19,0,6,0,0,0,13,0,59,Work day,Work day
+"Monday, December 8, 2014",12/08/14,BROOKLYN,25,0,7,0,3,0,15,0,144,Work day,Work day
+"Monday, December 8, 2014",12/08/14,MANHATTAN,7,0,3,0,2,0,2,0,108,Work day,Work day
+"Monday, December 8, 2014",12/08/14,QUEENS,29,0,5,0,1,0,23,0,104,Work day,Work day
+"Monday, December 8, 2014",12/08/14,STATEN ISLAND,5,0,1,0,0,0,4,0,19,Work day,Work day
+"Tuesday, December 9, 2014",12/09/14,,29,0,6,0,0,0,23,0,141,Work day,Work day
+"Tuesday, December 9, 2014",12/09/14,BRONX,13,0,8,0,0,0,5,0,53,Work day,Work day
+"Tuesday, December 9, 2014",12/09/14,BROOKLYN,49,1,24,1,1,0,24,0,172,Work day,Work day
+"Tuesday, December 9, 2014",12/09/14,MANHATTAN,18,0,10,0,1,0,7,0,123,Work day,Work day
+"Tuesday, December 9, 2014",12/09/14,QUEENS,40,0,16,0,1,0,23,0,140,Work day,Work day
+"Tuesday, December 9, 2014",12/09/14,STATEN ISLAND,5,0,0,0,0,0,5,0,16,Work day,Work day
+"Wednesday, December 10, 2014",12/10/14,,34,0,7,0,1,0,26,0,154,Work day,Work day
+"Wednesday, December 10, 2014",12/10/14,BRONX,21,0,10,0,0,0,11,0,70,Work day,Work day
+"Wednesday, December 10, 2014",12/10/14,BROOKLYN,47,0,21,0,5,0,21,0,144,Work day,Work day
+"Wednesday, December 10, 2014",12/10/14,MANHATTAN,31,0,22,0,0,0,9,0,144,Work day,Work day
+"Wednesday, December 10, 2014",12/10/14,QUEENS,29,0,16,0,2,0,11,0,120,Work day,Work day
+"Wednesday, December 10, 2014",12/10/14,STATEN ISLAND,2,0,0,0,0,0,2,0,16,Work day,Work day
+"Thursday, December 11, 2014",12/11/14,,43,0,4,0,1,0,38,0,162,Work day,Work day
+"Thursday, December 11, 2014",12/11/14,BRONX,18,0,7,0,0,0,11,0,58,Work day,Work day
+"Thursday, December 11, 2014",12/11/14,BROOKLYN,47,0,12,0,3,0,32,0,158,Work day,Work day
+"Thursday, December 11, 2014",12/11/14,MANHATTAN,16,0,4,0,4,0,8,0,144,Work day,Work day
+"Thursday, December 11, 2014",12/11/14,QUEENS,25,0,7,0,1,0,17,0,136,Work day,Work day
+"Thursday, December 11, 2014",12/11/14,STATEN ISLAND,2,0,1,0,0,0,1,0,10,Work day,Work day
+"Friday, December 12, 2014",12/12/14,,38,0,3,0,0,0,35,0,187,Work day,Work day
+"Friday, December 12, 2014",12/12/14,BRONX,14,0,4,0,1,0,9,0,65,Work day,Work day
+"Friday, December 12, 2014",12/12/14,BROOKLYN,49,0,11,0,2,0,36,0,132,Work day,Work day
+"Friday, December 12, 2014",12/12/14,MANHATTAN,19,0,11,0,2,0,6,0,160,Work day,Work day
+"Friday, December 12, 2014",12/12/14,QUEENS,23,0,8,0,2,0,13,0,128,Work day,Work day
+"Friday, December 12, 2014",12/12/14,STATEN ISLAND,5,0,0,0,0,0,5,0,15,Work day,Work day
+"Saturday, December 13, 2014",12/13/14,,36,0,7,0,1,0,28,0,147,Weekend,Weekend
+"Saturday, December 13, 2014",12/13/14,BRONX,8,0,4,0,0,0,4,0,55,Weekend,Weekend
+"Saturday, December 13, 2014",12/13/14,BROOKLYN,35,0,13,0,2,0,20,0,133,Weekend,Weekend
+"Saturday, December 13, 2014",12/13/14,MANHATTAN,22,0,12,0,0,0,10,0,124,Weekend,Weekend
+"Saturday, December 13, 2014",12/13/14,QUEENS,29,1,6,0,0,0,23,1,115,Weekend,Weekend
+"Saturday, December 13, 2014",12/13/14,STATEN ISLAND,8,0,0,0,0,0,8,0,20,Weekend,Weekend
+"Sunday, December 14, 2014",12/14/14,,30,1,2,1,0,0,28,0,120,Weekend,Weekend
+"Sunday, December 14, 2014",12/14/14,BRONX,8,0,1,0,0,0,7,0,47,Weekend,Weekend
+"Sunday, December 14, 2014",12/14/14,BROOKLYN,46,0,6,0,0,0,40,0,97,Weekend,Weekend
+"Sunday, December 14, 2014",12/14/14,MANHATTAN,15,0,4,0,2,0,9,0,81,Weekend,Weekend
+"Sunday, December 14, 2014",12/14/14,QUEENS,28,0,6,0,2,0,20,0,84,Weekend,Weekend
+"Sunday, December 14, 2014",12/14/14,STATEN ISLAND,3,0,2,0,0,0,1,0,6,Weekend,Weekend
+"Monday, December 15, 2014",12/15/14,,31,0,7,0,0,0,24,0,191,Work day,Work day
+"Monday, December 15, 2014",12/15/14,BRONX,15,0,6,0,0,0,9,0,67,Work day,Work day
+"Monday, December 15, 2014",12/15/14,BROOKLYN,49,0,19,0,3,0,27,0,175,Work day,Work day
+"Monday, December 15, 2014",12/15/14,MANHATTAN,16,0,4,0,2,0,10,0,121,Work day,Work day
+"Monday, December 15, 2014",12/15/14,QUEENS,51,0,16,0,1,0,34,0,145,Work day,Work day
+"Monday, December 15, 2014",12/15/14,STATEN ISLAND,2,0,0,0,0,0,2,0,21,Work day,Work day
+"Tuesday, December 16, 2014",12/16/14,,31,0,11,0,3,0,17,0,159,Work day,Work day
+"Tuesday, December 16, 2014",12/16/14,BRONX,30,0,9,0,0,0,21,0,57,Work day,Work day
+"Tuesday, December 16, 2014",12/16/14,BROOKLYN,52,1,21,1,3,0,28,0,146,Work day,Work day
+"Tuesday, December 16, 2014",12/16/14,MANHATTAN,24,0,13,0,2,0,9,0,134,Work day,Work day
+"Tuesday, December 16, 2014",12/16/14,QUEENS,31,0,15,0,4,0,12,0,137,Work day,Work day
+"Tuesday, December 16, 2014",12/16/14,STATEN ISLAND,2,0,0,0,0,0,2,0,12,Work day,Work day
+"Wednesday, December 17, 2014",12/17/14,,34,0,5,0,0,0,29,0,146,Work day,Work day
+"Wednesday, December 17, 2014",12/17/14,BRONX,13,0,6,0,1,0,6,0,58,Work day,Work day
+"Wednesday, December 17, 2014",12/17/14,BROOKLYN,41,0,15,0,3,0,23,0,125,Work day,Work day
+"Wednesday, December 17, 2014",12/17/14,MANHATTAN,28,0,13,0,5,0,10,0,119,Work day,Work day
+"Wednesday, December 17, 2014",12/17/14,QUEENS,18,0,4,0,3,0,11,0,93,Work day,Work day
+"Wednesday, December 17, 2014",12/17/14,STATEN ISLAND,4,0,0,0,0,0,4,0,12,Work day,Work day
+"Thursday, December 18, 2014",12/18/14,,33,0,4,0,0,0,29,0,159,Work day,Work day
+"Thursday, December 18, 2014",12/18/14,BRONX,7,0,4,0,0,0,3,0,63,Work day,Work day
+"Thursday, December 18, 2014",12/18/14,BROOKLYN,44,0,10,0,3,0,31,0,143,Work day,Work day
+"Thursday, December 18, 2014",12/18/14,MANHATTAN,12,0,6,0,0,0,6,0,130,Work day,Work day
+"Thursday, December 18, 2014",12/18/14,QUEENS,20,0,10,0,0,0,10,0,109,Work day,Work day
+"Thursday, December 18, 2014",12/18/14,STATEN ISLAND,5,0,1,0,0,0,4,0,16,Work day,Work day
+"Friday, December 19, 2014",12/19/14,,42,0,7,0,0,0,35,0,152,Work day,Work day
+"Friday, December 19, 2014",12/19/14,BRONX,21,0,5,0,0,0,16,0,68,Work day,Work day
+"Friday, December 19, 2014",12/19/14,BROOKLYN,42,0,10,0,3,0,29,0,138,Work day,Work day
+"Friday, December 19, 2014",12/19/14,MANHATTAN,19,0,9,0,1,0,9,0,150,Work day,Work day
+"Friday, December 19, 2014",12/19/14,QUEENS,29,0,2,0,0,0,27,0,129,Work day,Work day
+"Friday, December 19, 2014",12/19/14,STATEN ISLAND,4,0,2,0,0,0,2,0,15,Work day,Work day
+"Saturday, December 20, 2014",12/20/14,,31,0,0,0,1,0,30,0,118,Weekend,Weekend
+"Saturday, December 20, 2014",12/20/14,BRONX,10,0,3,0,0,0,7,0,49,Weekend,Weekend
+"Saturday, December 20, 2014",12/20/14,BROOKLYN,27,0,10,0,0,0,17,0,112,Weekend,Weekend
+"Saturday, December 20, 2014",12/20/14,MANHATTAN,13,0,7,0,1,0,5,0,96,Weekend,Weekend
+"Saturday, December 20, 2014",12/20/14,QUEENS,29,0,7,0,0,0,22,0,115,Weekend,Weekend
+"Saturday, December 20, 2014",12/20/14,STATEN ISLAND,3,0,1,0,0,0,2,0,15,Weekend,Weekend
+"Sunday, December 21, 2014",12/21/14,,21,0,0,0,1,0,20,0,92,Weekend,Weekend
+"Sunday, December 21, 2014",12/21/14,BRONX,8,0,2,0,0,0,6,0,41,Weekend,Weekend
+"Sunday, December 21, 2014",12/21/14,BROOKLYN,20,0,6,0,2,0,12,0,102,Weekend,Weekend
+"Sunday, December 21, 2014",12/21/14,MANHATTAN,11,0,1,0,2,0,8,0,75,Weekend,Weekend
+"Sunday, December 21, 2014",12/21/14,QUEENS,24,0,2,0,0,0,22,0,89,Weekend,Weekend
+"Sunday, December 21, 2014",12/21/14,STATEN ISLAND,3,0,2,0,0,0,1,0,10,Weekend,Weekend
+"Monday, December 22, 2014",12/22/14,,20,0,1,0,1,0,18,0,147,Work day,Work day
+"Monday, December 22, 2014",12/22/14,BRONX,12,0,6,0,0,0,6,0,49,Work day,Work day
+"Monday, December 22, 2014",12/22/14,BROOKLYN,28,0,11,0,1,0,16,0,122,Work day,Work day
+"Monday, December 22, 2014",12/22/14,MANHATTAN,20,0,10,0,3,0,7,0,117,Work day,Work day
+"Monday, December 22, 2014",12/22/14,QUEENS,26,0,9,0,1,0,16,0,121,Work day,Work day
+"Monday, December 22, 2014",12/22/14,STATEN ISLAND,4,1,0,0,0,0,4,1,10,Work day,Work day
+"Tuesday, December 23, 2014",12/23/14,,37,0,6,0,0,0,31,0,175,Work day,Work day
+"Tuesday, December 23, 2014",12/23/14,BRONX,11,0,7,0,0,0,4,0,62,Work day,Work day
+"Tuesday, December 23, 2014",12/23/14,BROOKLYN,46,1,21,1,2,0,23,0,180,Work day,Work day
+"Tuesday, December 23, 2014",12/23/14,MANHATTAN,18,0,5,0,5,0,8,0,139,Work day,Work day
+"Tuesday, December 23, 2014",12/23/14,QUEENS,52,0,23,0,1,0,28,0,148,Work day,Work day
+"Tuesday, December 23, 2014",12/23/14,STATEN ISLAND,8,0,0,0,0,0,8,0,28,Work day,Work day
+"Wednesday, December 24, 2014",12/24/14,,31,0,7,0,0,0,24,0,110,Work day,Work day
+"Wednesday, December 24, 2014",12/24/14,BRONX,21,0,3,0,2,0,16,0,52,Work day,Work day
+"Wednesday, December 24, 2014",12/24/14,BROOKLYN,40,0,15,0,3,0,22,0,139,Work day,Work day
+"Wednesday, December 24, 2014",12/24/14,MANHATTAN,18,0,7,0,2,0,9,0,86,Work day,Work day
+"Wednesday, December 24, 2014",12/24/14,QUEENS,25,0,8,0,0,0,17,0,116,Work day,Work day
+"Wednesday, December 24, 2014",12/24/14,STATEN ISLAND,4,0,0,0,1,0,3,0,15,Work day,Work day
+"Thursday, December 25, 2014",12/25/14,,15,0,0,0,0,0,15,0,72,Work day,Christmas Day
+"Thursday, December 25, 2014",12/25/14,BRONX,5,0,2,0,0,0,3,0,33,Work day,Christmas Day
+"Thursday, December 25, 2014",12/25/14,BROOKLYN,19,0,9,0,0,0,10,0,78,Work day,Christmas Day
+"Thursday, December 25, 2014",12/25/14,MANHATTAN,9,0,1,0,2,0,6,0,39,Work day,Christmas Day
+"Thursday, December 25, 2014",12/25/14,QUEENS,37,0,2,0,0,0,35,0,64,Work day,Christmas Day
+"Thursday, December 25, 2014",12/25/14,STATEN ISLAND,7,0,1,0,0,0,6,0,17,Work day,Christmas Day
+"Friday, December 26, 2014",12/26/14,,19,0,3,0,0,0,16,0,116,Work day,Work day
+"Friday, December 26, 2014",12/26/14,BRONX,12,0,6,0,1,0,5,0,38,Work day,Work day
+"Friday, December 26, 2014",12/26/14,BROOKLYN,29,0,11,0,2,0,16,0,109,Work day,Work day
+"Friday, December 26, 2014",12/26/14,MANHATTAN,6,0,4,0,1,0,1,0,76,Work day,Work day
+"Friday, December 26, 2014",12/26/14,QUEENS,14,0,1,0,0,0,13,0,88,Work day,Work day
+"Friday, December 26, 2014",12/26/14,STATEN ISLAND,6,0,0,0,1,0,5,0,19,Work day,Work day
+"Saturday, December 27, 2014",12/27/14,,21,0,0,0,0,0,21,0,86,Weekend,Weekend
+"Saturday, December 27, 2014",12/27/14,BRONX,14,0,6,0,1,0,7,0,38,Weekend,Weekend
+"Saturday, December 27, 2014",12/27/14,BROOKLYN,57,0,6,0,5,0,46,0,104,Weekend,Weekend
+"Saturday, December 27, 2014",12/27/14,MANHATTAN,16,0,9,0,1,0,6,0,82,Weekend,Weekend
+"Saturday, December 27, 2014",12/27/14,QUEENS,16,0,4,0,1,0,11,0,82,Weekend,Weekend
+"Saturday, December 27, 2014",12/27/14,STATEN ISLAND,2,0,1,0,0,0,1,0,13,Weekend,Weekend
+"Sunday, December 28, 2014",12/28/14,,29,0,1,0,0,0,28,0,98,Weekend,Weekend
+"Sunday, December 28, 2014",12/28/14,BRONX,6,0,1,0,2,0,3,0,32,Weekend,Weekend
+"Sunday, December 28, 2014",12/28/14,BROOKLYN,44,0,8,0,1,0,35,0,81,Weekend,Weekend
+"Sunday, December 28, 2014",12/28/14,MANHATTAN,9,0,3,0,0,0,6,0,55,Weekend,Weekend
+"Sunday, December 28, 2014",12/28/14,QUEENS,24,0,3,0,1,0,20,0,73,Weekend,Weekend
+"Sunday, December 28, 2014",12/28/14,STATEN ISLAND,1,0,0,0,0,0,1,0,10,Weekend,Weekend
+"Monday, December 29, 2014",12/29/14,,25,1,1,0,0,0,24,1,102,Work day,Work day
+"Monday, December 29, 2014",12/29/14,BRONX,12,0,3,0,0,0,9,0,30,Work day,Work day
+"Monday, December 29, 2014",12/29/14,BROOKLYN,33,0,7,0,2,0,24,0,100,Work day,Work day
+"Monday, December 29, 2014",12/29/14,MANHATTAN,8,0,2,0,1,0,5,0,79,Work day,Work day
+"Monday, December 29, 2014",12/29/14,QUEENS,24,0,4,0,2,0,18,0,91,Work day,Work day
+"Monday, December 29, 2014",12/29/14,STATEN ISLAND,2,0,0,0,0,0,2,0,9,Work day,Work day
+"Tuesday, December 30, 2014",12/30/14,,18,0,2,0,0,0,16,0,97,Work day,Work day
+"Tuesday, December 30, 2014",12/30/14,BRONX,6,0,0,0,0,0,6,0,42,Work day,Work day
+"Tuesday, December 30, 2014",12/30/14,BROOKLYN,28,0,8,0,4,0,16,0,121,Work day,Work day
+"Tuesday, December 30, 2014",12/30/14,MANHATTAN,9,0,5,0,1,0,3,0,109,Work day,Work day
+"Tuesday, December 30, 2014",12/30/14,QUEENS,18,0,5,0,2,0,11,0,87,Work day,Work day
+"Tuesday, December 30, 2014",12/30/14,STATEN ISLAND,7,0,1,0,0,0,6,0,12,Work day,Work day
+"Wednesday, December 31, 2014",12/31/14,,25,0,0,0,0,0,25,0,96,Work day,Work day
+"Wednesday, December 31, 2014",12/31/14,BRONX,13,0,7,0,1,0,5,0,56,Work day,Work day
+"Wednesday, December 31, 2014",12/31/14,BROOKLYN,22,0,7,0,1,0,14,0,112,Work day,Work day
+"Wednesday, December 31, 2014",12/31/14,MANHATTAN,8,1,3,1,2,0,3,0,77,Work day,Work day
+"Wednesday, December 31, 2014",12/31/14,QUEENS,25,0,5,0,0,0,20,0,103,Work day,Work day
+"Wednesday, December 31, 2014",12/31/14,STATEN ISLAND,2,0,0,0,0,0,2,0,14,Work day,Work day
