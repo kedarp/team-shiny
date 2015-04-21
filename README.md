@@ -8,9 +8,33 @@ _Members:_
 * Kedar - Kedar Ravindra Patil <krp2135@columbia.edu>
 
 ## Shiny app structure:
-* Map of the fatalities
+* Map 
 	+ National level
 	+ City level
+* Structure 
+	+ Fatalities per type
+	+ Rollover fatalities 
 * Alcohol
+	+ Change over the years
+	+ % of total fatalities over the years
+	+ Do we have peaks on national holidays
+	+ City/Intercity
 * Children
 	+ % by state
+	+ % by drunk drivers
+	+ % by city/intercity road
+* Fluctuations
+	+ Seasonality by state
+	+ Average seasonality
+	+ By time of the day
+	+ By total number of fatalities (seasonal trends)
+	+ Fatalities vs weekday
+	+ Fatalities by type of the vehicle
+* Biggest accidents
+	+ Rates 
+	+ Biggest accidents by states 
+
+
+
+
+Notes - what is "restraint used???"
