@@ -14,6 +14,7 @@ _Members:_
 * Structure 
 	+ Fatalities per type
 	+ Rollover fatalities 
+	+ Fatalities vs Restraint
 * Alcohol
 	+ Change over the years
 	+ % of total fatalities over the years
@@ -29,12 +30,7 @@ _Members:_
 	+ By time of the day
 	+ By total number of fatalities (seasonal trends)
 	+ Fatalities vs weekday
-	+ Fatalities by type of the vehicle
+	+ Fatalities by type of the
 * Biggest accidents
 	+ Rates 
 	+ Biggest accidents by states 
-
-
-
-
-Notes - what is "restraint used???"
