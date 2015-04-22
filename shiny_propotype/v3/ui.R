@@ -8,7 +8,7 @@ dashboardPage(
   dashboardSidebar(
     sidebarMenu(
         menuItem("General summary", tabName="summary_tab", icon=icon("car")),
-        menuItem("Timing", tabName="timing_tab", icon=icon("line-chart")),
+        menuItem("Timing", tabName="timing_tab", icon=icon("calendar")),
         menuItem("Alcohol", tabName="alco_tab", icon=icon("beer")),
         menuItem("Children", tabName="children_tab", icon=icon("child")),
         menuItem("Bikes", tabName="bike_tab", icon=icon("bicycle")),
@@ -44,7 +44,11 @@ tabItems(
                 h3('All 2013 Fatalities by weekday'),
                 plotOutput("timingPlot1"),
                 h3('All 2013 Fatalities by weekday and State'),
-                plotOutput("timingPlot2")
+                plotOutput("timingPlot2"),
+                h3('Time of day'),
+                plotOutput("timingPlot3"),
+                h3('Over the course of the week'),
+                plotOutput("timingPlot4")
             )
     ),
     
