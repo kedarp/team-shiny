@@ -26,7 +26,7 @@ tabItems(
                 column(width=12, 
                        h2("General summary"),
                        p("by state"),img(src='images/test_plot1.png', height = 527, width = 739),
-                       p("by number of fatalities"),
+                       p("by number of fatalities"), img(src='images/2-dayofweek.png', height = 527, width = 739),
                        p("by type of vehicle"),
                        p("Rollover fatalities"),
                        p("Fatalities vs Restraint")
