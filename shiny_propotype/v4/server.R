@@ -76,12 +76,31 @@ getTimingPlot4 <- function(ds) {
         ylab('Fatalities')
     g
 }
+
+getSummaryPlot1 <- function(ds,slider_min_max) {
+    min <- slider_min_max[1]
+    max <- slider_min_max[2]
+    a <- ds$vehicles
+    df <- a %>% group_by(MOD_YEAR) %>% summarize(fatalities=sum(DEATHS))
+    df <- df[df$MOD_YEAR<2015 & df$MOD_YEAR<max_year & df$MOD_YEAR>min_year,]
+    g <- ggplot(df, aes(x=MOD_YEAR, y=fatalities)) + 
+        geom_bar(stat='identity') +
+        theme_bw() + 
+        theme(legend.key = element_blank()) +
+        theme(legend.title = element_blank()) +
+        xlab('') +
+        ylab('Fatalities')
+    g
+}
+
+
 shinyServer(function(input, output) {
     ds <- loadFatalityDataset(2013, '../../')
     output$timingPlot1 <- renderPlot({getTimingPlot1(ds)})
     output$timingPlot2 <- renderPlot({getTimingPlot2(ds)})
     output$timingPlot3 <- renderPlot({getTimingPlot3(ds)})
     output$timingPlot4 <- renderPlot({getTimingPlot4(ds)})
+    output$summaryPlot1 <- renderPlot({getSummaryPlot1(ds,input$vehicle_year_slider)})
 })
 
 

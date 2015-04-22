@@ -28,6 +28,16 @@ tabItems(
             column(width=12, 
                    h2("General summary"),
                    p("by state"),
+                   h3('Number of fatalities per vehicle year'),
+                   fluidRow(
+                       column(1,
+                              
+                              # Copy the line below to make a slider bar 
+                              sliderInput("vehicle_year_slider", label = h3("Slider"), min = 1917, 
+                                          max = 2014, value = c(1917,2014))
+                              
+                              ),
+                       column(10,plotOutput("summaryPlot1"))),
                    p("by number of fatalities"),
                    p("by type of vehicle"),
                    p("Rollover fatalities"),
