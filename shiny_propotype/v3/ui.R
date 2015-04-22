@@ -1,12 +1,14 @@
 library(shinydashboard)
 
-# Define UI for application that draws a histogram
+source('../../util/dataloader2.R')
+
 dashboardPage(
   dashboardHeader(
     title = "US Roads Fatality Data"),
   dashboardSidebar(
     sidebarMenu(
         menuItem("General summary", tabName="summary_tab", icon=icon("car")),
+        menuItem("Timing", tabName="timing_tab", icon=icon("calendar")),
         menuItem("Alcohol", tabName="alco_tab", icon=icon("beer")),
         menuItem("Children", tabName="children_tab", icon=icon("child")),
         menuItem("Bikes", tabName="bike_tab", icon=icon("bicycle")),
@@ -20,22 +22,36 @@ dashboardPage(
 
 ####################### 
 tabItems(
-      tabItem(tabName="summary_tab",
-              # Boxes need to be put in a row (or column)
-              fluidRow(
-                column(width=12, 
-                       h2("General summary"),
-                       p("by state"),img(src='images/test_plot1.png', height = 527, width = 739),
-                       p("by number of fatalities"),
-                       p("by type of vehicle"),
-                       p("Rollover fatalities"),
-                       p("Fatalities vs Restraint")
-                       
-                       )
-                              )
-            ),
+    tabItem(tabName="summary_tab",
+        # Boxes need to be put in a row (or column)
+        fluidRow(
+            column(width=12, 
+                   h2("General summary"),
+                   p("by state"),
+                   p("by number of fatalities"),
+                   p("by type of vehicle"),
+                   p("Rollover fatalities"),
+                   p("Fatalities vs Restraint")
+            )
+        )
+    ),
       
-
+####################### 
+    tabItem(tabName="timing_tab",
+            # Boxes need to be put in a row (or column)
+            fluidRow(
+                column(width=12),
+                h3('All 2013 Fatalities by weekday'),
+                plotOutput("timingPlot1"),
+                h3('All 2013 Fatalities by weekday and State'),
+                plotOutput("timingPlot2"),
+                h3('Time of day'),
+                plotOutput("timingPlot3"),
+                h3('Over the course of the week'),
+                plotOutput("timingPlot4")
+            )
+    ),
+    
 ####################### 
   tabItem(tabName="alco_tab",
           # Boxes need to be put in a row (or column)
@@ -97,25 +113,22 @@ tabItems(
                      p(""))
           )
   ),
-  
-                          
-                          
 ####################### 
-  tabItem(tabName="trends_tab",
-          # Boxes need to be put in a row (or column)
-          fluidRow(
-              column(width=12, 
-                     h2("Trends"),
-                     p("Seasonality by state"),
-                     p("Average seasonality"),
-                     p("Average seasonality"),
-                     p("By total number of fatalities (seasonal trends)"),
-                     p("Fatalities vs weekday"),
-                     p("Fatalities by type of the vehicle"),
-                     p(""),
-                     p(""))
-          )
-  ),
+    tabItem(tabName="trends_tab",
+            # Boxes need to be put in a row (or column)
+            fluidRow(
+                column(width=12, 
+                       h2("Trends"),
+                       p("Seasonality by state"),
+                       p("Average seasonality"),
+                       p("Average seasonality"),
+                       p("By total number of fatalities (seasonal trends)"),
+                       p("Fatalities vs weekday"),
+                       p("Fatalities by type of the vehicle"),
+                       p(""),
+                       p(""))
+            )
+    ),
                               
                               
                               
