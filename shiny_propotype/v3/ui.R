@@ -25,7 +25,7 @@ tabItems(
               fluidRow(
                 column(width=12, 
                        h2("General summary"),
-                       p("by state"),
+                       p("by state"),img(src='/images/test_plot1.png', height = 527, width = 739),
                        p("by number of fatalities"),
                        p("by type of vehicle"),
                        p("Rollover fatalities"),
