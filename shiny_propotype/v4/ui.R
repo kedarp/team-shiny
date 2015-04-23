@@ -1,6 +1,15 @@
 library(shinydashboard)
+library(ggvis)
+
 
 source('../../util/dataloader2.R')
+
+# actionLink <- function(inputId, ...) {
+#     tags$a(href='javascript:void',
+#            id=inputId,
+#            class='action-button',
+#            ...)
+# }
 
 dashboardPage(
   dashboardHeader(
@@ -15,6 +24,7 @@ dashboardPage(
         menuItem("Bikes", tabName="bike_tab", icon=icon("bicycle")),
         menuItem("Motorcycles", tabName="moto_tab", icon=icon("bolt")),
         menuItem("Trends", tabName="trends_tab", icon=icon("line-chart")),
+#        menuItem("Data Explorer", tabName="data_explorer", icon=icon("line-chart")),
         menuItem("Largest crashes", tabName="largest_tab", icon=icon("users"))
 
         )
@@ -28,7 +38,7 @@ tabItems(
         # Boxes need to be put in a row (or column)
         
         fluidRow(
-            box(plotOutput("summaryPlot1")),
+            box(ggvisOutput("summaryPlot1")),
             
             box(
                 "More box content",
@@ -163,7 +173,42 @@ tabItem(tabName="map_tab",
                        p(""))
             )
     ),
-                              
+      
+
+
+
+
+#######################
+# This is an experiment
+
+
+# For dropdown menu
+
+
+# tabItem(tabName="data_explorer",
+#     fluidRow(
+#         column(3,
+#                wellPanel(
+#                    h4("Filter"),
+#                    selectInput("State", "State",
+#                                c('ALABAMA', 'ALASKA', 'ARIZONA', 'ARKANSAS', 'CALIFORNIA', 'COLORADO', 'CONNECTICUT', 'DELAWARE', 'DISTRICT OF COLUMBIA', 'FLORIDA', 'GEORGIA', 'HAWAII', 'IDAHO', 'ILLINOIS', 'INDIANA', 'IOWA', 'KANSAS', 'KENTUCKY', 'LOUISIANA', 'MAINE', 'MARYLAND', 'MASSACHUSETTS', 'MICHIGAN', 'MINNESOTA', 'MISSISSIPPI', 'MISSOURI', 'MONTANA', 'NEBRASKA', 'NEVADA', 'NEW HAMPSHIRE', 'NEW JERSEY', 'NEW MEXICO', 'NEW YORK', 'NORTH CAROLINA', 'NORTH DAKOTA', 'OHIO', 'OKLAHOMA', 'OREGON', 'PENNSYLVANIA', 'RHODE ISLAND', 'SOUTH CAROLINA', 'SOUTH DAKOTA', 'TENNESSEE', 'TEXAS', 'UTAH', 'VERMONT', 'VIRGINIA', 'WASHINGTON', 'WEST VIRGINIA', 'WISCONSIN', 'WYOMING')
+#                    ),
+#                    textInput("City_County_Name", "City County Name (e.g. New York)")
+#                ),
+#                wellPanel(
+#                    selectInput("xvar", "X-axis variable", axis_vars),
+#                    selectInput("yvar", "Y-axis variable", axis_vars)
+#                )
+#         ),
+#         column(9,
+#                ggvisOutput("plot1"),
+#                wellPanel(
+#                    span("Number of accidents selected:",
+#                         textOutput("n_accidents")
+#                    )
+#                )
+#         ))
+# ),
                               
                               
 ####################### 

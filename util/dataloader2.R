@@ -14,6 +14,7 @@ loadFatalityDataset <- function(year, rootDir='') {
     
     ds$vehicles <- read.csv(unz(zipFileName, 'Vehicle-2013.csv'))
     ds$states <- read.csv(paste(rootDir, 'data/states.csv', sep=''))
+    ds$states_pop <- read.csv(paste(rootDir, 'data/Vehicle_Registration by State.csv', sep=''))
     ds$avm <- read.csv(paste(rootDir, 'data/annual-vehicle-miles-', year, '.csv', sep=''))
     ds$urbanPct <- read.csv(paste(rootDir, 'data/urban-percent-', year, '.csv', sep=''))
     ds

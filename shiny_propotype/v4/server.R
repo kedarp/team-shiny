@@ -3,6 +3,21 @@ library(dplyr)
 library(ggplot2)
 library(scales)
 library(shinydashboard)
+library(ggvis)
+library(dplyr)
+if (FALSE) library(RSQLite)
+
+source('../../util/dataloader2.R')
+ds <- {loadFatalityDataset(2013, '../../')}
+
+# ds <- loadFatalityDataset(2013, '../../')
+# person <- ds$persons
+# vehicles <- ds$vehicles
+# states <- ds$states
+# urbanPct <- ds$urbanPct
+# avm <- ds$avm
+
+
 
 getFatalitiesByWekdayData <- function(accidents) {
     df <- accidents %>% group_by(date) %>% summarize(fatalities=sum(FATALS))
@@ -95,10 +110,12 @@ getSummaryPlot1 <- function(ds,vehicle_year_slider) {
 }
 
 
-get_Alco_Plot1 <- function(ds) {
-    a <- ds$persons
-    df <- a %>% group_by(MOD_YEAR) %>% summarize(fatalities=sum(DEATHS))
-    df <- df[df$MOD_YEAR<2015 & df$MOD_YEAR<max_year & df$MOD_YEAR>min_year,]
+get_states_plot <- function(ds) {
+    a <- ds$accidents
+    states_pop <- ds$states_pop
+    df <- a %>% group_by(State.Name) %>% summarize(fatalities=sum(FATALS))
+    df$vehicle_registration <- states_pop[which(states_pop$State==toupper(df$State.Name)),2]
+    #df <- df[,]
     g <- ggplot(df, aes(x=MOD_YEAR, y=fatalities)) + 
         geom_bar(stat='identity') +
         theme_bw() + 
@@ -110,8 +127,8 @@ get_Alco_Plot1 <- function(ds) {
 }
 
 
-shinyServer(function(input, output) {
-    ds <- loadFatalityDataset(2013, '../../')
+shinyServer(function(input, output,session) {
+
     output$timingPlot1 <- renderPlot({getTimingPlot1(ds)})
     output$timingPlot2 <- renderPlot({getTimingPlot2(ds)})
     output$timingPlot3 <- renderPlot({getTimingPlot3(ds)})
@@ -120,6 +137,9 @@ shinyServer(function(input, output) {
         x <- input$year_slider
         getSummaryPlot1(ds,x)}
         )
+
+    
+    
 })
 
 
