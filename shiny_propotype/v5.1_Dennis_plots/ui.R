@@ -86,13 +86,15 @@ fluidRow(column(width=6,
                                  }"
                     )
                     ))
-),column(width=6,box(title = "Total number of fatal accidents due to drunk driving", background = "black",solidHeader = TRUE,textOutput("motorist_fatals"),
-                     tags$head(tags$style("#motorist_fatals{color: white;
-                                 font-size: 60px;
-                                 }"
-                     )
-                     ))
-))
+)
+# ,column(width=6,box(title = "Total number of fatal accidents due to drunk driving", background = "black",solidHeader = TRUE,textOutput("motorist_fatals"),
+#                      tags$head(tags$style("#motorist_fatals{color: white;
+#                                  font-size: 60px;
+#                                  }"
+#                      )
+#                      ))
+# )
+)
         
 #         fluidRow(
 #             column(width=12, 

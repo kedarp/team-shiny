@@ -16,7 +16,7 @@ dashboardPage(
     title = "US Roads Fatality Data"),
   dashboardSidebar(
     sidebarMenu(
-        menuItem("General summary", tabName="summary_tab", icon=icon("car")),
+        menuItem("Overview", tabName="overview_tab", icon=icon("car")),
         menuItem("Location", tabName="map_tab", icon=icon("map-marker")),
         menuItem("Timing", tabName="timing_tab", icon=icon("calendar")),
         menuItem("Alcohol", tabName="alco_tab", icon=icon("beer")),
@@ -34,36 +34,16 @@ dashboardPage(
       
 ####################### 
 tabItems(
-    tabItem(tabName="summary_tab",
-        # Boxes need to be put in a row (or column)
-        
+    tabItem(tabName="overview_tab",
         fluidRow(
-            box(ggvisOutput("summaryPlot1")),
-            
-            box(
-                "More box content",
-                sliderInput("year_slider", "Slider input:", 1917, 2014, c(1917,2014))
-            )
+            column(width=12),
+            h2('US Motor Vehicle Fatalities 1899-2012'),
+            plotOutput("overviewPlot1"),
+            h3('Adjusted for vehicle-miles'),
+            plotOutput("overviewPlot2"),
+            h3('Fatalities per million population'),
+            plotOutput("overviewPlot3")
         )
-        
-#         fluidRow(
-#             column(width=12, 
-#                    h2("General summary"),
-#                    p("by state"),
-#                    h3('Number of fatalities per vehicle year'),
-#                    fluidRow(
-#                        column(4,
-#                               
-#                               # Copy the line below to make a slider bar 
-#                               sliderInput("vehicle_year_slider", label = h3("Slider"), min = 1917, 
-#                                           max = 2014, value = c(1917,2014) ),
-#                        column(10,plotOutput("summaryPlot1")))),
-#                    p("by number of fatalities"),
-#                    p("by type of vehicle"),
-#                    p("Rollover fatalities"),
-#                    p("Fatalities vs Restraint")
-#             )
-#         )
     ),
       
 ####################### 
@@ -85,10 +65,14 @@ tabItem(tabName="map_tab",
             # Boxes need to be put in a row (or column)
             fluidRow(
                 column(width=12),
-                h3('All 2013 Fatalities by weekday'),
+                h3('Fatalities by weekday'),
                 plotOutput("timingPlot1"),
-                h3('All 2013 Fatalities by weekday and State'),
+                h3('Fatalities by state and weekday'),
                 plotOutput("timingPlot2"),
+                h3('Fatalities by state and weekday adjusted by annual vehicle miles'),
+                plotOutput("timingPlot5"),
+                h3('Fatalities (adjusted by annual vehicle miles) vs. State Urban'),
+                plotOutput("timingPlot6"),
                 h3('Time of day'),
                 plotOutput("timingPlot3"),
                 h3('Over the course of the week'),
