@@ -126,6 +126,38 @@ get_states_plot <- function(ds) {
     g
 }
 
+getTimingPlot5 <- function(ds) {
+    df <- getFatalitiesByStateAndWeekdayData(ds$accidents)
+    df <- left_join(df, ds$avm, by='state')
+    df$fatalityRate <- df$fatalities/(df$avm/7) 
+    df$state <- reorder(df$state, -df$fatalityRate)
+    g <- ggplot(df, aes(x=state, y=fatalityRate, color=weekday)) + 
+        geom_point() +
+        theme_bw() + 
+        theme(legend.key = element_blank()) +
+        theme(legend.title = element_blank()) +
+        xlab('') +
+        ylab('Fatality Rate')
+    g
+}
+
+getTimingPlot6 <- function(ds) {
+    df <- ds$accidents %>% group_by(state) %>% summarize(fatalities=sum(FATALS))
+    df <- left_join(df, ds$avm, by='state')
+    df$fatalityRate <- df$fatalities/(df$avm/7) 
+    df <- left_join(df, ds$urbanPct, by='state')
+    df$state <- reorder(df$state, -df$fatalityRate)
+    g <- ggplot(df, aes(x=urbanPct, y=fatalityRate)) + 
+        geom_point() +
+        theme_bw() + 
+        theme(legend.key = element_blank()) +
+        theme(legend.title = element_blank()) +
+        xlab('') +
+        ylab('Fatality Rate')
+    g
+}
+
+
 
 shinyServer(function(input, output,session) {
 
@@ -133,13 +165,12 @@ shinyServer(function(input, output,session) {
     output$timingPlot2 <- renderPlot({getTimingPlot2(ds)})
     output$timingPlot3 <- renderPlot({getTimingPlot3(ds)})
     output$timingPlot4 <- renderPlot({getTimingPlot4(ds)})
+    output$timingPlot5 <- renderPlot({getTimingPlot5(ds)})
+    output$timingPlot6 <- renderPlot({getTimingPlot6(ds)})
     output$summaryPlot1 <- renderPlot({
         x <- input$year_slider
         getSummaryPlot1(ds,x)}
         )
-
-    
-    
 })
 
 
