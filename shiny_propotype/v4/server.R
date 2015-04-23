@@ -210,35 +210,51 @@ shinyServer(function(input, output,session) {
     output$timingPlot2 <- renderPlot({getTimingPlot2(ds)})
     output$timingPlot3 <- renderPlot({getTimingPlot3(ds)})
     output$timingPlot4 <- renderPlot({getTimingPlot4(ds)})
-<<<<<<< HEAD
+    output$timingPlot5 <- renderPlot({getTimingPlot5(ds)})
+    output$timingPlot6 <- renderPlot({getTimingPlot6(ds)})
     output$summaryPlot1 <- renderPlot({
         x <- input$year_slider
         getSummaryPlot1(ds,x)}
         )
     
-
+    # Total number of accidents
+    output$number_of_events <- renderText({dim(accidents)[1]})
+    
+    # Total number of people died - 32719
+    output$total_dead <- renderText({
+        sum(accidents$FATALS)
+    })
+    
+    # Total number of children died (%) - 583
+    output$children_died <- renderText({
+        children_died <- sum(persons$AGE < 18)
+    })
+    #     
+    # Total fatality number of bicyclists 
+    output$bicyclists_fatals <- renderText({
+        sum(persons$Person_Type_desc=='Bicyclist')
+    })
+    #     
+    
+    # Total number of fatal accidents due to drunk driving (%)
+    output$drunk_drivers_count <- renderText({
+        drunk_drivers_count <- length(persons$Case.Number[persons$Drinking=='Yes (Alcohol Involved)'])
+        drunk_drivers_count
+        #paste(drunk_drivers_count,' (',round((drunk_drivers_count/dim(accidents)[1])*100,0),'%)',sep = "")
+    })
+    
+    
+    
     ###### Dennis ggvis plot
-        
-        state_fatal <- get_states_plot_data()
-        state_fatal %>% ggvis(~fatalities, ~fatalities_rate, key:=~st,stroke=~NY) %>% layer_points() %>%
-            add_axis("x", title = "Fatalities") %>%
-            add_axis("y", title = "Fatalities rate per 1 mln cars") %>%
-            add_tooltip(state_tooltip, "hover") %>% bind_shiny("StatePlot1")
+    
+    state_fatal <<- get_states_plot_data()
+    state_fatal %>% ggvis(~fatalities, ~fatalities_rate, key:=~st,stroke=~NY) %>% layer_points() %>%
+        add_axis("x", title = "Fatalities") %>%
+        add_axis("y", title = "Fatalities rate per 1 mln cars") %>%
+        add_tooltip(state_tooltip, "hover")  %>% 
+        bind_shiny("StatePlot1")
     
     ######
-         
-    
-    
-    
-    
-=======
-    output$timingPlot5 <- renderPlot({getTimingPlot5(ds)})
-    output$timingPlot6 <- renderPlot({getTimingPlot6(ds)})
-#     output$summaryPlot1 <- renderPlot({
-#         x <- input$year_slider
-#         getSummaryPlot1(ds,x)}
-#         )
->>>>>>> bd5b04e0ef66d44175faf459c264977bc5ff676c
 })
 
 

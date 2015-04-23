@@ -13,10 +13,11 @@ source('../../util/dataloader2.R')
 
 dashboardPage(
   dashboardHeader(
-    title = "US Roads Fatality Data"),
+    title = "Vehicle Fatality"),
   dashboardSidebar(
     sidebarMenu(
-        menuItem("Overview", tabName="overview_tab", icon=icon("car")),
+        menuItem("Numbers", tabName="numbers", icon=icon("bar-chart")),
+        menuItem("Long Term Trend", tabName="overview_tab", icon=icon("line-chart")),
         menuItem("Location", tabName="map_tab", icon=icon("map-marker")),
         menuItem("Timing", tabName="timing_tab", icon=icon("calendar")),
         menuItem("Alcohol", tabName="alco_tab", icon=icon("beer")),
@@ -30,10 +31,92 @@ dashboardPage(
         )
     ),
   dashboardBody(
-
+tabItems(
+          
+      tabItem(tabName="numbers",
+              # Boxes need to be put in a row (or column)
+              
+              #         fluidRow(
+              #             box(ggvisOutput("summaryPlot1")),
+              #             
+              #             box(
+              #                 "More box content",
+              #                 sliderInput("year_slider", "Slider input:", 1917, 2014, c(1917,2014))
+              #             )
+              #         ),
+              fluidRow(column(width=6, 
+                              box(title = "Accidents (2013)", background = "black",solidHeader = TRUE,textOutput("number_of_events"),
+                                  tags$head(tags$style("#number_of_events{color: white;
+                                                       font-size: 60px;
+                                                       }"
+    )
+                                  ))
+                                  ),column(width=6,box(title = "Deaths (2013)", background = "black",solidHeader = TRUE,textOutput("total_dead"),
+                                                       tags$head(tags$style("#total_dead{color: red;
+                                                                            font-size: 60px;
+                                                                            }"
+                     )
+              ))
+                                  )),
+    
+    
+    fluidRow(column(width=6, 
+                    box(title = "Child Deaths (2013)", background = "black",solidHeader = TRUE,textOutput("children_died"),
+                        tags$head(tags$style("#children_died{color: red;
+                                             font-size: 60px;
+                                             }"
+                    )
+                        ))
+                        ),column(width=6,box(title = "Alcohol Related Deaths(2013)", background = "black",solidHeader = TRUE,textOutput("drunk_drivers_count"),
+                                             tags$head(tags$style("#drunk_drivers_count{color: white;
+                                                                  font-size: 60px;
+                                                                  }"
+                     )
+    ))
+                        )),
+    
+    
+    ##########
+    
+    fluidRow(column(width=6, 
+                    box(title = "Bicyclist Deaths (2013)", background = "black",solidHeader = TRUE,textOutput("bicyclists_fatals"),
+                        tags$head(tags$style("#bicyclists_fatals{color: white;
+                                             font-size: 60px;
+                                             }"
+                    )
+                        ))
+                        )
+             # ,column(width=6,box(title = "Total number of fatal accidents due to drunk driving", background = "black",solidHeader = TRUE,textOutput("motorist_fatals"),
+             #                      tags$head(tags$style("#motorist_fatals{color: white;
+             #                                  font-size: 60px;
+             #                                  }"
+             #                      )
+             #                      ))
+             # )
+                        )
+    
+    #         fluidRow(
+    #             column(width=12, 
+    #                    h2("General summary"),
+    #                    p("by state"),
+    #                    h3('Number of fatalities per vehicle year'),
+    #                    fluidRow(
+    #                        column(4,
+    #                               
+    #                               # Copy the line below to make a slider bar 
+    #                               sliderInput("vehicle_year_slider", label = h3("Slider"), min = 1917, 
+    #                                           max = 2014, value = c(1917,2014) ),
+    #                        column(10,plotOutput("summaryPlot1")))),
+    #                    p("by number of fatalities"),
+    #                    p("by type of vehicle"),
+    #                    p("Rollover fatalities"),
+    #                    p("Fatalities vs Restraint")
+    #             )
+    #         )
+    ),
+    
       
 ####################### 
-tabItems(
     tabItem(tabName="overview_tab",
         fluidRow(
             column(width=12),
@@ -42,7 +125,7 @@ tabItems(
             h3('Adjusted for vehicle-miles'),
             plotOutput("overviewPlot2"),
             h3('Fatalities per million population'),
-            plotOutput("overviewPlot3")
+            plotOutput("overviewPlot")
         )
     ),
       
@@ -147,8 +230,6 @@ tabItem(tabName="map_tab",
             fluidRow(
                 column(width=12, 
                        h2("Trends"),
-                       h3('Fatalities rate per 1 mln cars vs Total Fatalities per state'),
-                       ggvisOutput("StatePlot1"),
                        p("Seasonality by state"),
                        p("Average seasonality"),
                        p("Average seasonality"),
