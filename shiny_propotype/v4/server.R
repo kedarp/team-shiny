@@ -8,7 +8,7 @@ library(dplyr)
 if (FALSE) library(RSQLite)
 
 source('../../util/dataloader2.R')
-ds <- {loadFatalityDataset(2013, '../../')}
+ds <<- {loadFatalityDataset(2013, '../../')}
 
 # ds <- loadFatalityDataset(2013, '../../')
 # person <- ds$persons
@@ -99,6 +99,8 @@ getSummaryPlot1 <- function(ds,vehicle_year_slider) {
     a <- ds$vehicles
     df <- a %>% group_by(MOD_YEAR) %>% summarize(fatalities=sum(DEATHS))
     df <- df[df$MOD_YEAR<2015 & df$MOD_YEAR<max_year & df$MOD_YEAR>min_year,]
+    
+    
     g <- ggplot(df, aes(x=MOD_YEAR, y=fatalities)) + 
         geom_bar(stat='identity') +
         theme_bw() + 
@@ -109,21 +111,32 @@ getSummaryPlot1 <- function(ds,vehicle_year_slider) {
     g
 }
 
+# Function for generating tooltip text
+state_tooltip <- function(x) {
+    if (is.null(x)) return('Null object')
+    if (is.null(x$st)) return(print(state_fatal))
+    
+    # Pick out the state with this name
+    paste0("<b>", x$st, "</b><br>",
+           "Number of fatalities:", x$fatalities, "<br>",
+           "Fatalities rate per 1 mln cars:", format(x$fatalities_rate, digits = 0),"<br>",
+           "Totan number of cars:", format(state_fatal$Automobiles[state_fatal$st==x$st], big.mark = ',')
+    )
+}
 
-get_states_plot <- function(ds) {
+
+get_states_plot_data <- function() {
     a <- ds$accidents
     states_pop <- ds$states_pop
     df <- a %>% group_by(State.Name) %>% summarize(fatalities=sum(FATALS))
-    df$vehicle_registration <- states_pop[which(states_pop$State==toupper(df$State.Name)),2]
-    #df <- df[,]
-    g <- ggplot(df, aes(x=MOD_YEAR, y=fatalities)) + 
-        geom_bar(stat='identity') +
-        theme_bw() + 
-        theme(legend.key = element_blank()) +
-        theme(legend.title = element_blank()) +
-        xlab('') +
-        ylab('Fatalities')
-    g
+    df$st <- toupper(df$State.Name)
+    states_pop$st <- toupper(states_pop$State)
+    state_fatal <- merge(df,states_pop,by='st')
+    state_fatal$Automobiles <- as.numeric(gsub(",","", state_fatal$Automobiles))
+    state_fatal$fatalities_rate <- state_fatal$fatalities/state_fatal$Automobiles*1000000
+    state_fatal <- state_fatal[order(state_fatal$fatalities_rate),]
+    state_fatal$NY <- 1*(state_fatal$st=="NEW YORK")+0
+    return(state_fatal)
 }
 
 
@@ -137,7 +150,20 @@ shinyServer(function(input, output,session) {
         x <- input$year_slider
         getSummaryPlot1(ds,x)}
         )
+    
 
+    ###### Dennis ggvis plot
+        
+        state_fatal <- get_states_plot_data()
+        state_fatal %>% ggvis(~fatalities, ~fatalities_rate, key:=~st,stroke=~NY) %>% layer_points() %>%
+            add_axis("x", title = "Fatalities") %>%
+            add_axis("y", title = "Fatalities rate per 1 mln cars") %>%
+            add_tooltip(state_tooltip, "hover") %>% bind_shiny("StatePlot1")
+    
+    ######
+         
+    
+    
     
     
 })

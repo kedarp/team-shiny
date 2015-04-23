@@ -163,6 +163,8 @@ tabItem(tabName="map_tab",
             fluidRow(
                 column(width=12, 
                        h2("Trends"),
+                       h3('Fatalities rate per 1 mln cars vs Total Fatalities per state'),
+                       ggvisOutput("StatePlot1"),
                        p("Seasonality by state"),
                        p("Average seasonality"),
                        p("Average seasonality"),
