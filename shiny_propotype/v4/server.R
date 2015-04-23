@@ -10,14 +10,44 @@ if (FALSE) library(RSQLite)
 source('../../util/dataloader2.R')
 ds <- {loadFatalityDataset(2013, '../../')}
 
-# ds <- loadFatalityDataset(2013, '../../')
-# person <- ds$persons
-# vehicles <- ds$vehicles
-# states <- ds$states
-# urbanPct <- ds$urbanPct
-# avm <- ds$avm
+getOverviewPlot1 <- function(ds) {
+    df <- ds$trend
+    g <- ggplot(df, aes(x=year, y=fatalities)) + 
+        geom_point() +
+        geom_line() +
+        theme_bw() + 
+        theme(legend.key = element_blank()) +
+        theme(legend.title = element_blank()) +
+        xlab('Year') +
+        ylab('Fatalities')
+    g
+}
 
+getOverviewPlot2 <- function(ds) {
+    df <- ds$trend
+    g <- ggplot(df, aes(x=year, y=f100Mvmt)) + 
+        geom_point() +
+        geom_line() +
+        theme_bw() + 
+        theme(legend.key = element_blank()) +
+        theme(legend.title = element_blank()) +
+        xlab('Year') +
+        ylab('Fatalities Per 100M Vehicle Miles')
+    g
+}
 
+getOverviewPlot3 <- function(ds) {
+    df <- ds$trend
+    g <- ggplot(df, aes(x=year, y=f100Kpop*10)) + 
+        geom_point() +
+        geom_line() +
+        theme_bw() + 
+        theme(legend.key = element_blank()) +
+        theme(legend.title = element_blank()) +
+        xlab('Year') +
+        ylab('Fatalities Per Million people')
+    g
+}
 
 getFatalitiesByWekdayData <- function(accidents) {
     df <- accidents %>% group_by(date) %>% summarize(fatalities=sum(FATALS))
@@ -160,17 +190,19 @@ getTimingPlot6 <- function(ds) {
 
 
 shinyServer(function(input, output,session) {
-
+    output$overviewPlot1 <- renderPlot({getOverviewPlot1(ds)})    
+    output$overviewPlot2 <- renderPlot({getOverviewPlot2(ds)})    
+    output$overviewPlot3 <- renderPlot({getOverviewPlot3(ds)})    
     output$timingPlot1 <- renderPlot({getTimingPlot1(ds)})
     output$timingPlot2 <- renderPlot({getTimingPlot2(ds)})
     output$timingPlot3 <- renderPlot({getTimingPlot3(ds)})
     output$timingPlot4 <- renderPlot({getTimingPlot4(ds)})
     output$timingPlot5 <- renderPlot({getTimingPlot5(ds)})
     output$timingPlot6 <- renderPlot({getTimingPlot6(ds)})
-    output$summaryPlot1 <- renderPlot({
-        x <- input$year_slider
-        getSummaryPlot1(ds,x)}
-        )
+#     output$summaryPlot1 <- renderPlot({
+#         x <- input$year_slider
+#         getSummaryPlot1(ds,x)}
+#         )
 })
 
 
