@@ -125,7 +125,7 @@ tabItems(
             h3('Adjusted for vehicle-miles'),
             plotOutput("overviewPlot2"),
             h3('Fatalities per million population'),
-            plotOutput("overviewPlot")
+            plotOutput("overviewPlot3")
         )
     ),
       
