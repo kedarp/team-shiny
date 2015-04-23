@@ -10,6 +10,13 @@ if (FALSE) library(RSQLite)
 source('../../util/dataloader2.R')
 ds <<- {loadFatalityDataset(2013, '../../')}
 
+#dennis code for global variables
+accidents <<- ds$accidents
+persons <<- ds$persons
+children <<- persons[persons$AGE<18 & persons$Death!='Not Applicable',]
+states_pop <<- ds$states_pop
+
+
 getOverviewPlot1 <- function(ds) {
     df <- ds$trend
     g <- ggplot(df, aes(x=year, y=fatalities)) + 

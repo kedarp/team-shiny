@@ -22,7 +22,7 @@ dashboardPage(
         menuItem("Alcohol", tabName="alco_tab", icon=icon("beer")),
         menuItem("Children", tabName="children_tab", icon=icon("child")),
         menuItem("Bikes", tabName="bike_tab", icon=icon("bicycle")),
-        menuItem("Motorcycles", tabName="moto_tab", icon=icon("bolt")),
+#        menuItem("Motorcycles", tabName="moto_tab", icon=icon("bolt")),
         menuItem("Trends", tabName="trends_tab", icon=icon("line-chart")),
 #        menuItem("Data Explorer", tabName="data_explorer", icon=icon("line-chart")),
         menuItem("Largest crashes", tabName="largest_tab", icon=icon("users"))
@@ -168,10 +168,11 @@ tabItem(tabName="map_tab",
           # Boxes need to be put in a row (or column)
           fluidRow(
               column(width=12, 
-                     h2("Children"),
-                     p("% by state"),
-                     p("% by drunk drivers"),
-                     p("% by city/intercity road"),
+                     h2("Children fatalities"),
+                     h3('Children fatalities per 1 mln people in each state'),
+                     ggvisOutput("Children_fatalities_plot"),
+                     h3('Children fatalities vs drunk drivers'),
+                     ggvisOutput("Children_drunk_drivers_plot"),
                      p(""),
                      p(""))
           )
@@ -215,6 +216,7 @@ tabItem(tabName="map_tab",
                        h2("Trends"),
                        h3('Fatalities rate per 1 mln cars vs Total Fatalities per state'),
                        ggvisOutput("StatePlot1"),
+                       
                        p("Seasonality by state"),
                        p("Average seasonality"),
                        p("Average seasonality"),
