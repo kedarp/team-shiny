@@ -20,11 +20,12 @@ dashboardPage(
         menuItem("Long Term Trend", tabName="overview_tab", icon=icon("line-chart")),
         menuItem("Location", tabName="map_tab", icon=icon("map-marker")),
         menuItem("Timing", tabName="timing_tab", icon=icon("calendar")),
-        menuItem("Alcohol", tabName="alco_tab", icon=icon("beer")),
+        #menuItem("Alcohol", tabName="alco_tab", icon=icon("beer")),
+        menuItem("Seatbelts", tabName="seatbelts", icon=icon("life-ring")),
         menuItem("Children", tabName="children_tab", icon=icon("child")),
-        menuItem("Bikes", tabName="bike_tab", icon=icon("bicycle")),
-        menuItem("Motorcycles", tabName="moto_tab", icon=icon("bolt")),
-        menuItem("Trends", tabName="trends_tab", icon=icon("line-chart")),
+        #menuItem("Bikes", tabName="bike_tab", icon=icon("bicycle")),
+        #menuItem("Motorcycles", tabName="moto_tab", icon=icon("bolt")),
+        #menuItem("Trends", tabName="trends_tab", icon=icon("line-chart")),
 #        menuItem("Data Explorer", tabName="data_explorer", icon=icon("line-chart")),
         menuItem("Largest crashes", tabName="largest_tab", icon=icon("users"))
 
@@ -45,7 +46,7 @@ tabItems(
               #             )
               #         ),
               fluidRow(column(width=6, 
-                              box(title = "Accidents (2013)", background = "black",solidHeader = TRUE,textOutput("number_of_events"),
+                              box(title = "Accidents with fatalities (2013)", background = "black",solidHeader = TRUE,textOutput("number_of_events"),
                                   tags$head(tags$style("#number_of_events{color: white;
                                                        font-size: 60px;
                                                        }"
@@ -118,7 +119,7 @@ tabItems(
       
 ####################### 
     tabItem(tabName="overview_tab",
-        fluidRow(
+        fluidRow(column(width=2),
             column(width=12),
             h2('US Motor Vehicle Fatalities 1899-2012'),
             plotOutput("overviewPlot1"),
@@ -126,7 +127,7 @@ tabItems(
             plotOutput("overviewPlot2"),
             h3('Fatalities per million population'),
             plotOutput("overviewPlot3")
-        )
+        ), column(width=2)
     ),
       
 ####################### 
@@ -142,6 +143,22 @@ tabItem(tabName="map_tab",
         )
 ),
 
+
+####################### 
+tabItem(tabName="seatbelts",
+        # Boxes need to be put in a row (or column)
+        fluidRow(
+            column(width=12, align="center",
+                   h2("Seatbelts saves lifes", width = 800),  p(""),
+                   img(src='/images/Driver_Fatality.png', width = 800),  p(""),
+                   img(src='/images/Driver_Gender.png', width = 800),  p(""),
+                   img(src='/images/Driver_Seatbelt_Fatality.png', width = 800),  p(""),
+                   img(src='/images/Seatbelt_Fatality.png', width = 800),  p(""),
+                   img(src='/images/test_plot1.png', width = 800),  p(""),
+                   p(""),
+                   p(""))
+        )
+),
 
 ####################### 
     tabItem(tabName="timing_tab",
@@ -181,18 +198,22 @@ tabItem(tabName="map_tab",
 
 
 ####################### 
-  tabItem(tabName="children_tab",
-          # Boxes need to be put in a row (or column)
-          fluidRow(
-              column(width=12, 
-                     h2("Children"),
-                     p("% by state"),
-                     p("% by drunk drivers"),
-                     p("% by city/intercity road"),
-                     p(""),
-                     p(""))
-          )
-  ),
+####################### 
+tabItem(tabName="children_tab",
+        # Boxes need to be put in a row (or column)
+        fluidRow(
+            column(width=12, 
+                   h2("Children fatalities"),
+                   h3('Children fatalities per 1 mln people in each state'),
+                   ggvisOutput("Children_fatalities_plot")#,
+                   #h3('Children fatalities vs drunk drivers'),
+                   #ggvisOutput("Children_drunk_drivers_plot"),
+                   #p(""),
+                   #p("")
+                   )
+        )
+),
+
   
                   
 ####################### 
